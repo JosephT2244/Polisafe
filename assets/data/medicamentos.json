@@ -1,0 +1,1852 @@
+
+{
+  "medicamentos": [
+    {
+      "categoria": "Fármacos",
+      "grupo": "Antihipertensivos",
+      "nombre": "Losartán",
+      "mecanismo_accion": "Antagonista oral sintético del receptor de la angiotensina II (tipo AT1). Bloquea selectivamente el receptor AT1, lo que provoca una reducción de los efectos de la angiotensina II.",
+      "nombre_imagenes": "losartan_mecanismo.jpg",
+      "indicaciones_terapeuticas": [
+        "Tratamiento de la hipertensión arterial esencial en adultos.",
+        "Tratamiento en niños de 6 a 18 años.",
+        "Manejo de enfermedad renal crónica.",
+        "Patología renal en pacientes con hipertensión y diabetes tipo 2.",
+        "Tratamiento de insuficiencia cardiaca crónica.",
+        "Uso en pacientes mayores de 60 años.",
+        "Alternativa por intolerancia a inhibidores de la ECA (como tos).",
+        "Prevención de accidentes cerebrovasculares (Ictus).",
+        "Reducción del riesgo de ACV en pacientes hipertensos.",
+        "Pacientes con hipertrofia ventricular izquierda confirmada por ECG."
+      ],
+      "indicaciones_imagen": "losartan_indicaciones.jpg",
+      "reacciones_adversas": [
+        "Parestesia.",
+        "Síncope.",
+        "Fibrilación atrial.",
+        "Accidente cerebrovascular.",
+        "Reacciones de hipersensibilidad graves.",
+        "Reacciones anafilácticas.",
+        "Angioedema que afecta la laringe y glotis.",
+        "Angioedema en cara, labios y lengua.",
+        "Vasculitis.",
+        "Púrpura de Schoenlein Henoch.",
+        "Angioedema intestinal.",
+        "Hepatitis.",
+        "Elevaciones de la enzima hepática ALT."
+      ],
+      "reacciones_imagenes": ["losartan_reacciones1.jpg"],
+      "contraindicaciones": [
+        "Hipersensibilidad al principio activo.",
+        "Hipersensibilidad a los excipientes.",
+        "Segundo y tercer trimestre de embarazo.",
+        "Insuficiencia hepática grave.",
+        "Uso concomitante con aliskiren en pacientes con diabetes.",
+        "Uso con aliskiren en insuficiencia renal (TFG < 60 ml/min/1,73 m2)."
+      ],
+      "contra_imagenes": ["losartan_contra1.jpg"]
+    },
+    {
+      "categoria": "Fármacos",
+      "grupo": "Antihipertensivos",
+      "nombre": "Telmisartán",
+      "mecanismo_accion": "Antagonista específico de receptores angiotensina II (AT1), eficaz vía oral, con afinidad muy elevada.",
+      "nombre_imagenes": "telmisartan_mecanismo.jpg",
+      "indicaciones_terapeuticas": [
+        "Tratamiento de la hipertensión esencial en adultos.",
+        "Prevención cardiovascular en adultos.",
+        "Reducción de la morbilidad cardiovascular.",
+        "Enfermedad cardiovascular aterotrombótica manifiesta.",
+        "Antecedentes de enfermedad coronaria.",
+        "Antecedentes de ictus.",
+        "Enfermedad arterial periférica.",
+        "Diabetes mellitus tipo 2 con lesión de órganos diana documentada."
+      ],
+      "indicaciones_imagen": "telmisartan_indicaciones.jpg",
+      "reacciones_adversas": [
+        "Sepsis (incluso mortal).",
+        "Eosinofilia.",
+        "Trombocitopenia.",
+        "Reacción anafiláctica.",
+        "Hipersensibilidad.",
+        "Hipoglucemia (en pacientes diabéticos).",
+        "Hiponatremia.",
+        "Ansiedad.",
+        "Somnolencia.",
+        "Deficiencia visual.",
+        "Taquicardia.",
+        "Sequedad de boca.",
+        "Malestar abdominal.",
+        "Disgeusia.",
+        "Función hepática anormal.",
+        "Angioedema (incluso mortal).",
+        "Eccema y eritema.",
+        "Urticaria.",
+        "Dermatosis medicamentosa y tóxica.",
+        "Artralgia.",
+        "Dolor en las extremidades.",
+        "Tendinitis (dolor en los tendones).",
+        "Enfermedad pseudogripal.",
+        "Disminución de la hemoglobina.",
+        "Aumento de ácido úrico.",
+        "Aumento de enzimas hepáticas.",
+        "Aumento de creatina fosfocinasa."
+      ],
+      "reacciones_imagenes": ["telmisartan_reacciones1.jpg", "telmisartan_reacciones2.jpg"],
+      "contraindicaciones": [
+        "Hipersensibilidad a telmisartán.",
+        "Segundo trimestre de embarazo.",
+        "Tercer trimestre de embarazo.",
+        "Trastornos obstructivos biliares.",
+        "Insuficiencia hepática grave.",
+        "Uso concomitante con aliskireno en insuficiencia renal moderada-grave.",
+        "Uso con aliskireno en pacientes con diabetes."
+      ],
+      "contra_imagenes": ["telmisartan_contra1.jpg"]
+    },
+    {
+      "categoria": "Fármacos",
+      "grupo": "Antihipertensivos",
+      "nombre": "Amlodipino",
+      "mecanismo_accion": "Antagonista del Ca que inhibe el flujo de entrada de iones Ca al interior del músculo liso vascular y cardiaco.",
+      "nombre_imagenes": "amlodipino_mecanismo.jpg",
+      "indicaciones_terapeuticas": [
+        "Tratamiento inicial de primera elección para hipertensión arterial.",
+        "Monoterapia para la presión arterial.",
+        "Prevención cardiovascular.",
+        "Reducción de riesgo de enfermedad coronaria fatal.",
+        "Infarto al miocardio no fatal.",
+        "Enfermedad vascular cerebral (embolias).",
+        "Tratamiento de enfermedad arterial coronaria.",
+        "Reducción de hospitalizaciones por angina.",
+        "Reducción de riesgo de revascularización coronaria.",
+        "Angina estable crónica (isquemia por obstrucción fija).",
+        "Angina variante de Prinzmetal (vasospasmo)."
+      ],
+      "indicaciones_imagen": "amlodipino_indicaciones.jpg",
+      "reacciones_adversas": [
+        "Reacciones alérgicas.",
+        "Prurito (picazón).",
+        "Rash (erupción).",
+        "Angioedema.",
+        "Eritema multiforme."
+      ],
+      "reacciones_imagenes": ["amlodipino_reacciones1.jpg"],
+      "contraindicaciones": [
+        "Hipersensibilidad a amlodipino.",
+        "Hipersensibilidad a dihidropiridinas.",
+        "Hipotensión grave.",
+        "Shock (incluyendo shock cardiogénico).",
+        "Insuficiencia cardiaca tras un IAM (primeros 28 días).",
+        "Obstrucción del conducto arterial del ventrículo izquierdo.",
+        "Estenosis aórtica grave.",
+        "Insuficiencia cardiaca hemodinámicamente inestable tras infarto."
+      ],
+      "contra_imagenes": ["amlodipino_contra1.jpg"]
+    },
+    {
+      "categoria": "Fármacos",
+      "grupo": "Antihipertensivos",
+      "nombre": "Metoprolol",
+      "mecanismo_accion": "Cardioselectivo que actúa sobre receptores ß1 del corazón. Sin efecto estabilizador de membrana, ni actividad simpaticomimética intrínseca.",
+      "nombre_imagenes": "metoprolol_mecanismo.jpg",
+      "indicaciones_terapeuticas": [
+        "Hipertensión arterial (vía oral).",
+        "Angina de pecho.",
+        "Arritmias cardiacas.",
+        "Taquicardia supraventricular.",
+        "Tratamiento de mantenimiento después del infarto de miocardio.",
+        "Profilaxis de la migraña.",
+        "Trastornos cardiacos funcionales con palpitaciones (Retard).",
+        "Hipertiroidismo (Forma no retard).",
+        "Arritmias e infarto sospechado (Vía IV)."
+      ],
+      "indicaciones_imagen": "metoprolol_indicaciones.jpg",
+      "reacciones_adversas": [
+        "Confusión mental.",
+        "Cefalea.",
+        "Insomnio.",
+        "Somnolencia.",
+        "Disnea.",
+        "Bradicardia.",
+        "Palpitaciones.",
+        "Insuficiencia cardiaca congestiva.",
+        "Insuficiencia arterial periférica.",
+        "Edema periférico.",
+        "Síncope.",
+        "Dolor torácico.",
+        "Hipotensión.",
+        "Broncospasmo.",
+        "Prurito.",
+        "Erupciones.",
+        "Agravamiento de la psoriasis."
+      ],
+      "reacciones_imagenes": ["metoprolol_reacciones1.jpg", "metoprolol_reacciones2.jpg"],
+      "contraindicaciones": [
+        "Hipersensibilidad a metoprolol o betabloqueantes.",
+        "Bloqueo auriculoventricular de 2º y 3er grado.",
+        "Insuficiencia cardiaca descompensada.",
+        "Edema pulmonar o hipoperfusión.",
+        "Tratamiento inotrópico continuo o intermitente.",
+        "Bradicardia sinusal.",
+        "Síndrome del seno enfermo.",
+        "Shock cardiogénico.",
+        "Trastorno circulatorio arterial periférico grave.",
+        "Infarto con ritmo cardiaco < 45 ppm.",
+        "Intervalo P-Q > 0,24 seg.",
+        "Presión sistólica < 100 mm Hg."
+      ],
+      "contra_imagenes": ["metoprolol_contra1.jpg", "metoprolol_contra2.jpg"]
+    },
+    {
+      "categoria": "Fármacos",
+      "grupo": "Antihipertensivos",
+      "nombre": "Captopril",
+      "mecanismo_accion": "Inhibidor competitivo, altamente selectivo del ECA da lugar a concentraciones reducidas de angiotensina II, que conduce a disminución de la actividad vasopresora y secreción reducida de aldosterona.",
+      "nombre_imagenes": "captopril_mecanismo.jpg",
+      "indicaciones_terapeuticas": [
+        "Hipertensión arterial.",
+        "Insuficiencia cardíaca congestiva.",
+        "Infarto de miocardio (después de 72 horas de estabilidad).",
+        "Pacientes con fracción de eyección disminuida.",
+        "Nefropatía diabética en pacientes insulinodependientes.",
+        "Tratamiento en pacientes tanto normotensos como hipertensos."
+      ],
+      "indicaciones_imagen": "captopril_indicaciones.jpg",
+      "reacciones_adversas": [
+        "Angioedema (hinchazón de cara, labios, lengua o garganta).",
+        "Dificultad para tragar o respirar.",
+        "Problemas renales.",
+        "Insuficiencia renal.",
+        "Niveles altos de potasio (hiperpotasemia).",
+        "Debilidad muscular.",
+        "Latidos irregulares.",
+        "Infecciones frecuentes (fiebre o dolor de garganta).",
+        "Disminución de glóbulos blancos.",
+        "Problemas hepáticos (dolor abdominal e ictericia).",
+        "Orina oscura."
+      ],
+      "reacciones_imagenes": ["captopril_reacciones1.jpg"],
+      "contraindicaciones": [
+        "Hipersensibilidad a captopril o a otro IECA.",
+        "Antecedentes de angioedema asociado a IECA previos.",
+        "Edema angioneurótico hereditario o idiopático.",
+        "Segundo y tercer trimestre del embarazo.",
+        "Uso concomitante con aliskireno en diabetes o insuficiencia renal."
+      ],
+      "contra_imagenes": ["captopril_contra1.jpg"]
+    },
+    {
+      "categoria": "Fármacos",
+      "grupo": "Antihipertensivos",
+      "nombre": "Hidroclorotiazida",
+      "mecanismo_accion": "Inhibe el sistema de transporte Na+ Cl- en el túbulo distal renal, disminuyendo la reabsorción de Na+ y aumentando su excreción.",
+      "nombre_imagenes": "hidroclorotiazida_mecanismo.jpg",
+      "indicaciones_terapeuticas": [
+        "Hipertensión arterial (monoterapia o combinación).",
+        "Edema de origen específico.",
+        "Insuficiencia cardiaca crónica leve a moderada (NYHA II y III).",
+        "Edema debido a insuficiencia renal.",
+        "Ascitis debida a cirrosis hepática.",
+        "Prevención de cálculos de oxalato cálcico recurrentes.",
+        "Hipercalciuria idiopática normocalcémica.",
+        "Diabetes nefrogénica insípida."
+      ],
+      "indicaciones_imagen": "hidroclorotiazida_indicaciones.jpg",
+      "reacciones_adversas": [
+        "Trombocitopenia (a veces con púrpura).",
+        "Hipercalcemia.",
+        "Hiperglucemia y glucosuria.",
+        "Empeoramiento del estado diabético metabólico.",
+        "Cefalea y mareo.",
+        "Trastornos del sueño.",
+        "Depresión.",
+        "Parestesia.",
+        "Insuficiencia visual.",
+        "Reacción de fotosensibilidad.",
+        "Malestar abdominal y estreñimiento.",
+        "Diarrea.",
+        "Colestasis o ictericia.",
+        "Arritmias."
+      ],
+      "reacciones_imagenes": ["hidroclorotiazida_reacciones1.jpg", "hidroclorotiazida_reacciones2.jpg"],
+      "contraindicaciones": [
+        "Hipersensibilidad a hidroclorotiazida o tiazidas.",
+        "Anuria.",
+        "Depleción electrolítica.",
+        "Diabetes descompensada.",
+        "Enfermedad de Addison.",
+        "Embarazo y lactancia."
+      ],
+      "contra_imagenes": ["hidroclorotiazida_contra1.jpg"]
+    },
+    {
+      "categoria": "Fármacos",
+      "grupo": "Antihipertensivos",
+      "nombre": "Nifedipino",
+      "mecanismo_accion": "Inhibe el flujo de iones Ca al tejido miocárdico y muscular liso de arterias coronarias y vasos periféricos.",
+      "nombre_imagenes": "nifedipino_mecanismo.jpg",
+      "indicaciones_terapeuticas": [
+        "Angina vasospástica (con elevación del segmento ST).",
+        "Espasmo arterial coronario confirmado.",
+        "Angina provocada por ergonovina.",
+        "Angina estable crónica.",
+        "Aumento de la tolerancia al ejercicio.",
+        "Hipertensión arterial (solo o en combinación)."
+      ],
+      "indicaciones_imagen": "nifedipino_indicaciones.jpg",
+      "reacciones_adversas": [
+        "Edema facial.",
+        "Fiebre.",
+        "Edema periorbitario.",
+        "Arritmias e hipotensión.",
+        "Aumento en la presentación de angina.",
+        "Taquicardia y síncope.",
+        "Ansiedad y ataxia.",
+        "Disminución de la libido.",
+        "Depresión e hipertonía.",
+        "Hipoestesia y migraña.",
+        "Paranoia y vértigo.",
+        "Alopecia.",
+        "Aumento en la sudoración.",
+        "Urticaria y púrpura.",
+        "Reflujo gastroesofágico y vómito.",
+        "Melena.",
+        "Aumento de peso.",
+        "Dolor de espalda y mialgias.",
+        "Lagrimeo anormal y visión anormal.",
+        "Tinnitus."
+      ],
+      "reacciones_imagenes": ["nifedipino_reacciones1.jpg", "nifedipino_reacciones2.jpg"],
+      "contraindicaciones": [
+        "Hipersensibilidad a nifedipino.",
+        "Shock cardiovascular.",
+        "Concomitancia con rifampicina.",
+        "Ileostomía tras proctolectomía (forma OROS).",
+        "Angina inestable.",
+        "Infarto de miocardio sufrido en las últimas 4 semanas."
+      ],
+      "contra_imagenes": ["nifedipino_contra1.jpg"]
+    },
+    {
+      "categoria": "Fármacos",
+      "grupo": "Antihipertensivos",
+      "nombre": "Hidralazina",
+      "mecanismo_accion": "Vasodilatador periférico de acción directa que actúa principalmente sobre las arterias causando una relajación directa del músculo liso arteriolar. Además altera el metabolismo del calcio, interfiriendo con los movimientos del mismo.",
+      "nombre_imagenes": "hidralazina_mecanismo.jpg",
+      "indicaciones_terapeuticas": [
+        "Hipertensión (medicación complementaria).",
+        "Uso junto con betabloqueadores y diuréticos.",
+        "Insuficiencia cardiaca congestiva crónica.",
+        "Pacientes que no responden a digital o inotrópicos.",
+        "Cardiomiopatía congestiva por hipertensión o isquemia.",
+        "Sobrecarga de volumen (lesiones valvulares o defectos del tabique).",
+        "Preeclampsia o eclampsia."
+      ],
+      "indicaciones_imagen": "hidralazina_indicaciones.jpg",
+      "reacciones_adversas": [
+        "Edema.",
+        "Insuficiencia cardiaca.",
+        "Desvanecimientos.",
+        "Eritemas.",
+        "Proteinuria.",
+        "Aumento de la creatinina plasmática.",
+        "Hematuria (con glomerulonefritis).",
+        "Ictericia y hepatomegalia.",
+        "Función hepática anormal (con hepatitis).",
+        "Agitación y ansiedad.",
+        "Anorexia.",
+        "Aumento de la lacrimación y conjuntivitis.",
+        "Obstrucción nasal.",
+        "Prurito y urticaria.",
+        "Vasculitis y eosinofilia.",
+        "Disnea y dolor pleural.",
+        "Fiebre.",
+        "Pérdida de peso y malestar."
+      ],
+      "reacciones_imagenes": ["hidralazina_reacciones1.jpg", "hidralazina_reacciones2.jpg"],
+      "contraindicaciones": [
+        "Hipersensibilidad a hidralazina o dihidralazina.",
+        "Lupus eritematoso sistémico (LES) idiopático.",
+        "Taquicardia grave.",
+        "Insuficiencia cardiaca con volumen-minuto elevado (tirotoxicosis).",
+        "Obstrucción mecánica (estenosis aórtica o mitral).",
+        "Pericarditis constrictiva.",
+        "Cor pulmonale (insuficiencia derecha por hipertensión pulmonar)."
+      ],
+      "contra_imagenes": ["hidralazina_contra1.jpg"]
+    },
+    {
+      "categoria": "Fármacos",
+      "grupo": "Antihipertensivos",
+      "nombre": "Prazosina",
+      "mecanismo_accion": "Disminuye la resistencia vascular periférica. La acción antihipertensiva de la prazosina, a diferencia de los antagonistas de los receptores alfa-adrenérgicos no selectivos, normalmente no se acompaña de taquicardia compensadora refleja.",
+      "nombre_imagenes": "prazosina_mecanismo.jpg",
+      "indicaciones_terapeuticas": [
+        "Hipertensión esencial (primaria y secundaria).",
+        "Insuficiencia ventricular izquierda (refractaria a diuréticos).",
+        "Hiperplasia prostática benigna (sintomático).",
+        "Apoyo en pacientes que esperan cirugía de próstata.",
+        "Fenómeno y enfermedad de Raynaud."
+      ],
+      "indicaciones_imagen": "prazosina_indicaciones.jpg",
+      "reacciones_adversas": [
+        "Diaforesis (sudoración).",
+        "Sequedad de boca.",
+        "Ruborización.",
+        "Priapismo.",
+        "Reacciones alérgicas.",
+        "Fiebre y malestar.",
+        "Dolor y angina pectoris.",
+        "Edema e hipotensión.",
+        "Hipotensión ortostática y síncope.",
+        "Parestesia y vértigo.",
+        "Títulos positivos de AAN (colágeno).",
+        "Ginecomastia.",
+        "Dolor abdominal y vómito.",
+        "Constipación y diarrea.",
+        "Pancreatitis.",
+        "Tinnitus.",
+        "Bradicardia y taquicardia.",
+        "Anormalidades de la función hepática.",
+        "Artralgia.",
+        "Depresión y alucinaciones.",
+        "Impotencia e insomnio.",
+        "Nerviosismo.",
+        "Disnea y epistaxis.",
+        "Congestión nasal.",
+        "Alopecia y prurito.",
+        "Rash y liquen plano.",
+        "Urticaria e incontinencia.",
+        "Frecuencia urinaria y vasculitis.",
+        "Visión borrosa y dolor de ojo.",
+        "Agravamiento de narcolepsia."
+      ],
+      "reacciones_imagenes": ["prazosina_reacciones1.jpg", "prazosina_reacciones2.jpg"],
+      "contraindicaciones": [
+        "Disminución de fertilidad (observado en dosis extremas).",
+        "Embarazo (evaluar beneficio/riesgo).",
+        "Lactancia (se excreta en leche materna)."
+      ],
+      "contra_imagenes": ["prazosina_contra1.jpg"]
+    },
+    {
+      "categoria": "Fármacos",
+      "grupo": "Antidiabéticos",
+      "nombre": "Metformina",
+      "mecanismo_accion": "La metformina actúa reduciendo la producción de glucosa en el hígado y mejorando la sensibilidad de los tejidos para aprovecharla mejor. En el intestino, disminuye la absorción de azúcar de los alimentos, aumenta la liberación de GLP-1 y modifica la flora intestinal. Además, ayuda a mejorar los niveles de grasa en la sangre y destaca por no provocar hipoglucemia, ya que no estimula la producción de insulina.",
+      "nombre_imagenes": "metformina_mecanismo.jpg",
+      "indicaciones_terapeuticas": [
+        "Diabetes mellitus tipo II (no insulinodependiente).",
+        "Casos leves o moderados.",
+        "Pacientes obesos.",
+        "Pacientes con tendencia al sobrepeso."
+      ],
+      "indicaciones_imagen": "metformina_indicaciones.jpg",
+      "reacciones_adversas": [
+        "Náuseas.",
+        "Vómitos.",
+        "Anorexia (baja de peso).",
+        "Alteraciones del gusto.",
+        "Disminución de la absorción de vitamina B12.",
+        "Acidosis láctica."
+      ],
+      "reacciones_imagenes": ["metformina_reacciones1.jpg"],
+      "contraindicaciones": [
+        "Hipersensibilidad a metformina.",
+        "Diabetes gestacional y tipo I.",
+        "Insuficiencia renal y hepática.",
+        "Insuficiencia cardíaca.",
+        "Desnutrición severa y alcoholismo crónico.",
+        "Cetoacidosis diabética.",
+        "Deficiencia de vitamina B12, hierro y ácido fólico.",
+        "Embarazo y lactancia.",
+        "Infecciones graves, traumas y deshidratación."
+      ],
+      "contra_imagenes": ["metformina_contra1.jpg"]
+    },
+    {
+      "categoria": "Fármacos",
+      "grupo": "Antidiabéticos",
+      "nombre": "Glibenclamida",
+      "mecanismo_accion": "Estimula la secreción de insulina por las células ß del páncreas. Reduce la producción hepática de glucosa y aumenta la sensibilidad a la insulina en los tejidos periféricos.",
+      "nombre_imagenes": "glibenclamida_mecanismo.jpg",
+      "indicaciones_terapeuticas": [
+        "Diabetes mellitus tipo 2 (no insulinodependiente).",
+        "Cuando dieta, ejercicio y reducción de peso no son suficientes."
+      ],
+      "reacciones_adversas": [
+        "Hipoglucemia (frecuente).",
+        "Náuseas y pirosis (acidez).",
+        "Sensación de plenitud gástrica.",
+        "Trombocitopenia y leucopenia.",
+        "Agranulocitosis.",
+        "Anemia hemolítica.",
+        "Ictericia colestásica.",
+        "Reacciones de fotosensibilidad."
+      ],
+      "reacciones_imagenes": ["glibenclamida_reacciones1.jpg", "glibenclamida_reacciones2.jpg"],
+      "contraindicaciones": [
+        "Diabetes tipo 1.",
+        "Cetoacidosis diabética.",
+        "Precoma y coma diabético.",
+        "Insuficiencia renal o hepática grave.",
+        "Hipersensibilidad a sulfonilureas.",
+        "Embarazo y lactancia."
+      ]
+    },
+    {
+      "categoria": "Fármacos",
+      "grupo": "Antidiabéticos",
+      "nombre": "Insulina Humana (NPH y Rápida)",
+      "mecanismo_accion": "Activa receptores específicos para facilitar la entrada de glucosa en células musculares y adiposas. Inhibe la producción de glucosa en el hígado. La Rápida actúa de forma inmediata y la NPH (isofánica) tiene una absorción retardada por la adición de protamina.",
+      "nombre_imagenes": "insulina_mecanismo.jpg",
+      "indicaciones_terapeuticas": [
+        "Tratamiento de diabetes mellitus que requiere insulina.",
+        "Emergencias como cetoacidosis (Insulina Rápida).",
+        "Control basal (Insulina NPH)."
+      ],
+      "reacciones_adversas": [
+        "Hipoglucemia (muy frecuente).",
+        "Lipodistrofia en el sitio de inyección.",
+        "Reacciones de hipersensibilidad (edema, urticaria).",
+        "Formación de anticuerpos anti-insulina."
+      ],
+      "contraindicaciones": [
+        "Episodios de hipoglucemia.",
+        "Hipersensibilidad al principio activo.",
+        "Hipersensibilidad a componentes (metacresol)."
+      ],
+      "contra_imagenes": ["insulina_contra1.jpg"]
+    },
+    {
+      "categoria": "Fármacos",
+      "grupo": "Antidiabéticos",
+      "nombre": "Insulina Glargina",
+      "mecanismo_accion": "Análogo de insulina humana diseñado para tener baja solubilidad a pH neutro. Forma microprecipitados en el tejido subcutáneo que liberan pequeñas cantidades de insulina continuamente, logrando un perfil plano sin picos durante 24h.",
+      "nombre_imagenes": "insulina_glargina_mecanismo.jpg",
+      "indicaciones_terapeuticas": [
+        "Diabetes mellitus en adultos.",
+        "Diabetes en adolescentes y niños a partir de los 2 años.",
+        "Requerimiento de insulina basal."
+      ],
+      "reacciones_adversas": [
+        "Hipoglucemia (muy frecuente).",
+        "Enrojecimiento y dolor en sitio de inyección.",
+        "Lipohipertrofia.",
+        "Mialgia.",
+        "Disgeusia (alteración del gusto)."
+      ],
+      "reacciones_imagenes": ["insulina_glargina_reacciones1.jpg"],
+      "contraindicaciones": [
+        "Hipersensibilidad a la glargina.",
+        "No indicada para tratamiento de cetoacidosis diabética."
+      ]
+    },
+    {
+      "categoria": "Fármacos",
+      "grupo": "Antidiabéticos",
+      "nombre": "Linagliptina",
+      "mecanismo_accion": "Inhibidor de la enzima DPP-4 (dipeptidil peptidasa-4), la cual degrada las hormonas incretinas (GLP-1 y GIP). Al bloquearla, aumenta la secreción de insulina y disminuye la de glucagón de manera dependiente de la glucosa.",
+      "nombre_imagenes": "linagliptina_mecanismo.jpg",
+      "indicaciones_terapeuticas": [
+        "Diabetes mellitus tipo 2 (monoterapia).",
+        "Asociación con metformina, sulfonilureas o insulina."
+      ],
+      "reacciones_adversas": [
+        "Nasofaringitis.",
+        "Tos.",
+        "Estreñimiento (usada con insulina).",
+        "Pancreatitis.",
+        "Angioedema y urticaria.",
+        "Penfigoide bulloso (ampollas en la piel)."
+      ],
+      "reacciones_imagenes": ["linagliptina_reacciones1.jpg"],
+      "contraindicaciones": [
+        "Hipersensibilidad a linagliptina.",
+        "No usar en diabetes tipo 1.",
+        "No usar para cetoacidosis diabética."
+      ]
+    },
+    {
+      "categoria": "Fármacos",
+      "grupo": "Antidiabéticos",
+      "nombre": "Dapagliflozina",
+      "mecanismo_accion": "Bloquea la proteína SGLT2 en el riñón, lo que impide la reabsorción de glucosa, sodio y agua, eliminándolos a través de la orina.",
+      "nombre_imagenes": "dapagliflozina_mecanismo.jpg",
+      "indicaciones_terapeuticas": [
+        "Diabetes mellitus tipo 2 en adultos.",
+        "Niños de 10 años o más.",
+        "Insuficiencia cardiaca con fracción de eyección reducida.",
+        "Enfermedad renal crónica."
+      ],
+      "reacciones_adversas": [
+        "Hipoglucemia (con insulina o sulfonilureas).",
+        "Dolor de espalda.",
+        "Cambios en lípidos.",
+        "Aumento de micción.",
+        "Angioedema (cara/lengua).",
+        "Fascitis necrosante del perineo (Gangrena de Fournier).",
+        "Infecciones graves del tracto urinario."
+      ],
+      "reacciones_imagenes": ["dapagliflozina_reacciones1.jpg"],
+      "contraindicaciones": [
+        "Hipersensibilidad al fármaco.",
+        "No usar en diabetes tipo 1.",
+        "No usar para cetoacidosis diabética."
+      ]
+    },
+    {
+      "categoria": "Fármacos",
+      "grupo": "Antidiabéticos",
+      "nombre": "Liraglutida",
+      "mecanismo_accion": "Análogo del GLP-1 que activa su receptor para potenciar la secreción de insulina dependiente de glucosa. Además, regula el apetito aumentando la saciedad y reduciendo el hambre.",
+      "nombre_imagenes": "liraglutida_mecanismo.jpg",
+      "indicaciones_terapeuticas": [
+        "Diabetes mellitus tipo 2.",
+        "Control de peso con dieta y actividad física.",
+        "Obesidad o sobrepeso con comorbilidades."
+      ],
+      "reacciones_adversas": [
+        "Náuseas, vómitos y diarrea.",
+        "Cefalea.",
+        "Nasofaringitis.",
+        "Hipoglucemia.",
+        "Pancreatitis aguda.",
+        "Deshidratación.",
+        "Reacciones de hipersensibilidad."
+      ],
+      "reacciones_imagenes": ["liraglutida_reacciones1.jpg"],
+      "contraindicaciones": [
+        "Hipersensibilidad al principio activo.",
+        "No recomendado en diabetes tipo 1 ni cetoacidosis.",
+        "Insuficiencia renal grave.",
+        "Embarazo."
+      ]
+    },
+    {
+      "categoria": "Fármacos",
+      "grupo": "Antibióticos",
+      "nombre": "Ceftriaxona",
+      "mecanismo_accion": "Antibiótico cefalosporínico de amplio espectro cuya actividad bactericida se debe a la inhibición de la síntesis de la pared celular bacteriana.",
+      "nombre_imagenes": "ceftriaxona_mecanismo.jpg",
+      "indicaciones_terapeuticas": [
+        "Infecciones graves y meningitis bacteriana.",
+        "Peritonitis (infecciones abdominales).",
+        "Infecciones osteoarticulares y respiratorias.",
+        "Infecciones genitales (gonococia).",
+        "Profilaxis quirúrgica."
+      ],
+      "indicaciones_imagen": "ceftriaxona_indicaciones.jpg",
+      "reacciones_adversas": [
+        "Diarrea y náuseas.",
+        "Estomatitis.",
+        "Anemia hemolítica.",
+        "Colitis pseudomembranosa.",
+        "Precipitados de calcio en vesícula biliar o riñones.",
+        "Síndrome DRESS (reacciones cutáneas graves)."
+      ],
+      "reacciones_imagenes": ["ceftriaxona_reacciones1.jpg"],
+      "contraindicaciones": [
+        "Hipersensibilidad a cefalosporinas.",
+        "Recién nacidos prematuros.",
+        "Recién nacidos a término con hiperbilirrubinemia.",
+        "Recién nacidos que reciban calcio intravenoso."
+      ],
+      "contra_imagenes": ["ceftriaxona_contra1.jpg"]
+    },
+    {
+      "categoria": "Fármacos",
+      "grupo": "Antibióticos",
+      "nombre": "Amoxicilina con Ácido Clavulánico",
+      "mecanismo_accion": "La amoxicilina inhibe la síntesis de la pared celular bacteriana, mientras que el ácido clavulánico bloquea las enzimas betalactamasas que inactivan al antibiótico.",
+      "nombre_imagenes": "amoxicilina_ac_mecanismo.jpg",
+      "indicaciones_terapeuticas": [
+        "Sinusitis y otitis media.",
+        "Neumonía y cistitis.",
+        "Infecciones de piel y tejidos blandos.",
+        "Mordeduras de animales.",
+        "Osteomielitis."
+      ],
+      "indicaciones_imagen": "amoxicilina_ac_indicaciones.jpg",
+      "reacciones_adversas": [
+        "Diarrea (muy frecuente).",
+        "Náuseas y vómitos.",
+        "Candidiasis mucocutánea.",
+        "Leucopenia y trombocitopenia.",
+        "Hepatitis e ictericia colestásica.",
+        "Síndrome de Stevens-Johnson."
+      ],
+      "reacciones_imagenes": ["amoxicilina_ac_reacciones1.jpg"],
+      "contraindicaciones": [
+        "Hipersensibilidad a penicilinas o betalactámicos.",
+        "Antecedentes de ictericia por este fármaco.",
+        "Disfunción hepática asociada al fármaco."
+      ]
+    },
+    {
+      "categoria": "Fármacos",
+      "grupo": "Antibióticos",
+      "nombre": "Amikacina",
+      "mecanismo_accion": "Interfiere con la síntesis proteica bacteriana al unirse a la subunidad ribosomal 30S.",
+      "nombre_imagenes": "amikacina_mecanismo.jpg",
+      "indicaciones_terapeuticas": [
+        "Infecciones graves por bacterias gramnegativas resistentes.",
+        "Sepsis y meningitis.",
+        "Peritonitis.",
+        "Infecciones urinarias complicadas y quemaduras."
+      ],
+      "indicaciones_imagen": "amikacina_indicaciones.jpg",
+      "reacciones_adversas": [
+        "Nefrotoxicidad (daño renal).",
+        "Ototoxicidad (pérdida de audición).",
+        "Neurotoxicidad.",
+        "Mareo y vértigo.",
+        "Parálisis muscular aguda y apnea.",
+        "Erupción cutánea."
+      ],
+      "reacciones_imagenes": ["amikacina_reacciones1.jpg"],
+      "contraindicaciones": [
+        "Hipersensibilidad a amikacina u otros aminoglucósidos.",
+        "Administración con productos nefrotóxicos.",
+        "Administración con diuréticos potentes."
+      ]
+    },
+    {
+      "categoria": "Fármacos",
+      "grupo": "Antibióticos",
+      "nombre": "Ciprofloxacino",
+      "mecanismo_accion": "Antibiótico bactericida del grupo de las quinolonas. Actúa inhibiendo las enzimas topoisomerasa II (DNA-girasa) y topoisomerasa IV, necesarias para la replicación, transcripción, reparación y recombinación del ADN bacteriano.",
+      "nombre_imagenes": "ciprofloxacino_mecanismo.jpg",
+      "indicaciones_terapeuticas": [
+        "Infecciones de las vías respiratorias y urinarias.",
+        "Infecciones genitales y gastrointestinales.",
+        "Fiebre tifoidea.",
+        "Infecciones cutáneas y óseas."
+      ],
+      "indicaciones_imagen": "ciprofloxacino_indicaciones.jpg",
+      "reacciones_adversas": [
+        "Náuseas y diarrea.",
+        "Tendinitis o rotura de tendón (Aquiles).",
+        "Convulsiones.",
+        "Colitis pseudomembranosa.",
+        "Reacciones de fotosensibilidad."
+      ],
+      "reacciones_imagenes": ["ciprofloxacino_reacciones1.jpg"],
+      "contraindicaciones": [
+        "Hipersensibilidad a quinolonas.",
+        "Administración con tizanidina.",
+        "Evitado en niños y adolescentes (riesgo en cartílagos)."
+      ]
+    },
+    {
+      "categoria": "Fármacos",
+      "grupo": "Antibióticos",
+      "nombre": "Clindamicina",
+      "mecanismo_accion": "Lincosamida que inhibe la síntesis de proteínas bacterianas al unirse de forma reversible a la subunidad ribosomal 50S, bloqueando la formación de enlaces peptídicos.",
+      "nombre_imagenes": "clindamicina_mecanismo.jpg",
+      "indicaciones_terapeuticas": [
+        "Infecciones graves por bacterias anaerobias.",
+        "Estafilococos y estreptococos susceptibles.",
+        "Acné vulgar (tópico).",
+        "Vaginosis bacteriana."
+      ],
+      "indicaciones_imagen": "clindamicina_indicaciones.jpg",
+      "reacciones_adversas": [
+        "Diarrea, náuseas y dolor abdominal.",
+        "Erupción cutánea.",
+        "Colitis pseudomembranosa (C. difficile).",
+        "Ictericia.",
+        "Alteraciones hematológicas."
+      ],
+      "reacciones_imagenes": ["clindamicina_reacciones1.jpg"],
+      "contraindicaciones": [
+        "Hipersensibilidad a clindamicina o lincomicina."
+      ]
+    },
+    {
+      "categoria": "Fármacos",
+      "grupo": "Antibióticos",
+      "nombre": "Metronidazol",
+      "mecanismo_accion": "Profármaco activado por proteínas de transporte de electrones de bacterias anaerobias y protozoos. Produce radicales libres que dañan las hebras del ADN, provocando la muerte celular.",
+      "nombre_imagenes": "metronidazol_mecanismo.jpg",
+      "indicaciones_terapeuticas": [
+        "Infecciones por anaerobios (Bacteroides).",
+        "Amebiasis intestinal y hepática.",
+        "Tricomoniasis urogenital.",
+        "Erradicación de H. pylori."
+      ],
+      "indicaciones_imagen": "metronidazol_indicaciones.jpg",
+      "reacciones_adversas": [
+        "Sabor metálico.",
+        "Náuseas, cefalea y mareo.",
+        "Efecto antabus (con alcohol).",
+        "Neuropatía periférica.",
+        "Convulsiones (dosis altas)."
+      ],
+      "reacciones_imagenes": ["metronidazol_reacciones1.jpg"],
+      "contraindicaciones": [
+        "Hipersensibilidad.",
+        "Primer trimestre del embarazo.",
+        "Consumo de alcohol durante el tratamiento."
+      ]
+    },
+    {
+      "categoria": "Fármacos",
+      "grupo": "Antibióticos",
+      "nombre": "Vancomicina",
+      "mecanismo_accion": "Antibiótico glucopéptido tricíclico que inhibe la síntesis de la pared celular de las bacterias sensibles, uniéndose con gran afinidad a la terminación D-alanil-D-alanina de las unidades precursoras de la pared celular.",
+      "nombre_imagenes": "vancomicina_mecanismo.jpg",
+      "indicaciones_terapeuticas": [
+        "Infecciones graves por MRSA (estafilococo resistente).",
+        "Endocarditis y septicemia.",
+        "Infecciones óseas y respiratorias bajas.",
+        "Infecciones de piel y tejidos blandos."
+      ],
+      "indicaciones_imagen": "vancomicina_indicaciones.jpg",
+      "reacciones_adversas": [
+        "Descenso de presión arterial.",
+        "Disnea y estridor.",
+        "Exantema, prurito y urticaria.",
+        "Insuficiencia renal (aumento de creatinina).",
+        "Flebitis.",
+        "Síndrome del hombre rojo (enrojecimiento facial)."
+      ],
+      "reacciones_imagenes": ["vancomicina_reacciones1.jpg"],
+      "contraindicaciones": [
+        "Hipersensibilidad a la vancomicina.",
+        "Antecedentes de pérdida de la audición."
+      ]
+    },
+    {
+      "categoria": "Fármacos",
+      "grupo": "Antibióticos",
+      "nombre": "Tazobactam",
+      "mecanismo_accion": "Inhibidor de beta-lactamasas de clase molecular A (penicilinasas, cefalosporinasas y betalactamasas de espectro extendido); protege a la piperacilina de la degradación por estas enzimas.",
+      "nombre_imagenes": "tazobactam_mecanismo.jpg",
+      "indicaciones_terapeuticas": [
+        "Infecciones sistémicas moderadas a graves.",
+        "Neumonía adquirida en el hospital.",
+        "Infecciones urinarias complicadas.",
+        "Infecciones intraabdominales.",
+        "Infecciones de la piel y tejidos blandos."
+      ],
+      "indicaciones_imagen": "tazobactam_indicaciones.jpg",
+      "reacciones_adversas": [
+        "Diarrea, náuseas y vómitos.",
+        "Exantema maculopapular.",
+        "Trombocitopenia y anemia.",
+        "Prolongación del tiempo de tromboplastina.",
+        "Hipopotasemia."
+      ],
+      "reacciones_imagenes": ["tazobactam_reacciones1.jpg"],
+      "contraindicaciones": [
+        "Hipersensibilidad a los principios activos.",
+        "Hipersensibilidad a penicilinas.",
+        "Hipersensibilidad a inhibidores de beta-lactamasas."
+      ]
+    },
+    {
+      "categoria": "Fármacos",
+      "grupo": "Analgésicos y AINEs",
+      "nombre": "Paracetamol",
+      "mecanismo_accion": "Analgésico y antipirético. Inhibe la síntesis de prostaglandinas en el sistema nervioso central y bloquea la generación del impulso doloroso a nivel periférico. Actúa sobre el centro hipotalámico regulador de la temperatura.",
+      "nombre_imagenes": "paracetamol_mecanismo.jpg",
+      "indicaciones_terapeuticas": [
+        "Tratamiento sintomático del dolor de intensidad moderada.",
+        "Estados febriles."
+      ],
+      "reacciones_adversas": [
+        "Malestar.",
+        "Nivel aumentado de transaminasas.",
+        "Hipotensión.",
+        "Erupción cutánea.",
+        "Trombocitopenia y leucopenia."
+      ],
+      "reacciones_imagenes": ["paracetamol_reacciones1.jpg"],
+      "contraindicaciones": [
+        "Hipersensibilidad al paracetamol.",
+        "Hipersensibilidad al clorhidrato de propacetamol.",
+        "Insuficiencia hepatocelular grave.",
+        "Hepatitis vírica."
+      ],
+      "contra_imagenes": ["paracetamol_contra1.jpg"]
+    },
+    {
+      "categoria": "Fármacos",
+      "grupo": "Analgésicos y AINEs",
+      "nombre": "Ketorolaco",
+      "mecanismo_accion": "Inhibe la síntesis de prostaglandinas, mediante la inhibición de la enzima ciclooxigenasa (COX). Posee actividad analgésica, antiinflamatoria y antipirética.",
+      "nombre_imagenes": "ketorolaco_mecanismo.jpg",
+      "indicaciones_terapeuticas": [
+        "Dolor moderado o severo en postoperatorio (corto plazo).",
+        "Dolor causado por cólico nefrítico."
+      ],
+      "reacciones_adversas": [
+        "Irritación gastrointestinal.",
+        "Dispepsia y náuseas.",
+        "Diarrea.",
+        "Somnolencia y mareo.",
+        "Sudoración y edema."
+      ],
+      "reacciones_imagenes": ["ketorolaco_reacciones1.jpg"],
+      "contraindicaciones": [
+        "Hipersensibilidad al ketorolaco.",
+        "Úlcera péptica activa.",
+        "Hemorragia o perforación gastrointestinal reciente.",
+        "No debe usarse por más de 5 días."
+      ],
+      "contra_imagenes": ["ketorolaco_contra1.jpg"]
+    },
+    {
+      "categoria": "Fármacos",
+      "grupo": "Analgésicos y AINEs",
+      "nombre": "Metamizol sódico",
+      "mecanismo_accion": "Pirazolona analgésica no acídica, no narcótica, con efectos analgésicos, antipiréticos y espasmolíticos.",
+      "nombre_imagenes": "metamizol_mecanismo.jpg",
+      "indicaciones_terapeuticas": [
+        "Dolor grave (postoperatorio o postraumático).",
+        "Dolor tipo cólico o tumoral.",
+        "Fiebre grave y resistente."
+      ],
+      "indicaciones_imagen": "metamizol_indicaciones.jpg",
+      "reacciones_adversas": [
+        "Reacciones anafilácticas.",
+        "Disnea.",
+        "Molestias gastrointestinales.",
+        "Agranulocitosis (disminución de glóbulos blancos).",
+        "Anemia aplásica."
+      ],
+      "reacciones_imagenes": ["metamizol_reacciones1.jpg"],
+      "contraindicaciones": [
+        "Hipersensibilidad a las pirazolonas.",
+        "Insuficiencia renal o hepática aguda o crónica.",
+        "Antecedentes de agranulocitosis."
+      ],
+      "contra_imagenes": ["metamizol_contra1.jpg"]
+    },
+    {
+      "categoria": "Fármacos",
+      "grupo": "Analgésicos y AINEs",
+      "nombre": "Diclofenaco",
+      "mecanismo_accion": "Inhibidor de la prostaglandina sintetasa (ciclooxigenasa). Inhibe la biosíntesis de prostaglandinas, las cuales desempeñan un papel esencial en la aparición de la inflamación, el dolor y la fiebre.",
+      "nombre_imagenes": "diclofenaco_mecanismo.jpg",
+      "indicaciones_terapeuticas": [
+        "Artrosis y artritis reumatoide.",
+        "Espondilitis anquilosante y espondiloartritis.",
+        "Reumatismo extraarticular.",
+        "Gota en fase aguda.",
+        "Dolor postoperatorio y postraumático.",
+        "Inflamación y edema."
+      ],
+      "indicaciones_imagen": "diclofenaco_indicaciones.jpg",
+      "reacciones_adversas": [
+        "Cefalea, mareo y vértigo.",
+        "Náuseas, vómitos y diarreas.",
+        "Dispepsia y dolor abdominal.",
+        "Flatulencia y anorexia.",
+        "Aumento de transaminasas séricas.",
+        "Erupción cutánea.",
+        "Dolor y endurecimiento en punto de inyección."
+      ],
+      "reacciones_imagenes": ["diclofenaco_reacciones1.jpg"],
+      "contraindicaciones": [
+        "Hipersensibilidad al diclofenaco.",
+        "Antecedentes de asma o urticaria tras AAS.",
+        "Rinitis aguda tras AAS.",
+        "Úlcera gastrointestinal activa.",
+        "Insuficiencia renal o hepática grave.",
+        "Insuficiencia cardiaca establecida."
+      ]
+    },
+    {
+      "categoria": "Fármacos",
+      "grupo": "Analgesicos y AINEs",
+      "nombre": "Tramadol",
+      "mecanismo_accion": "Analgésico de acción central, agonista puro no selectivo de los receptores opioides µ, delta y kappa, con mayor afinidad por los receptores µ. Otros mecanismos que contribuyen a su efecto analgésico son la inhibición de la recaptación neuronal de noradrenalina y la potenciación de la liberación de serotonina.",
+      "nombre_imagenes": "tramadol_mecanismo.jpg",
+      "indicaciones_terapeuticas": [
+        "Dolor moderado a severo.",
+        "Dolor agudo o crónico.",
+        "Procedimientos diagnósticos o terapéuticos dolorosos."
+      ],
+      "reacciones_adversas": [
+        "Mareos y náuseas (muy frecuentes).",
+        "Cefaleas y somnolencia.",
+        "Vómitos y estreñimiento.",
+        "Sequedad de boca.",
+        "Sudoración y fatiga.",
+        "Palpitaciones y taquicardia.",
+        "Hipotensión postural o colapso cardiovascular.",
+        "Arcadas e irritación gastrointestinal.",
+        "Pesadez y plenitud.",
+        "Prurito y exantema."
+      ],
+      "reacciones_imagenes": ["tramadol_reacciones1.jpg"],
+      "contraindicaciones": [
+        "Hipersensibilidad a tramadol o opioides.",
+        "Intoxicación aguda con alcohol o hipnóticos.",
+        "Analgesicos de acción central o psicótropos.",
+        "Uso simultáneo con inhibidores de la MAO."
+      ]
+    },
+    {
+      "categoria": "Fármacos",
+      "grupo": "Analgesicos y AINEs",
+      "nombre": "Celecoxib",
+      "mecanismo_accion": "Inhibidor selectivo de la ciclooxigenasa-2 (COX-2) dentro del intervalo de dosis terapéutico (200-400 mg diarios). A concentraciones terapéuticas en humanos, el celecoxib no inhibe la isoenzima ciclooxigenasa-1 (COX-1). La COX-2 se induce como respuesta a estímulos inflamatorios.",
+      "nombre_imagenes": "celecoxib_mecanismo.jpg",
+      "indicaciones_terapeuticas": [
+        "Alivio sintomático de artrosis.",
+        "Artritis reumatoide y espondilitis anquilosante.",
+        "Tratamiento del dolor agudo.",
+        "Dismenorrea primaria."
+      ],
+      "indicaciones_imagen": "celecoxib_indicaciones.jpg",
+      "reacciones_adversas": [
+        "Sinusitis y faringitis.",
+        "Infección de vías respiratorias superiores.",
+        "Rinitis e infección urinaria.",
+        "Mareo e insomnio.",
+        "Hipertensión.",
+        "Dolor abdominal, diarrea y dispepsia.",
+        "Flatulencia.",
+        "Prurito y erupción cutánea.",
+        "Edema periférico y retención de líquidos."
+      ],
+      "reacciones_imagenes": ["celecoxib_reacciones1.jpg"],
+      "contraindicaciones": [
+        "Hipersensibilidad al principio activo o sulfonamidas.",
+        "Úlcera péptica activa o hemorragia GI.",
+        "Asma o rinitis tras AAS o AINE.",
+        "Pólipos nasales o urticaria tras AINE.",
+        "Disfunción hepática grave.",
+        "Enfermedad inflamatoria intestinal.",
+        "Insuficiencia cardiaca congestiva."
+      ],
+      "contra_imagenes": ["celecoxib_contra1.jpg"]
+    },
+    {
+      "categoria": "Fármacos",
+      "grupo": "Espasmolíticos",
+      "nombre": "Butilhioscina",
+      "mecanismo_accion": "Ejerce una acción espasmolítica sobre el músculo liso de los tractos gastrointestinal, biliar y genitourinario. Como derivado de amonio cuaternario, el butilbromuro de escopolamina no atraviesa la barrera hematoencefálica y por lo tanto no se presentan efectos secundarios anticolinérgicos en el sistema nervioso central.",
+      "nombre_imagenes": "butilhioscina_mecanismo.jpg",
+      "indicaciones_terapeuticas": [
+        "Espasmos agudos gastrointestinales y biliares.",
+        "Espasmos genitourinarios.",
+        "Cólico biliar y renal.",
+        "Coadyuvante en procesos de diagnóstico (endoscopia)."
+      ],
+      "indicaciones_imagen": "butilhioscina_indicaciones.jpg",
+      "reacciones_adversas": [
+        "Taquicardia.",
+        "Sequedad de boca.",
+        "Anhidrosis (falta de sudoración).",
+        "Urticaria y prurito.",
+        "Retención urinaria.",
+        "Shock anafiláctico (raro)."
+      ],
+      "reacciones_imagenes": ["butilhioscina_reacciones1.jpg"],
+      "contraindicaciones": [
+        "Hipersensibilidad a la hioscina.",
+        "Glaucoma de ángulo estrecho no tratado.",
+        "Hipertrofia prostática con retención urinaria.",
+        "Estenosis mecánica del tracto GI.",
+        "Megacolon.",
+        "Miastenia gravis.",
+        "Vía IM en pacientes con anticoagulantes."
+      ],
+      "contra_imagenes": ["butilhioscina_contra1.jpg"]
+    },
+
+    {
+      "categoria": "Anticoagulantes",
+      "nombre": "Enoxaparina",
+      "nombre_imagenes": ["Enoxaparina_nombre1.jpg"],
+      "mecanismo_accion": "HBPM. Inhibe la coagulación potenciando el efecto inhibitorio de la antitrombina III sobre los factores IIa y Xa. Posee elevada actividad anti-Xa y débil actividad anti-IIa.",
+      "indicaciones_terapeuticas": [
+        "Deshidratación isotónica y acidosis moderada por:",
+        "Vómito",
+        "Diarrea",
+        "Fístulas",
+        "Exudados",
+        "Traumatismos",
+        "Quemaduras",
+        "Estado de choque",
+        "Cirugía",
+        "Mantenimiento del balance hidroelectrolítico."
+      ],
+      "reacciones_adversas": [
+        "Hemorragia",
+        "Anemia hemorrágica",
+        "Trombocitopenia",
+        "Trombocitosis",
+        "Reacción alérgica",
+        "Dolor de cabeza",
+        "Aumento de enzimas hepáticas (principalmente transaminasas, niveles > 3 veces LSN)",
+        "Urticaria",
+        "Prurito",
+        "Eritema",
+        "Hematoma",
+        "Dolor",
+        "Otras reacciones en el punto de inyección (edema, hemorragia, hipersensibilidad, inflamación, masa, dolor o reacción)"
+      ],
+      "reacciones_imagenes": ["Enoxaparina_reacciones1.jpg"],
+      "contraindicaciones": [
+        "Hipersensibilidad al principio activo, heparina o derivados incluyendo HBPM",
+        "Antecedentes de trombocitopenia inducida por heparina (TIH) mediada inmunológicamente en los últimos 100 días o en presencia de anticuerpos circulantes",
+        "Sangrado activo clínicamente significativo y enfermedades de alto riesgo de hemorragia",
+        "Ictus hemorrágico reciente",
+        "Úlcera gastrointestinal",
+        "Presencia de neoplasias malignas con riesgo alto de sangrado",
+        "Cirugía cerebral, espinal u oftalmológica recientes",
+        "Sospecha o varices esofágicas confirmadas",
+        "Malformaciones arteriovenosas",
+        "Aneurismas vasculares o anomalías vasculares mayores intraespinales o intracerebrales",
+        "Anestesia espinal o epidural o anestesia locoregional"
+      ],
+      "contra_imagenes": ["Enoxaparina_contra1.jpg", "Enoxaparina_contra2.jpg"]
+    },
+    {
+      "categoria": "Anticoagulantes",
+      "nombre": "Heparina sódica",
+      "nombre_imagenes": ["Heparina_nombre1.jpg"],
+      "mecanismo_accion": "Inhibe la coagulación potenciando el efecto inhibitorio de la antitrombina III sobre los factores IIa y Xa.",
+      "indicaciones_terapeuticas": [
+        "Tratamiento y prevención de la enfermedad tromboembólica venosa: trombosis venosa profunda y tromboembolismo pulmonar",
+        "Tratamiento de la enfermedad coronaria: angina inestable e infarto agudo de miocardio",
+        "Tratamiento y prevención del tromboembolismo arterial periférico",
+        "Tratamiento inicial de la trombosis en la coagulación intravascular diseminada",
+        "Prevención de la trombosis en el circuito extracorpóreo durante cirugía cardíaca, vascular y hemodiálisis"
+      ],
+      "reacciones_adversas": [
+        "Hemorragias (piel, mucosas, heridas, tracto intestinal, urogenital)",
+        "Elevación de AST, ALT y gamma-GT"
+      ],
+      "reacciones_imagenes": ["Heparina_reacciones1.jpg"],
+      "contraindicaciones": [
+        "Hipersensibilidad",
+        "Hemorragia activa o incremento del riesgo hemorrágico",
+        "Trombocitopenia inducida por heparina o antecedentes",
+        "Endocarditis bacteriana aguda",
+        "Intervenciones quirúrgicas recientes en SNC, ojos u oídos",
+        "Lesiones orgánicas susceptibles de sangrar (p. ej., úlcera péptica activa, aneurismas, ACV o neoplasias cerebrales)",
+        "Anestesia regional cuando la heparina se usa como tratamiento (no como profilaxis)"
+      ],
+      "contra_imagenes": ["Heparina_contra1.jpg"]
+    },
+    {
+      "categoria": "Anticoagulantes",
+      "nombre": "Rivaroxaban",
+      "nombre_imagenes": ["Rivaroxaban_nombre1.jpg"],
+      "mecanismo_accion": "Inhibidor directo del factor Xa altamente selectivo, con biodisponibilidad oral. Interrumpe las vías intrínseca y extrínseca de la cascada de coagulación, inhibiendo la formación de trombina y trombos. No inhibe la trombina ni afecta plaquetas.",
+      "indicaciones_terapeuticas": [
+        "Prevención del tromboembolismo venoso en adultos sometidos a cirugía electiva de reemplazo de cadera o rodilla",
+        "Tratamiento de trombosis venosa profunda (TVP) y embolia pulmonar (EP)",
+        "Prevención de recurrencias de TVP y EP",
+        "Prevención de ictus y embolia sistémica en fibrilación auricular no valvular con factores de riesgo"
+      ],
+      "reacciones_adversas": [
+        "Anemia",
+        "Mareos",
+        "Cefalea",
+        "Hemorragia ocular",
+        "Hipotensión",
+        "Hematoma",
+        "Epistaxis",
+        "Hemoptisis",
+        "Sangrado gingival",
+        "Hemorragia gastrointestinal",
+        "Dolor gastrointestinal y abdominal",
+        "Dispepsia",
+        "Náuseas",
+        "Estreñimiento",
+        "Diarrea",
+        "Vómitos",
+        "Transaminasas elevadas",
+        "Prurito",
+        "Equimosis",
+        "Hemorragia cutánea y subcutánea",
+        "Dolor en extremidades",
+        "Hemorragia del tracto urogenital",
+        "Fiebre",
+        "Edema periférico",
+        "Disminución general de fuerza y energía",
+        "Hemorragia tras intervención",
+        "Contusión",
+        "Secreción de la herida"
+      ],
+      "reacciones_imagenes": ["Rivaroxaban_reacciones1.jpg", "Rivaroxaban_reacciones2.jpg"],
+      "contraindicaciones": [
+        "Edema de diversa etiología",
+        "Insuficiencia renal aguda",
+        "Hipertensión arterial",
+        "Hipertensión intracraneana con edema cerebral o sin él",
+        "Acidosis hiperclorémica"
+      ],
+      "contra_imagenes": ["Rivaroxaban_contra1.jpg", "Rivaroxaban_contra2.jpg"]
+    },
+    {
+      "categoria": "Anticoagulantes",
+      "nombre": "Acenocumarol",
+      "nombre_imagenes": ["Acenocumarol_nombre1.jpg"],
+      "mecanismo_accion": "Impide la formación en el hígado de los factores activos de coagulación II, VII, IX y X y de la proteína C, mediante inhibición de la gamma carboxilación de las proteínas precursoras mediada por vitamina K.",
+      "indicaciones_terapeuticas": [
+        "Tratamiento y profilaxis de afecciones tromboembólicas"
+      ],
+      "reacciones_adversas": [
+        "Hemorragias en cualquier órgano",
+        "Calcifilaxis"
+      ],
+      "reacciones_imagenes": ["Acenocumarol_reacciones1.jpg"],
+      "contraindicaciones": [
+        "Hipersensibilidad al principio activo y derivados cumarínicos",
+        "Embarazo",
+        "Falta de cooperación del paciente",
+        "Diátesis hemorrágica o discrasia sanguínea hemorrágica",
+        "Intervenciones quirúrgicas recientes o previstas en SNC, operaciones oftalmológicas e intervenciones traumatizantes que pongan al descubierto grandes superficies de tejidos",
+        "Úlcera péptica o hemorragias en tracto gastrointestinal, urogenital o respiratorio, hemorragias cerebrovasculares",
+        "Pericardio aguda, derrames pericárdicos",
+        "HTA grave, insuficiencia hepática o renal grave",
+        "Coagulopatías hereditarias, adquiridas y trombocitopenias con recuentos plaquetarios < 50x10⁹/L",
+        "Aumento de la actividad fibrinolítica"
+      ],
+      "contra_imagenes": ["Acenocumarol_contra1.jpg", "Acenocumarol_contra2.jpg"]
+    },
+    {
+      "categoria": "Anticoagulantes",
+      "nombre": "Clopidogrel",
+      "nombre_imagenes": ["Clopidogrel_nombre1.jpg"],
+      "mecanismo_accion": "Profármaco que inhibe la agregación plaquetaria inhibiendo la unión del ADP a su receptor plaquetario y la activación subsiguiente del complejo GPIIb-IIIa mediada por ADP.",
+      "indicaciones_terapeuticas": [
+        "Prevención de eventos aterotrombóticos en pacientes con infarto de miocardio reciente, infarto cerebral o enfermedad arterial periférica",
+        "Síndrome coronario agudo sin elevación del segmento ST, incluyendo colocación de stent después de intervención coronaria percutánea en combinación con AAS",
+        "Infarto de miocardio agudo con elevación del segmento ST, candidatos a terapia trombolítica en combinación con AAS",
+        "Prevención de acontecimientos aterotrombóticos y tromboembólicos en fibrilación auricular con bajo riesgo de hemorragia en combinación con AAS"
+      ],
+      "reacciones_adversas": [
+        "Hematoma",
+        "Epistaxis",
+        "Hemorragias gastrointestinales",
+        "Diarrea",
+        "Dolor abdominal",
+        "Dispepsia",
+        "Sangrado en lugar de inyección"
+      ],
+      "reacciones_imagenes": ["Clopidogrel_reacciones1.jpg"],
+      "contraindicaciones": [
+        "Hipersensibilidad",
+        "Insuficiencia hepática grave",
+        "Hemorragia patológica activa (p. ej., úlcera péptica o hemorragia intracraneal)"
+      ],
+      "contra_imagenes": ["Clopidogrel_contra1.jpg"]
+    },
+
+
+    {
+      "categoria": "Soluciones e Hidratación",
+      "nombre": "Solución fisiológica 0.9%",
+      "nombre_imagenes": ["fisiologica_nombre1.jpg"],
+      "mecanismo_accion": "Controla la distribución del agua en el organismo y mantiene el equilibrio de líquidos.",
+      "indicaciones_terapeuticas": [
+        "Deshidratación hipotónica e isotónica.",
+        "Alcalosis hipoclorémica.",
+        "Hipovolemia.",
+        "Vehículo para administración de medicamentos y electrolitos."
+      ],
+      "reacciones_adversas": [
+        "Hiperhidratación.",
+        "Hipernatremia.",
+        "Hipercloremia.",
+        "Acidosis metabólica.",
+        "Formación de edemas."
+      ],
+      "reacciones_imagenes": ["fisiologica_reacciones1.jpg"],
+      "contraindicaciones": [
+        "Hipersensibilidad.",
+        "Hipercloremia.",
+        "Hipernatremia.",
+        "Estados de hiperhidratación o intoxicación hídrica.",
+        "Hipocaliemia.",
+        "Hipopotasemia.",
+        "Acidosis.",
+        "Estados edematosos en pacientes con alteraciones cardiacas, hepáticas o renales.",
+        "Hipertensión arterial grave."
+      ],
+      "contra_imagenes": ["fisiologica_contra1.jpg", "fisiologica_contra2.jpg"]
+    },
+    {
+      "categoria": "Soluciones e Hidratación",
+      "nombre": "Solución Hartmann",
+      "nombre_imagenes": ["hartmann_nombre1.jpg"],
+      "mecanismo_accion": "Se emplea cuando existe pérdida de agua y bases, así como para mantener el equilibrio hidroelectrolítico.",
+      "indicaciones_terapeuticas": [
+        "Deshidratación isotónica y acidosis moderada por:",
+        "Vómito",
+        "Diarrea",
+        "Fístulas",
+        "Exudados",
+        "Traumatismos",
+        "Quemaduras",
+        "Estado de choque",
+        "Cirugía",
+        "Mantenimiento del balance hidroelectrolítico."
+      ],
+      "reacciones_adversas": [
+        "Edema pulmonar en pacientes con enfermedades cardiovasculares y renales si se administra en exceso."
+      ],
+      "reacciones_imagenes": ["hartmann_reacciones1.jpg"],
+      "contraindicaciones": [
+        "Alcalosis grave.",
+        "Hipercalcemia."
+      ],
+      "contra_imagenes": ["hartmann_contra1.jpg"]
+    },
+    {
+      "categoria": "Soluciones e Hidratación",
+      "nombre": "Solución glucosada al 5%",
+      "nombre_imagenes": ["glucosada5_nombre1.jpg"],
+      "mecanismo_accion": "Se emplea cuando existe pérdida de agua y bases, así como para mantener el equilibrio hidroelectrolítico.",
+      "indicaciones_terapeuticas": [
+        "Estados de deshidratación hipertónica (sin pérdida significativa de sales).",
+        "Alteraciones del metabolismo de los hidratos de carbono.",
+        "Nutrición parenteral como aporte de energía cuando la toma oral de alimentos está limitada.",
+        "Incremento del aporte calórico y mantenimiento de vena permeable."
+      ],
+      "reacciones_adversas": [
+        "Hiperglucemia.",
+        "Diuresis osmótica.",
+        "Intoxicación hídrica por sobredosis en pacientes diabéticos."
+      ],
+      "reacciones_imagenes": ["glucosada5_reacciones1.jpg"],
+      "contraindicaciones": [
+        "Coma addisoniano.",
+        "Diabetes."
+      ],
+      "contra_imagenes": ["glucosada5_contra1.jpg", "glucosada5_contra2.jpg"]
+    },
+    {
+      "categoria": "Soluciones e Hidratación",
+      "nombre": "Solución mixta",
+      "nombre_imagenes": ["mixta_nombre1.jpg"],
+      "mecanismo_accion": "Se emplea cuando existe pérdida de agua y bases, así como para mantener el equilibrio hidroelectrolítico.",
+      "indicaciones_terapeuticas": [
+        "Deshidrataciones isotónicas y acidosis moderada.",
+        "Cuando el estado hidroelectrolítico y los requerimientos calóricos y electrolíticos ameriten su uso.",
+        "Deshidrataciones isotónicas que requieren aporte calórico y electrolítico."
+      ],
+      "reacciones_adversas": [
+        "A dosis terapéuticas y observando indicaciones correctas no se presentan reacciones adversas."
+      ],
+      "contraindicaciones": [
+        "Edema de diversa etiología.",
+        "Insuficiencia renal aguda.",
+        "Hipertensión arterial.",
+        "Hipertensión intracraneana con edema cerebral o sin él.",
+        "Acidosis hiperclorémica."
+      ],
+      "contra_imagenes": ["mixta_contra1.jpg", "mixta_contra2.jpg"]
+    },
+    {
+      "categoria": "Soluciones e Hidratación",
+      "nombre": "Albúmina",
+      "nombre_imagenes": ["albumina_nombre1.jpg"],
+      "mecanismo_accion": "Coloide natural que estabiliza el volumen hemático circulante; es portadora de hormonas, enzimas, medicamentos y toxinas.",
+      "indicaciones_terapeuticas": [
+        "Restablecimiento y mantenimiento del volumen circulatorio cuando se ha demostrado déficit de volumen y el uso de un coloide se considere apropiado."
+      ],
+      "reacciones_adversas": [
+        "Rubefacción.",
+        "Shock.",
+        "Náuseas.",
+        "Urticaria.",
+        "Pirexia."
+      ],
+      "reacciones_imagenes": ["albumina_reacciones1.jpg"],
+      "contraindicaciones": [
+        "Hipersensibilidad."
+      ],
+      "contra_imagenes": ["albumina_contra1.jpg"]
+    },
+
+    {
+      "categoria": "Corticosteroides",
+      "nombre": "Metilprednisolona",
+      "nombre_imagenes": ["Metilprednisolona_nombre1.jpg"],
+
+      "mecanismo_accion": "Interacciona con unos receptores citoplasmáticos intracelulares específicos. Una vez formado el complejo receptor-glucocorticoide, éste penetra en el núcleo, donde interactúa con secuencias específicas de ADN, que estimulan o reprimen la trascripción génica de ARNm específicos que codifican la síntesis de determinadas proteínas en los órganos diana que, en última instancia, son las auténticas responsables de la acción del corticoide.",
+
+      "indicaciones_terapeuticas": [
+        "Tratamiento de sustitución en insuficiencia adrenal.",
+        "Asma persistente severa.",
+        "Exacerbaciones de EPOC.",
+        "Sarcoidosis.",
+        "Hipersensibilidad a medicamentos y otras reacciones alérgicas graves.",
+        "Enfermedades reumáticas como artritis reumatoide, espondilitis anquilosante, artritis gotosa aguda.",
+        "Lupus eritematoso sistémico.",
+        "Polimiositis y dermatomiositis.",
+        "Colitis ulcerosa.",
+        "Enfermedad de Crohn.",
+        "Enfermedades hepáticas como hepatitis crónica activa de origen autoinmune.",
+        "Síndrome nefrótico.",
+        "Síndrome adrenogenital.",
+        "Enfermedades hematológicas como anemia hemolítica adquirida y púrpura trombocitopénica idiopática.",
+        "Enfermedades inflamatorias oculares como neuritis óptica.",
+        "Enfermedades de la piel como urticaria, eczema severo y pénfigo.",
+        "Inmunosupresor en trasplantes.",
+        "Coadyuvante en tratamiento con agentes citostáticos o radioterapia.",
+        "Exacerbaciones agudas de asma.",
+        "Shock anafiláctico.",
+        "Angioedema y edema laríngeo.",
+        "Intoxicaciones por venenos de insectos y serpientes.",
+        "Edema cerebral y lesiones medulares.",
+        "Crisis addisonianas.",
+        "Shock secundario a insuficiencia adrenocortical.",
+        "Brotes agudos de esclerosis múltiple.",
+        "Coadyuvante en quimioterapia.",
+        "Rechazo agudo de trasplantes de órganos."
+      ],
+
+      "reacciones_adversas": [
+        "Obesidad troncal.",
+        "Cara de luna llena.",
+        "Aumento de glucemia.",
+        "Aumento de peso.",
+        "Diabetes por esteroides.",
+        "Cambios en lípidos séricos.",
+        "Lipomatosis.",
+        "Amenorrea.",
+        "Hirsutismo.",
+        "Retención de sodio y agua.",
+        "Aumento de excreción de potasio.",
+        "Hipopotasemia.",
+        "Hipertensión.",
+        "Vasculitis.",
+        "Aumento de presión intracraneal.",
+        "Atrofia cutánea.",
+        "Estrías.",
+        "Acné.",
+        "Equimosis.",
+        "Petequias.",
+        "Retraso en cicatrización.",
+        "Leucocitosis.",
+        "Osteoporosis.",
+        "Hepatitis.",
+        "Aumento de enzimas hepáticas.",
+        "Colestasis.",
+        "Insuficiencia hepática aguda."
+      ],
+      "reacciones_imagenes": ["Metilprednisolona_reacciones1.jpg", "Metilprednisolona_reacciones2.jpg"],
+
+      "contraindicaciones": [
+        "Hipersensibilidad a glucocorticoides.",
+        "Úlcera gástrica o duodenal.",
+        "Osteoporosis grave.",
+        "Trastornos psiquiátricos.",
+        "Glaucoma.",
+        "Linfadenopatía por vacuna BCG.",
+        "Infección por amebas.",
+        "Micosis sistémica.",
+        "Poliomielitis.",
+        "Varicela.",
+        "Herpes simple.",
+        "Herpes zoster.",
+        "Tuberculosis latente o activa.",
+        "Periodo pre y post-vacunal."
+      ],
+      "contra_imagenes": ["Metilprednisolona_contra1.jpg", "Metilprednisolona_contra2.jpg"]
+    },
+    {
+      "categoria": "Corticosteroides",
+      "nombre": "Dexametasona",
+      "nombre_imagenes": ["Dexametasona_nombre1.jpg"],
+
+      "mecanismo_accion": "Corticoide fluorado de larga duración de acción, elevada potencia antiinflamatoria e inmunosupresora y baja actividad mineralocorticoide.",
+
+      "indicaciones_terapeuticas": [
+        "Procesos que requieran tratamiento antiinflamatorio e inmunosupresor, entre ellos: tratamiento del edema cerebral secundario a tumores cerebrales, neurocirugía, abscesos cerebrales.",
+        "Tratamiento del asma grave aguda.",
+        "Tratamiento inicial de enfermedades dermatológicas agudas graves.",
+        "Tratamiento inicial de enfermedades autoinmunes.",
+        "Tratamiento de la artritis reumatoide activa.",
+        "Profilaxis y tratamiento de las náuseas y los vómitos inducidos por citostáticos.",
+        "Tratamiento de la enfermedad por coronavirus 2019 (COVID-19) en pacientes adultos y adolescentes que requieren oxígeno suplementario.",
+        "Traumatismo craneoencefálico, neurocirugía, abscesos cerebrales o meningitis bacteriana.",
+        "Tratamiento de shock traumático.",
+        "Tratamiento del asma agudo grave o estatus asmático.",
+        "Tratamiento parenteral inicial de enfermedades dermatológicas extensas agudas graves como la eritrodermia, pénfigo vulgar o eczema agudo.",
+        "Tratamiento parenteral inicial de las fases activas de colagenosis como lupus eritematoso sistémico.",
+        "Tratamiento de enfermedades infecciosas severas solo como terapia adyuvante.",
+        "Profilaxis y tratamiento de náuseas y vómitos inducidos por citostáticos.",
+        "Después de intervenciones quirúrgicas dentro del ámbito de regímenes antieméticos.",
+        "Tratamiento coadyuvante, a corto plazo.",
+        "Inflamación persistente en una o varias articulaciones tras el tratamiento sistémico de inflamación articular crónica.",
+        "Artrosis activada y formas agudas de periartropatía húmero-escapular.",
+        "Tendosinovitis y bursitis no bacterianas.",
+        "Periartropatía y tendinopatía."
+      ],
+
+      "reacciones_adversas": [
+        "Leucocitosis moderada.",
+        "Linfopenia.",
+        "Eosinopenia y policitemia.",
+        "Supresión adrenal e inducción de síntomas parecidos al síndrome de Cushing.",
+        "Glaucoma.",
+        "Cataratas.",
+        "Empeoramiento de úlceras corneales.",
+        "Infecciones oculares.",
+        "Perforación iatrogénica esclerótica.",
+        "Coriorretinopatía.",
+        "Visión borrosa.",
+        "Úlcera péptica.",
+        "Hemorragia gastrointestinal.",
+        "Pancreatitis.",
+        "Molestias gástricas.",
+        "Retraso en la cicatrización de heridas.",
+        "Hipo.",
+        "Reacciones de hipersensibilidad.",
+        "Reacciones anafilácticas graves.",
+        "Enmascaramiento de infecciones y reactivación de infecciones.",
+        "Activación de estrongiloidiasis.",
+        "Retención de sodio con edema.",
+        "Incremento de la excreción de potasio.",
+        "Aumento de peso.",
+        "Disminución de la tolerancia a la glucosa.",
+        "Diabetes mellitus.",
+        "Hipercolesterolemia y hipertrigliceridemia.",
+        "Atrofia muscular, debilidad muscular, miopatía.",
+        "Alteraciones y roturas tendinosas.",
+        "Osteoporosis y osteonecrosis aséptica.",
+        "Retraso de crecimiento en niños.",
+        "Lipomatosis epidural.",
+        "Pseudotumor cerebral.",
+        "Exacerbación de epilepsia.",
+        "Alteraciones del estado mental: depresión, alucinaciones, inestabilidad emocional, irritabilidad, manía, euforia, ansiedad, alteraciones del sueño, ideación suicida.",
+        "Alteración de la secreción de hormonas sexuales.",
+        "Acné esteroideo, estrías rojas, atrofia de la piel, petequias, telangiectasias.",
+        "Equimosis.",
+        "Hipertricosis.",
+        "Dermatitis rosaceiforme.",
+        "Cambios en la pigmentación de la piel.",
+        "Insuficiencia cardíaca, hipertensión.",
+        "Riesgo aumentado de arteriosclerosis y trombosis.",
+        "Vasculitis.",
+        "Fragilidad capilar."
+      ],
+      "reacciones_imagenes": ["Dexametasona_reacciones1.jpg", "Dexametasona_reacciones2.jpg"],
+
+      "contraindicaciones": [
+        "Hipersensibilidad.",
+        "Infecciones sistémicas no tratadas si se usan dosis elevadas.",
+        "Infecciones articulares locales o cercanas a la infiltración.",
+        "Artritis bacteriana.",
+        "Inestabilidad de la articulación a tratar.",
+        "Tendencia a sangrar o uso de anticoagulantes.",
+        "Calcificación periarticular.",
+        "Osteonecrosis avascular.",
+        "Rotura de un tendón.",
+        "Úlcera de estómago o duodenal.",
+        "Vacunación con vacunas vivas durante tratamiento con dosis elevadas."
+      ],
+      "contra_imagenes": ["Dexametasona_contra1.jpg"]
+    },
+    {
+      "categoria": "Corticosteroides",
+      "nombre": "Hidrocortisona",
+      "nombre_imagenes": ["Hidrocortisona_nombre1.jpg"],
+
+      "mecanismo_accion": "Corticoide no fluorado de corta duración de acción y con actividad mineralocorticoide de grado medio.",
+
+      "indicaciones_terapeuticas": [
+        "Terapia de reemplazo en insuficiencia adrenocortical primaria o secundaria.",
+        "Hiperplasia adrenal congénita.",
+        "Artritis reumatoide, juvenil y psoriásica.",
+        "Espondilitis anquilosante.",
+        "Polimialgia reumática.",
+        "Fiebre reumática aguda.",
+        "Lupus eritematoso sistémico.",
+        "Dermatomiositis grave.",
+        "Periarteritis nudosa.",
+        "Arteritis craneal.",
+        "Granulomatosis de Wegener.",
+        "Esclerodermia.",
+        "Dermatomiositis.",
+        "Eczema alérgico.",
+        "Pénfigo penfigoide bulloso.",
+        "Dermatitis exfoliativas y por contacto.",
+        "Eritema severo multiforme.",
+        "Eritema nudoso.",
+        "Psoriasis grave.",
+        "Rinitis alérgica.",
+        "Asma bronquial.",
+        "Sarcoidosis.",
+        "Alveolitis alérgica extrínseca.",
+        "Neumonía intersticial descamativa.",
+        "Queratitis, Coroiditis, Coriorretinitis.",
+        "Iritis e iridociclitis.",
+        "Trombocitopenia.",
+        "Anemia hemolítica.",
+        "Tratamiento paliativo de leucemias y linfomas.",
+        "Colitis ulcerosa.",
+        "Enfermedad de Crohn.",
+        "Hepatitis crónica."
+      ],
+      "reacciones_adversas": [
+        "Leucocitosis.",
+        "Aumento de presión intracraneal con papiledema en niños.",
+        "Agravamiento de epilepsia.",
+        "Aumento de PIO.",
+        "Glaucoma.",
+        "Papiledema.",
+        "Cataratas subcapsulares posteriores.",
+        "Adelgazamiento corneal o escleral.",
+        "Exacerbación de infección ocular viral o fúngica.",
+        "Dispepsia.",
+        "Ulcus péptico con perforación y hemorragia.",
+        "Pancreatitis aguda.",
+        "Candidiasis.",
+        "Alteraciones hidroelectrolíticas.",
+        "Alteración en cicatrización de heridas.",
+        "Atrofia cutánea.",
+        "Hematomas.",
+        "Telangiectasias.",
+        "Estrías.",
+        "Acné.",
+        "Enrojecimiento y prurito.",
+        "Osteoporosis.",
+        "Fracturas vertebrales y de huesos largos.",
+        "Osteonecrosis avascular, roturas tendinosas.",
+        "Miopatía terminal.",
+        "Supresión eje hipotalámico-hipofiso-suprarrenal.",
+        "Retraso de crecimiento en niños.",
+        "Fácies cushingoidea.",
+        "Ganancia de peso, tolerancia alterada a hidratos de carbono.",
+        "Aumento del apetito.",
+        "Aumento de susceptibilidad y gravedad de infecciones.",
+        "Infecciones oportunistas.",
+        "Recurrencias de tuberculosis activa.",
+        "Tromboembolismo, HTA.",
+        "Parestesias."
+      ],
+      "reacciones_imagenes": ["Hidrocortisona_reacciones1.jpg", "Hidrocortisona_reacciones2.jpg"],
+
+      "contraindicaciones": [
+        "Hipersensibilidad.",
+        "Úlcera péptica.",
+        "Tuberculosis activa.",
+        "Herpes simplex ocular.",
+        "Herpes zoster.",
+        "Varicela.",
+        "Infecciones micóticas sistémicas y en período pre y postvacunal.",
+        "Inestabilidad emocional o tendencias psicóticas (parenteral).",
+        "Glaucoma de ángulo cerrado o abierto (parenteral).",
+        "Queratitis herpética.",
+        "Linfadenopatía consecutiva a BCG.",
+        "Infecciones por amebas.",
+        "Poliomielitis."
+      ],
+      "contra_imagenes": ["Hidrocortisona_contra1.jpg", "Hidrocortisona_contra2.jpg"]
+    },
+    {
+      "categoria": "Corticosteroides",
+      "nombre": "Prednisona",
+      "nombre_imagenes": ["Prednisona_nombre1.jpg"],
+
+      "mecanismo_accion": "Interacciona con receptores citoplasmáticos intracelulares específicos, formando el complejo receptor-glucocorticoide que penetra en el núcleo, interactuando con secuencias de ADN que estimulan o reprimen la transcripción génica de ARNm específicos que codifican la síntesis de proteínas en los órganos diana responsables de la acción del corticoide.",
+
+      "indicaciones_terapeuticas": [
+        "Tratamiento sustitutivo en insuficiencia adrenal incluyendo enfermedad de Addison.",
+        "Insuficiencia pituitaria anterior.",
+        "Condiciones de estrés después de tratamiento a largo plazo con corticoides.",
+        "Síndrome adrenogenital.",
+        "Enfermedades reumáticas incluyendo procesos articulares y musculares agudos y crónicos.",
+        "Artritis reumatoide, espondilitis anquilosante, artritis gotosa aguda.",
+        "Enfermedades autoinmunes, del colágeno y de los vasos (lupus eritematoso sistémico, polimiositis, dermatomiositis, vasculitis).",
+        "Enfermedades bronquiales y pulmonares incluyendo asma bronquial.",
+        "Enfermedades dermatológicas graves de zonas profundas de la piel como urticaria aguda severa y pénfigos.",
+        "Enfermedades hematológicas y tumorales incluyendo anemia hemolítica autoinmune, púrpura trombocitopénica y leucemia linfoblástica aguda.",
+        "Tratamiento paliativo de enfermedades malignas para alivio de síntomas.",
+        "Enfermedad del tracto gastrointestinal y del hígado como colitis ulcerosa.",
+        "Enfermedad de Crohn.",
+        "Hepatitis crónica autoinmune agresiva.",
+        "Enfermedades renales incluyendo síndrome nefrótico.",
+        "Enfermedades inflamatorias oculares como conjuntivitis alérgica, queratitis, iritis, uveitis, coriorretinitis y neuritis óptica.",
+        "Tratamiento rectal en lactantes y niños para pseudo crup, crup y exacerbación de asma aguda."
+      ],
+      "reacciones_adversas": [
+        "Signos de hiperactividad adrenal (síndrome de Cushing) a dosis altas.",
+        "Insuficiencia adrenocortical con tratamientos prolongados.",
+        "Hiperglucemia.",
+        "Polifagia.",
+        "Osteoporosis y fragilidad ósea.",
+        "Linfopenia.",
+        "Eosinopenia.",
+        "Retraso en cicatrización de heridas.",
+        "Erupciones acneiformes.",
+        "Hirsutismo.",
+        "Hiperpigmentación.",
+        "Esclerodermia a dosis altas.",
+        "Sofocos.",
+        "Disminución de resistencia a infecciones (candidiasis orofaríngea).",
+        "Retraso del crecimiento en niños en tratamientos prolongados."
+      ],
+      "reacciones_imagenes": ["Prednisona_reacciones1.jpg", "Prednisona_reacciones2.jpg"],
+
+      "contraindicaciones": [
+        "Hipersensibilidad a prednisona.",
+        "Osteomalacia y osteoporosis.",
+        "Diabetes grave.",
+        "Psicosis no controlada por tratamiento.",
+        "Úlcera péptica y gastritis.",
+        "Esofagitis.",
+        "Tuberculosis activa (a menos que se usen drogas quimioterapéuticas simultáneamente).",
+        "Estados infecciosos.",
+        "Enfermedades víricas progresivas (hepatitis, herpes, herpes simple ocular, herpes zoster, varicela).",
+        "Infecciones fúngicas.",
+        "Linfomas secundarios a vacunación con BCG.",
+        "Amebiasis y micosis sistémicas.",
+        "Alteraciones psiquiátricas.",
+        "HTA grave, asistolia con edema pulmonar y uremia.",
+        "Insuficiencia renal grave."
+      ],
+      "contra_imagenes": ["Prednisona_contra1.jpg", "Prednisona_contra2.jpg"]
+    },
+
+    {
+      "categoria": "Protectores gástricos",
+      "nombre": "Omeprazol",
+      "nombre_imagenes": ["Omeprazol_nombre1.jpg"],
+
+      "mecanismo_accion": "Inhibe la secreción de ácido en el estómago. Se une a la bomba de protones en la célula parietal gástrica, inhibiendo el transporte final de H+ al lumen gástrico.",
+
+      "indicaciones_terapeuticas": [
+        "Esofagitis por reflujo gastroesofágico.",
+        "Úlcera duodenal, úlcera gástrica benigna (incluyendo las producidas por AINEs).",
+        "Síndrome de Zollinger-Ellison.",
+        "Tratamiento de úlcera gástrica y duodenal asociada a Helicobacter pylori."
+      ],
+      "reacciones_adversas": [
+        "Cefalea.",
+        "Dolor abdominal.",
+        "Estreñimiento.",
+        "Diarrea.",
+        "Flatulencia.",
+        "Náuseas/vómitos.",
+        "Pólipos gástricos benignos."
+      ],
+      "reacciones_imagenes": ["Omeprazol_reacciones1.jpg"],
+
+      "contraindicaciones": [
+        "Hipersensibilidad a omeprazol y benzimidazoles.",
+        "Concomitancia con nelfinavir.",
+        "Úlcera gástrica maligna."
+      ],
+      "contra_imagenes": ["Omeprazol_contra1.jpg", "Omeprazol_contra2.jpg"]
+    },
+
+    {
+      "categoria": "Protectores gástricos",
+      "nombre": "Pantoprazol",
+      "nombre_imagenes": ["Pantoprazol_nombre1.jpg"],
+
+      "mecanismo_accion": "Inhibe la secreción de ácido en el estómago. Se une a la bomba de protones en la célula parietal gástrica, inhibiendo el transporte de H+ al lumen gástrico.",
+
+      "indicaciones_terapeuticas": [
+        "Esofagitis por reflujo gastroesofágico.",
+        "Úlcera gástrica y duodenal.",
+        "Síndrome de Zollinger-Ellison y otras enfermedades hipersecretoras patológicas.",
+        "Erradicación de Helicobacter pylori en combinación con terapia antibiótica adecuada en pacientes con H. pylori asociado a úlceras."
+      ],
+      "reacciones_adversas": [
+        "Pólipos de las glándulas fúndicas (benignos).",
+        "Tromboflebitis en el lugar de la inyección.",
+        "Parestesia.",
+        "Hipocalcemia."
+      ],
+      "reacciones_imagenes": ["Pantoprazol_reacciones1.jpg", "Pantoprazol_reacciones2.jpg"],
+
+      "contraindicaciones": [
+        "Hipersensibilidad al principio activo o a benzimidazoles sustituidos."
+      ],
+      "contra_imagenes": ["Pantoprazol_contra1.jpg"]
+    },
+
+    {
+      "categoria": "Protectores gástricos",
+      "nombre": "Famotidina",
+      "nombre_imagenes": ["Famotidina_nombre1.jpg"],
+
+      "mecanismo_accion": "Disminuye el contenido de ácido y de pepsina y el volumen de la secreción gástrica basal, nocturna y estimulada.",
+
+      "indicaciones_terapeuticas": [
+        "Úlcera duodenal.",
+        "Úlcera gástrica benigna.",
+        "Síndromes hipersecretores como el síndrome de Zollinger-Ellison.",
+        "Prevención de la recidiva de la úlcera duodenal.",
+        "Prevención de la recidiva de la úlcera gástrica benigna.",
+        "Esofagitis por reflujo gastroesofágico."
+      ],
+      "reacciones_adversas": [
+        "Cefalea.",
+        "Mareo.",
+        "Diarrea.",
+        "Estreñimiento."
+      ],
+      "reacciones_imagenes": ["Famotidina_reacciones1.jpg"],
+
+      "contraindicaciones": [
+        "Hipersensibilidad a famotidina y a otros antagonistas de receptores H2."
+      ],
+      "contra_imagenes": ["Famotidina_contra1.jpg"]
+    },
+
+    {
+      "categoria": "Protectores gástricos",
+      "nombre": "Sucralfato",
+      "nombre_imagenes": ["Sucralfato_nombre1.jpg"],
+
+      "mecanismo_accion": "En medio ácido produce un gel viscoso que se adhiere a las proteínas del cráter ulceroso, tapizándolo y protegiéndolo de la acción corrosiva del jugo gástrico.",
+
+      "indicaciones_terapeuticas": [
+        "Úlcera gástrica o duodenal.",
+        "Profilaxis de hemorragia gastrointestinal debida a úlcera de estrés en enfermos graves."
+      ],
+      "reacciones_adversas": [
+        "Estreñimiento."
+      ],
+      "reacciones_imagenes": ["Sucralfato_reacciones1.jpg"],
+
+      "contraindicaciones": [
+        "Hipersensibilidad."
+      ],
+      "contra_imagenes": ["Sucralfato_contra1.jpg"]
+    },
+
+    {
+      "categoria": "Protectores gástricos",
+      "nombre": "Magaldrato",
+      "nombre_imagenes": ["Magaldrato_nombre1.jpg"],
+
+      "mecanismo_accion": "Antiácido no absorbible, complejo aluminato de Mg hidratado con estructura reticular. Reacciona con ácido gástrico en etapas: tampona rápido el ácido clorhídrico estomacal seguido de un efecto antiácido sostenido.",
+
+      "indicaciones_terapeuticas": [
+        "Alivio y tratamiento sintomático de la acidez y ardor de estómago para adultos y niños > 12 años."
+      ],
+      "reacciones_adversas": [
+        "Muy raras: diarrea, estreñimiento."
+      ],
+      "reacciones_imagenes": ["Magaldrato_reacciones1.jpg"],
+
+      "contraindicaciones": [
+        "Hipersensibilidad.",
+        "Obstrucción orgánica del tubo digestivo.",
+        "Dolor abdominal de origen desconocido.",
+        "Uremia.",
+        "Hipofosfatemia.",
+        "Hipermagnesemia."
+      ],
+      "contra_imagenes": ["Magaldrato_contra1.jpg", "Magaldrato_contra2.jpg"]
+    }
+  ]
+}

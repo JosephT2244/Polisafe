@@ -1,0 +1,5383 @@
+[
+  {
+    "codigo": "0001",
+    "etiqueta": "Resistencia del cuidador familiar",
+    "definicion": "Gravedad del compromiso negativo en la salud y el bienestar del cuidador principal de un familiar, manifestado por alteraciones en la esfera biopsicosocial, financiera y espiritual debido a la carga sostenida del cuidado.",
+    "dominio": "Salud psicosocial",
+    "clase": "Bienestar psicológico",
+    "relacion_nanda": [
+      "00061",
+      "00062"
+    ],
+    "pagina_pdf": 568
+  },
+  {
+    "codigo": "0002",
+    "etiqueta": "Conservación de la salud del cuidador familiar",
+    "definicion": "Capacidad y acciones del cuidador familiar para gestionar su propio bienestar físico, emocional y social mientras proporciona cuidados a un tercero, manteniendo un equilibrio saludable entre sus responsabilidades y su autocuidado.",
+    "dominio": "Salud psicosocial",
+    "clase": "Bienestar psicológico",
+    "relacion_nanda": [
+      "00061"
+    ],
+    "pagina_pdf": 214
+  },
+  {
+    "codigo": "0003",
+    "etiqueta": "Descanso",
+    "definicion": "Grado y calidad del tiempo dedicado a la relajación mental y física, caracterizado por la interrupción de actividades demandantes, la recuperación de energía y la sensación de tranquilidad revitalizante.",
+    "dominio": "Salud fisiológica",
+    "clase": "Mantenimiento de la energía",
+    "relacion_nanda": [
+      "00095",
+      "00198"
+    ],
+    "pagina_pdf": 298
+  },
+  {
+    "codigo": "0004",
+    "etiqueta": "Sueño",
+    "definicion": "Suspensión periódica y natural de la conciencia, restauradora del organismo, que se evalúa según la duración, la eficiencia, la profundidad y la facilidad para conciliar y mantener el estado de adormecimiento.",
+    "dominio": "Salud fisiológica",
+    "clase": "Mantenimiento de la energía",
+    "relacion_nanda": [
+      "00095",
+      "00165"
+    ],
+    "pagina_pdf": 574
+  },
+  {
+    "codigo": "0005",
+    "etiqueta": "Tolerancia a la actividad",
+    "definicion": "Respuesta fisiológica ante los movimientos corporales que consumen energía en las actividades de la vida diaria, evaluando la capacidad de realizarlas sin experimentar fatiga excesiva, disnea o malestar.",
+    "dominio": "Salud fisiológica",
+    "clase": "Mantenimiento de la energía",
+    "relacion_nanda": [
+      "00092",
+      "00094"
+    ],
+    "pagina_pdf": 582
+  },
+  {
+    "codigo": "0006",
+    "etiqueta": "Energía psicomotora",
+    "definicion": "Capacidad de un individuo para movilizar y mantener la actividad mental y física necesaria para llevar a cabo las funciones diarias y la interacción social de manera efectiva.",
+    "dominio": "Salud psicosocial",
+    "clase": "Bienestar psicológico",
+    "relacion_nanda": [
+      "00158"
+    ],
+    "pagina_pdf": 332
+  },
+  {
+    "codigo": "0007",
+    "etiqueta": "Nivel de fatiga",
+    "definicion": "Magnitud de la percepción subjetiva de agotamiento, cansancio o falta de energía persistente que interfiere con la capacidad para realizar actividades físicas o intelectuales habituales.",
+    "dominio": "Salud fisiológica",
+    "clase": "Mantenimiento de la energía",
+    "relacion_nanda": [
+      "00093"
+    ],
+    "pagina_pdf": 435
+  },
+  {
+    "codigo": "0100",
+    "etiqueta": "Establecimiento de la lactancia materna: lactante",
+    "definicion": "Capacidad del lactante para agarrarse correctamente al pecho, succionar de forma eficaz y deglutir la leche durante las primeras 2 a 3 semanas de vida para asegurar su nutrición y crecimiento.",
+    "dominio": "Salud fisiológica",
+    "clase": "Nutrición",
+    "relacion_nanda": [
+      "00104",
+      "00105"
+    ],
+    "pagina_pdf": 338
+  },
+  {
+    "codigo": "0101",
+    "etiqueta": "Establecimiento de la lactancia materna: madre",
+    "definicion": "Capacidad de la madre para colocar al lactante de forma adecuada, facilitar el agarre, mantener la producción de leche y gestionar las molestias asociadas durante las primeras semanas postparto.",
+    "dominio": "Salud fisiológica",
+    "clase": "Nutrición",
+    "relacion_nanda": [
+      "00104",
+      "00106"
+    ],
+    "pagina_pdf": 341
+  },
+  {
+    "codigo": "0102",
+    "etiqueta": "Mantenimiento de la lactancia materna",
+    "definicion": "Continuidad del proceso de lactancia materna como fuente principal de nutrición para el lactante después del periodo de establecimiento inicial, superando barreras externas y fisiológicas.",
+    "dominio": "Salud fisiológica",
+    "clase": "Nutrición",
+    "relacion_nanda": [
+      "00105"
+    ],
+    "pagina_pdf": 344
+  },
+  {
+    "codigo": "0103",
+    "etiqueta": "Establecimiento de la alimentación con biberón",
+    "definicion": "Capacidad del lactante para succionar y deglutir el alimento desde un biberón de manera segura y eficiente, junto con la habilidad del cuidador para preparar y administrar la fórmula.",
+    "dominio": "Salud fisiológica",
+    "clase": "Nutrición",
+    "relacion_nanda": [
+      "00103"
+    ],
+    "pagina_pdf": 335
+  },
+  {
+    "codigo": "0104",
+    "etiqueta": "Destete de la lactancia materna",
+    "definicion": "Proceso gradual o brusco de interrupción de la alimentación al pecho, con la transición hacia otras fuentes de nutrición, manteniendo el bienestar emocional y físico de la madre y el niño.",
+    "dominio": "Salud fisiológica",
+    "clase": "Nutrición",
+    "relacion_nanda": [
+      "00104"
+    ],
+    "pagina_pdf": 299
+  },
+  {
+    "codigo": "0105",
+    "etiqueta": "Cese de la lactancia materna",
+    "definicion": "Finalización completa de la producción y excreción de leche materna, ya sea por elección personal, necesidad médica o finalización natural del proceso de destete.",
+    "dominio": "Salud fisiológica",
+    "clase": "Nutrición",
+    "relacion_nanda": [
+      "00104"
+    ],
+    "pagina_pdf": 198
+  },
+  {
+    "codigo": "0106",
+    "etiqueta": "Estado nutricional: del recién nacido",
+    "definicion": "Adecuación de la ingesta de nutrientes y el metabolismo en el lactante durante los primeros 28 días de vida para asegurar el crecimiento ponderal y el desarrollo orgánico óptimo.",
+    "dominio": "Salud fisiológica",
+    "clase": "Nutrición",
+    "relacion_nanda": [
+      "00107"
+    ],
+    "pagina_pdf": 365
+  },
+  {
+    "codigo": "0107",
+    "etiqueta": "Estado nutricional: ingestión de alimentos y líquidos",
+    "definicion": "Cantidad y tipo de nutrientes y líquidos consumidos por el individuo en un periodo de 24 horas para satisfacer las demandas metabólicas y mantener la homeostasis corporal.",
+    "dominio": "Salud fisiológica",
+    "clase": "Nutrición",
+    "relacion_nanda": [
+      "00002",
+      "00163"
+    ],
+    "pagina_pdf": 368
+  },
+  {
+    "codigo": "0108",
+    "etiqueta": "Estado nutricional: ingestión de nutrientes",
+    "definicion": "Idoneidad del patrón de consumo de macronutrientes (proteínas, grasas, carbohidratos) y micronutrientes (vitaminas y minerales) para cumplir con los requerimientos metabólicos específicos.",
+    "dominio": "Salud fisiológica",
+    "clase": "Nutrición",
+    "relacion_nanda": [
+      "00001",
+      "00002"
+    ],
+    "pagina_pdf": 371
+  },
+  {
+    "codigo": "0109",
+    "etiqueta": "Estado nutricional",
+    "definicion": "Grado en que los nutrientes son ingeridos, absorbidos y utilizados para satisfacer las necesidades metabólicas y mantener la integridad de los tejidos corporales.",
+    "dominio": "Salud fisiológica",
+    "clase": "Nutrición",
+    "relacion_nanda": [
+      "00001",
+      "00003"
+    ],
+    "pagina_pdf": 362
+  },
+  {
+    "codigo": "0110",
+    "etiqueta": "Crecimiento",
+    "definicion": "Aumento de las dimensiones corporales y de los órganos (peso, talla, perímetros) de acuerdo con los estándares establecidos para la edad y el sexo del individuo.",
+    "dominio": "Salud fisiológica",
+    "clase": "Crecimiento y desarrollo",
+    "relacion_nanda": [
+      "00111",
+      "00112"
+    ],
+    "pagina_pdf": 275
+  },
+  {
+    "codigo": "0111",
+    "etiqueta": "Desarrollo infantil: mes 1",
+    "definicion": "Hitos del desarrollo físico, cognitivo y psicosocial alcanzados por un lactante al finalizar el primer mes de vida, incluyendo reflejos y respuestas sensoriales básicas.",
+    "dominio": "Salud fisiológica",
+    "clase": "Crecimiento y desarrollo",
+    "relacion_nanda": [
+      "00111"
+    ],
+    "pagina_pdf": 280
+  },
+  {
+    "codigo": "0112",
+    "etiqueta": "Desarrollo infantil: mes 2",
+    "definicion": "Progresión de las capacidades motoras, sociales y de lenguaje en un lactante de dos meses, tales como el inicio de la sonrisa social y el control cefálico incipiente.",
+    "dominio": "Salud fisiológica",
+    "clase": "Crecimiento y desarrollo",
+    "relacion_nanda": [
+      "00111"
+    ],
+    "pagina_pdf": 281
+  },
+  {
+    "codigo": "0113",
+    "etiqueta": "Desarrollo infantil: mes 4",
+    "definicion": "Logros madurativos a los cuatro meses de edad, caracterizados por el seguimiento visual completo, el sostén cefálico firme y la interacción activa con el entorno.",
+    "dominio": "Salud fisiológica",
+    "clase": "Crecimiento y desarrollo",
+    "relacion_nanda": [
+      "00111"
+    ],
+    "pagina_pdf": 282
+  },
+  {
+    "codigo": "0114",
+    "etiqueta": "Desarrollo infantil: mes 6",
+    "definicion": "Hitos alcanzados a los seis meses, incluyendo la capacidad de rodar, el inicio de la sedestación con apoyo y la vocalización de sonidos polisílabos.",
+    "dominio": "Salud fisiológica",
+    "clase": "Crecimiento y desarrollo",
+    "relacion_nanda": [
+      "00111"
+    ],
+    "pagina_pdf": 283
+  },
+  {
+    "codigo": "0115",
+    "etiqueta": "Desarrollo infantil: mes 9",
+    "definicion": "Manifestaciones del desarrollo a los nueve meses, como la sedestación independiente, el gateo y la respuesta a órdenes verbales simples.",
+    "dominio": "Salud fisiológica",
+    "clase": "Crecimiento y desarrollo",
+    "relacion_nanda": [
+      "00111"
+    ],
+    "pagina_pdf": 284
+  },
+  {
+    "codigo": "0116",
+    "etiqueta": "Desarrollo infantil: mes 12",
+    "definicion": "Logros al primer año de vida, destacando la bipedestación con o sin apoyo, la pinza digital fina y la emisión de las primeras palabras con significado.",
+    "dominio": "Salud fisiológica",
+    "clase": "Crecimiento y desarrollo",
+    "relacion_nanda": [
+      "00111"
+    ],
+    "pagina_pdf": 285
+  },
+  {
+    "codigo": "0117",
+    "etiqueta": "Desarrollo infantil: 2 años",
+    "definicion": "Capacidades alcanzadas a los dos años, incluyendo la marcha estable, el uso de frases de dos palabras y el inicio de la autonomía en el juego.",
+    "dominio": "Salud fisiológica",
+    "clase": "Crecimiento y desarrollo",
+    "relacion_nanda": [
+      "00111"
+    ],
+    "pagina_pdf": 286
+  },
+  {
+    "codigo": "0118",
+    "etiqueta": "Desarrollo infantil: 3 años",
+    "definicion": "Hitos a los tres años, caracterizados por el control de esfínteres (frecuentemente), el uso de oraciones completas y la interacción social con pares.",
+    "dominio": "Salud fisiológica",
+    "clase": "Crecimiento y desarrollo",
+    "relacion_nanda": [
+      "00111"
+    ],
+    "pagina_pdf": 287
+  },
+  {
+    "codigo": "0119",
+    "etiqueta": "Desarrollo infantil: 4 años",
+    "definicion": "Habilidades a los cuatro años que incluyen el salto en un pie, el dibujo de figuras simples y el seguimiento de reglas en juegos grupales.",
+    "dominio": "Salud fisiológica",
+    "clase": "Crecimiento y desarrollo",
+    "relacion_nanda": [
+      "00111"
+    ],
+    "pagina_pdf": 288
+  },
+  {
+    "codigo": "0120",
+    "etiqueta": "Desarrollo infantil: 5 años",
+    "definicion": "Madurez alcanzada a los cinco años, con destrezas motoras finas desarrolladas, lenguaje fluido y comprensión de conceptos temporales básicos.",
+    "dominio": "Salud fisiológica",
+    "clase": "Crecimiento y desarrollo",
+    "relacion_nanda": [
+      "00111"
+    ],
+    "pagina_pdf": 289
+  },
+  {
+    "codigo": "0121",
+    "etiqueta": "Desarrollo infantil: segunda infancia (6-12 años)",
+    "definicion": "Evolución de las capacidades cognitivas, sociales y físicas durante la etapa escolar, enfocada en la lectoescritura, el razonamiento lógico y la identidad grupal.",
+    "dominio": "Salud fisiológica",
+    "clase": "Crecimiento y desarrollo",
+    "relacion_nanda": [
+      "00111"
+    ],
+    "pagina_pdf": 290
+  },
+  {
+    "codigo": "0122",
+    "etiqueta": "Desarrollo infantil: adolescencia (13-17 años)",
+    "definicion": "Transición hacia la madurez adulta, marcada por cambios puberales, desarrollo del pensamiento abstracto y búsqueda de la independencia personal.",
+    "dominio": "Salud fisiológica",
+    "clase": "Crecimiento y desarrollo",
+    "relacion_nanda": [
+      "00111"
+    ],
+    "pagina_pdf": 291
+  },
+  {
+    "codigo": "0200",
+    "etiqueta": "Ambular",
+    "definicion": "Capacidad de una persona para caminar de un lugar a otro por sí misma, con o sin dispositivos de ayuda, manteniendo el equilibrio, la estabilidad y la coordinación motora durante el trayecto.",
+    "dominio": "Salud fisiológica",
+    "clase": "Movilidad",
+    "relacion_nanda": [
+      "00085",
+      "00088",
+      "00091"
+    ],
+    "pagina_pdf": 115
+  },
+  {
+    "codigo": "0201",
+    "etiqueta": "Ambular: silla de ruedas",
+    "definicion": "Capacidad de una persona para desplazarse de un lugar a otro utilizando una silla de ruedas manual o motorizada, incluyendo la habilidad para maniobrar, frenar y sortear obstáculos de forma segura.",
+    "dominio": "Salud fisiológica",
+    "clase": "Movilidad",
+    "relacion_nanda": [
+      "00085",
+      "00089"
+    ],
+    "pagina_pdf": 118
+  },
+  {
+    "codigo": "0202",
+    "etiqueta": "Equilibrio",
+    "definicion": "Habilidad del organismo para mantener la alineación del cuerpo y la estabilidad postural frente a la gravedad, tanto en situaciones estáticas como durante el movimiento dinámico.",
+    "dominio": "Salud fisiológica",
+    "clase": "Movilidad",
+    "relacion_nanda": [
+      "00155",
+      "00238"
+    ],
+    "pagina_pdf": 328
+  },
+  {
+    "codigo": "0203",
+    "etiqueta": "Posición corporal: autoiniciada",
+    "definicion": "Capacidad de un individuo para cambiar, ajustar y mantener la posición de su propio cuerpo (como girarse en la cama o pasar de decúbito a sedestación) de forma autónoma y controlada.",
+    "dominio": "Salud fisiológica",
+    "clase": "Movilidad",
+    "relacion_nanda": [
+      "00085",
+      "00091"
+    ],
+    "pagina_pdf": 496
+  },
+  {
+    "codigo": "0204",
+    "etiqueta": "Consecuencias de la inmovilidad: fisiológicas",
+    "definicion": "Grado en que se ven comprometidas las funciones sistémicas del cuerpo (cardiovascular, respiratoria, metabólica, musculoesquelética) como resultado de la restricción prolongada del movimiento físico.",
+    "dominio": "Salud fisiológica",
+    "clase": "Movilidad",
+    "relacion_nanda": [
+      "00040",
+      "00047"
+    ],
+    "pagina_pdf": 210
+  },
+  {
+    "codigo": "0205",
+    "etiqueta": "Consecuencias de la inmovilidad: psicocognitivas",
+    "definicion": "Gravedad de las alteraciones en el estado de ánimo, la orientación, la memoria y la interacción social que ocurren como consecuencia directa de la falta de movilidad física y el aislamiento sensorial.",
+    "dominio": "Salud fisiológica",
+    "clase": "Movilidad",
+    "relacion_nanda": [
+      "00040",
+      "00154"
+    ],
+    "pagina_pdf": 213
+  },
+  {
+    "codigo": "0206",
+    "etiqueta": "Movimiento articular: articulaciones específicas",
+    "definicion": "Rango de movilidad activa o pasiva de una articulación determinada (hombro, cadera, rodilla, etc.) medido en grados y evaluado según la ausencia de rigidez o dolor durante el arco de movimiento.",
+    "dominio": "Salud fisiológica",
+    "clase": "Movilidad",
+    "relacion_nanda": [
+      "00085",
+      "00091"
+    ],
+    "pagina_pdf": 442
+  },
+  {
+    "codigo": "0207",
+    "etiqueta": "Movimiento articular: cadera",
+    "definicion": "Amplitud y libertad de movimiento de la articulación coxofemoral en los ejes de flexión, extensión, abducción, aducción y rotación, crucial para la bipedestación y la marcha.",
+    "dominio": "Salud fisiológica",
+    "clase": "Movilidad",
+    "relacion_nanda": [
+      "00085"
+    ],
+    "pagina_pdf": 444
+  },
+  {
+    "codigo": "0208",
+    "etiqueta": "Movilidad",
+    "definicion": "Capacidad del individuo para moverse de forma deliberada en su entorno físico, incluyendo la transferencia, la marcha y el cambio de posiciones corporales con propósito.",
+    "dominio": "Salud fisiológica",
+    "clase": "Movilidad",
+    "relacion_nanda": [
+      "00085",
+      "00091"
+    ],
+    "pagina_pdf": 438
+  },
+  {
+    "codigo": "0209",
+    "etiqueta": "Función muscular",
+    "definicion": "Capacidad de los músculos para contraerse con la fuerza necesaria, mantener el tono adecuado y responder a los estímulos nerviosos para generar movimiento o mantener la postura.",
+    "dominio": "Salud fisiológica",
+    "clase": "Movilidad",
+    "relacion_nanda": [
+      "00085",
+      "00091"
+    ],
+    "pagina_pdf": 395
+  },
+  {
+    "codigo": "0210",
+    "etiqueta": "Realización de transferencia",
+    "definicion": "Capacidad del individuo para cambiar de un lugar a otro (por ejemplo, de la cama a la silla, o de la silla al inodoro) de manera segura y eficiente, con o sin asistencia.",
+    "dominio": "Salud fisiológica",
+    "clase": "Movilidad",
+    "relacion_nanda": [
+      "00089",
+      "00090"
+    ],
+    "pagina_pdf": 532
+  },
+  {
+    "codigo": "0211",
+    "etiqueta": "Función esquelética",
+    "definicion": "Capacidad del sistema óseo para proporcionar soporte estructural al cuerpo, proteger los órganos internos y permitir el movimiento mediante la integridad de la densidad y forma ósea.",
+    "dominio": "Salud fisiológica",
+    "clase": "Movilidad",
+    "relacion_nanda": [
+      "00085",
+      "00155"
+    ],
+    "pagina_pdf": 390
+  },
+  {
+    "codigo": "0212",
+    "etiqueta": "Movimiento articular: rodilla",
+    "definicion": "Rango de movimiento y estabilidad funcional de la articulación de la rodilla, fundamental para la carga de peso, la deambulación y las actividades de la vida diaria.",
+    "dominio": "Salud fisiológica",
+    "clase": "Movilidad",
+    "relacion_nanda": [
+      "00085"
+    ],
+    "pagina_pdf": 446
+  },
+  {
+    "codigo": "0213",
+    "etiqueta": "Movimiento articular: tobillo",
+    "definicion": "Extensión y flexión (dorsiflexión y flexión plantar) de la articulación del tobillo, necesaria para la propulsión durante la marcha y el mantenimiento del equilibrio.",
+    "dominio": "Salud fisiológica",
+    "clase": "Movilidad",
+    "relacion_nanda": [
+      "00085"
+    ],
+    "pagina_pdf": 448
+  },
+  {
+    "codigo": "0214",
+    "etiqueta": "Movimiento articular: dedos de la mano",
+    "definicion": "Capacidad de realizar movimientos finos de flexión, extensión y oposición de los dedos, esenciales para la manipulación de objetos y las actividades de autocuidado.",
+    "dominio": "Salud fisiológica",
+    "clase": "Movilidad",
+    "relacion_nanda": [
+      "00085",
+      "00103"
+    ],
+    "pagina_pdf": 443
+  },
+  {
+    "codigo": "0215",
+    "etiqueta": "Movimiento articular: muñeca",
+    "definicion": "Amplitud de movimiento de la muñeca en flexión, extensión y desviaciones lateral/medial, permitiendo el posicionamiento correcto de la mano para la función prensil.",
+    "dominio": "Salud fisiológica",
+    "clase": "Movilidad",
+    "relacion_nanda": [
+      "00085"
+    ],
+    "pagina_pdf": 445
+  },
+  {
+    "codigo": "0216",
+    "etiqueta": "Movimiento articular: codo",
+    "definicion": "Funcionalidad de la articulación del codo en sus movimientos de flexión, extensión y pronosupinación del antebrazo para acercar o alejar objetos del cuerpo.",
+    "dominio": "Salud fisiológica",
+    "clase": "Movilidad",
+    "relacion_nanda": [
+      "00085"
+    ],
+    "pagina_pdf": 441
+  },
+  {
+    "codigo": "0217",
+    "etiqueta": "Movimiento articular: hombro",
+    "definicion": "Integridad del rango de movimiento del complejo articular del hombro, permitiendo la elevación, rotación y alcance del miembro superior en todas las direcciones.",
+    "dominio": "Salud fisiológica",
+    "clase": "Movilidad",
+    "relacion_nanda": [
+      "00085"
+    ],
+    "pagina_pdf": 442
+  },
+  {
+    "codigo": "0218",
+    "etiqueta": "Movimiento articular: columna vertebral",
+    "definicion": "Flexibilidad y rango de movimiento de los segmentos cervical, torácico y lumbar de la espalda, permitiendo la rotación, flexión lateral y flexión/extensión del tronco.",
+    "dominio": "Salud fisiológica",
+    "clase": "Movilidad",
+    "relacion_nanda": [
+      "00085"
+    ],
+    "pagina_pdf": 440
+  },
+  {
+    "codigo": "0219",
+    "etiqueta": "Nivel de movilidad",
+    "definicion": "Estado general de la capacidad de un individuo para desplazarse y realizar actividades motoras gruesas, puntuado según el nivel de independencia o dependencia de ayuda externa.",
+    "dominio": "Salud fisiológica",
+    "clase": "Movilidad",
+    "relacion_nanda": [
+      "00085"
+    ],
+    "pagina_pdf": 439
+  },
+  {
+    "codigo": "0300",
+    "etiqueta": "Autocuidado: actividades de la vida diaria (AVD)",
+    "definicion": "Capacidad del individuo para realizar las tareas básicas de cuidado personal de forma independiente, tales como alimentarse, vestirse, asearse y mantener la higiene personal.",
+    "dominio": "Salud funcional",
+    "clase": "Autocuidado",
+    "relacion_nanda": [
+      "00102",
+      "00108",
+      "00109",
+      "00110"
+    ],
+    "pagina_pdf": 132
+  },
+  {
+    "codigo": "0301",
+    "etiqueta": "Autocuidado: baño",
+    "definicion": "Habilidad para lavar el propio cuerpo, acceder al suministro de agua, obtener los artículos de limpieza y secar la piel de manera efectiva para mantener la higiene.",
+    "dominio": "Salud funcional",
+    "clase": "Autocuidado",
+    "relacion_nanda": [
+      "00108"
+    ],
+    "pagina_pdf": 133
+  },
+  {
+    "codigo": "0302",
+    "etiqueta": "Autocuidado: vestir",
+    "definicion": "Capacidad para elegir la ropa adecuada, ponérsela y quitársela, y manejar los cierres o abalorios (botones, cremalleras) necesarios para mantener la apariencia y protección personal.",
+    "dominio": "Salud funcional",
+    "clase": "Autocuidado",
+    "relacion_nanda": [
+      "00109"
+    ],
+    "pagina_pdf": 136
+  },
+  {
+    "codigo": "0303",
+    "etiqueta": "Autocuidado: comer",
+    "definicion": "Capacidad para llevar la comida a la boca, masticar y tragar los alimentos de manera segura, así como manejar los utensilios de mesa de forma coordinada.",
+    "dominio": "Salud funcional",
+    "clase": "Autocuidado",
+    "relacion_nanda": [
+      "00102"
+    ],
+    "pagina_pdf": 134
+  },
+  {
+    "codigo": "0304",
+    "etiqueta": "Autocuidado: consumo de alimentos",
+    "definicion": "Acciones personales para ingerir una cantidad suficiente de nutrientes y calorías que satisfagan las necesidades biológicas y mantengan el peso corporal saludable.",
+    "dominio": "Salud funcional",
+    "clase": "Autocuidado",
+    "relacion_nanda": [
+      "00001",
+      "00002"
+    ],
+    "pagina_pdf": 135
+  },
+  {
+    "codigo": "0305",
+    "etiqueta": "Autocuidado: higiene",
+    "definicion": "Capacidad para realizar las prácticas de limpieza del propio cuerpo y su entorno inmediato para prevenir enfermedades y promover el bienestar físico y social.",
+    "dominio": "Salud funcional",
+    "clase": "Autocuidado",
+    "relacion_nanda": [
+      "00108",
+      "00193"
+    ],
+    "pagina_pdf": 138
+  },
+  {
+    "codigo": "0306",
+    "etiqueta": "Autocuidado: higiene oral",
+    "definicion": "Capacidad para limpiar los dientes, las encías, la lengua y las mucosas de la boca, incluyendo el uso de cepillo, hilo dental y otros dispositivos para evitar caries e infecciones.",
+    "dominio": "Salud funcional",
+    "clase": "Autocuidado",
+    "relacion_nanda": [
+      "00045"
+    ],
+    "pagina_pdf": 139
+  },
+  {
+    "codigo": "0307",
+    "etiqueta": "Autocuidado: uso del inodoro",
+    "definicion": "Habilidad para desplazarse al inodoro o orinal, sentarse, realizar la evacuación, limpiarse adecuadamente y volver a vestirse de forma autónoma.",
+    "dominio": "Salud funcional",
+    "clase": "Autocuidado",
+    "relacion_nanda": [
+      "00110"
+    ],
+    "pagina_pdf": 142
+  },
+  {
+    "codigo": "0308",
+    "etiqueta": "Autocuidado: aseo",
+    "definicion": "Acciones necesarias para mantener una apariencia cuidada, incluyendo el peinado del cabello, el cuidado de las uñas y el afeitado o cuidado del vello facial.",
+    "dominio": "Salud funcional",
+    "clase": "Autocuidado",
+    "relacion_nanda": [
+      "00108"
+    ],
+    "pagina_pdf": 137
+  },
+  {
+    "codigo": "0309",
+    "etiqueta": "Autocuidado: instrumentales de la vida diaria (AIVD)",
+    "definicion": "Capacidad para realizar tareas complejas necesarias para vivir de forma independiente en la comunidad, como preparar comidas, manejar dinero, usar el teléfono y gestionar medicación.",
+    "dominio": "Salud funcional",
+    "clase": "Autocuidado",
+    "relacion_nanda": [
+      "00193",
+      "00161"
+    ],
+    "pagina_pdf": 140
+  },
+  {
+    "codigo": "0310",
+    "etiqueta": "Autocuidado: medicación parenteral",
+    "definicion": "Acciones personales para administrar de forma segura y autónoma medicamentos por vía subcutánea, intramuscular o intravenosa, incluyendo la preparación de la dosis, la técnica aséptica y el desecho de agujas.",
+    "dominio": "Salud funcional",
+    "clase": "Autocuidado",
+    "relacion_nanda": [
+      "00078",
+      "00161"
+    ],
+    "pagina_pdf": 141
+  },
+  {
+    "codigo": "0311",
+    "etiqueta": "Autocuidado: medicación no parenteral",
+    "definicion": "Acciones personales para ingerir o aplicar de forma autónoma medicamentos por vías no invasivas (oral, tópica, inhalatoria, rectal o vaginal), siguiendo la pauta prescrita y vigilando efectos secundarios.",
+    "dominio": "Salud funcional",
+    "clase": "Autocuidado",
+    "relacion_nanda": [
+      "00078",
+      "00161"
+    ],
+    "pagina_pdf": 143
+  },
+  {
+    "codigo": "0312",
+    "etiqueta": "Autocuidado: ostomía",
+    "definicion": "Capacidad del individuo para mantener la integridad del estoma y la piel circundante, vaciar y cambiar el dispositivo de bolsa, y gestionar la eliminación de forma independiente y aséptica.",
+    "dominio": "Salud funcional",
+    "clase": "Autocuidado",
+    "relacion_nanda": [
+      "00013",
+      "00108"
+    ],
+    "pagina_pdf": 144
+  },
+  {
+    "codigo": "0313",
+    "etiqueta": "Autocuidado: lentes de contacto",
+    "definicion": "Habilidad para insertar, retirar, limpiar y almacenar correctamente las lentes de contacto, asegurando la higiene ocular y el mantenimiento óptimo del dispositivo corrector.",
+    "dominio": "Salud funcional",
+    "clase": "Autocuidado",
+    "relacion_nanda": [
+      "00108"
+    ],
+    "pagina_pdf": 145
+  },
+  {
+    "codigo": "0400",
+    "etiqueta": "Efectividad de la bomba cardíaca",
+    "definicion": "Adecuación del volumen de sangre expulsado por los ventrículos para satisfacer las demandas metabólicas del organismo, reflejado en la presión arterial, el gasto cardíaco y la ausencia de congestión.",
+    "dominio": "Salud fisiológica",
+    "clase": "Cardiorrespiratorio",
+    "relacion_nanda": [
+      "00029"
+    ],
+    "pagina_pdf": 315
+  },
+  {
+    "codigo": "0401",
+    "etiqueta": "Estado circulatorio",
+    "definicion": "Grado en que la sangre fluye sin obstrucciones a través de los vasos sanguíneos de los circuitos sistémico y pulmonar, manteniendo la perfusión tisular y el equilibrio hemodinámico.",
+    "dominio": "Salud fisiológica",
+    "clase": "Cardiorrespiratorio",
+    "relacion_nanda": [
+      "00200",
+      "00201",
+      "00204"
+    ],
+    "pagina_pdf": 355
+  },
+  {
+    "codigo": "0402",
+    "etiqueta": "Estado respiratorio: intercambio gaseoso",
+    "definicion": "Intercambio alveolar de dióxido de carbono y oxígeno para mantener las concentraciones de gases en sangre arterial dentro de los parámetros normales de homeostasis.",
+    "dominio": "Salud fisiológica",
+    "clase": "Cardiorrespiratorio",
+    "relacion_nanda": [
+      "00030"
+    ],
+    "pagina_pdf": 372
+  },
+  {
+    "codigo": "0403",
+    "etiqueta": "Estado respiratorio: permeabilidad de las vías respiratorias",
+    "definicion": "Grado en que las vías traqueobronquiales permanecen abiertas y libres de obstrucciones, permitiendo el paso del aire desde el exterior hasta los alvéolos de forma eficaz.",
+    "dominio": "Salud fisiológica",
+    "clase": "Cardiorrespiratorio",
+    "relacion_nanda": [
+      "00031"
+    ],
+    "pagina_pdf": 375
+  },
+  {
+    "codigo": "0404",
+    "etiqueta": "Perfusión tisular: órganos abdominales",
+    "definicion": "Grado en que la sangre fluye a través de los vasos sanguíneos de las vísceras abdominales para mantener la función orgánica y la integridad de los tejidos gastrointestinales y renales.",
+    "dominio": "Salud fisiológica",
+    "clase": "Cardiorrespiratorio",
+    "relacion_nanda": [
+      "00204"
+    ],
+    "pagina_pdf": 484
+  },
+  {
+    "codigo": "0405",
+    "etiqueta": "Perfusión tisular: cardíaca",
+    "definicion": "Grado en que la sangre fluye a través de las arterias coronarias para mantener la oxigenación y el funcionamiento adecuado del miocardio.",
+    "dominio": "Salud fisiológica",
+    "clase": "Cardiorrespiratorio",
+    "relacion_nanda": [
+      "00200"
+    ],
+    "pagina_pdf": 485
+  },
+  {
+    "codigo": "0406",
+    "etiqueta": "Perfusión tisular: cerebral",
+    "definicion": "Grado en que la sangre fluye a través de la vasculatura cerebral para mantener la presión de perfusión y la oxigenación del tejido encefálico, preservando las funciones neurológicas.",
+    "dominio": "Salud fisiológica",
+    "clase": "Cardiorrespiratorio",
+    "relacion_nanda": [
+      "00201"
+    ],
+    "pagina_pdf": 486
+  },
+  {
+    "codigo": "0407",
+    "etiqueta": "Perfusión tisular: periférica",
+    "definicion": "Grado en que la sangre fluye a través de las extremidades distales para mantener la temperatura cutánea, el llenado capilar y la integridad de la piel y los tejidos de brazos y piernas.",
+    "dominio": "Salud fisiológica",
+    "clase": "Cardiorrespiratorio",
+    "relacion_nanda": [
+      "00204"
+    ],
+    "pagina_pdf": 487
+  },
+  {
+    "codigo": "0408",
+    "etiqueta": "Perfusión tisular: pulmonar",
+    "definicion": "Grado en que la sangre fluye a través de la vasculatura pulmonar en estrecha relación con los alvéolos para facilitar una hematosis eficiente.",
+    "dominio": "Salud fisiológica",
+    "clase": "Cardiorrespiratorio",
+    "relacion_nanda": [
+      "00030"
+    ],
+    "pagina_pdf": 488
+  },
+  {
+    "codigo": "0409",
+    "etiqueta": "Coagulación sanguínea",
+    "definicion": "Grado en que la sangre se condensa y forma coágulos de manera adecuada para detener hemorragias, manteniendo el equilibrio entre los factores procoagulantes y fibrinolíticos.",
+    "dominio": "Salud fisiológica",
+    "clase": "Cardiorrespiratorio",
+    "relacion_nanda": [
+      "00206"
+    ],
+    "pagina_pdf": 202
+  },
+  {
+    "codigo": "0410",
+    "etiqueta": "Estado respiratorio: ventilación",
+    "definicion": "Movimiento de aire hacia dentro y hacia fuera de los pulmones, caracterizado por la frecuencia, el ritmo, la profundidad y el esfuerzo respiratorio adecuado.",
+    "dominio": "Salud fisiológica",
+    "clase": "Cardiorrespiratorio",
+    "relacion_nanda": [
+      "00032"
+    ],
+    "pagina_pdf": 376
+  },
+  {
+    "codigo": "0411",
+    "etiqueta": "Respuesta al destete de la ventilación mecánica: adulto",
+    "definicion": "Adaptación fisiológica y psicológica de un paciente adulto a la reducción y posterior retirada del soporte ventilatorio mecánico.",
+    "dominio": "Salud fisiológica",
+    "clase": "Cardiorrespiratorio",
+    "relacion_nanda": [
+      "00034"
+    ],
+    "pagina_pdf": 554
+  },
+  {
+    "codigo": "0412",
+    "etiqueta": "Respuesta al destete de la ventilación mecánica: niño",
+    "definicion": "Capacidad de un paciente pediátrico para asumir el trabajo respiratorio espontáneo a medida que se disminuye el soporte del ventilador mecánico.",
+    "dominio": "Salud fisiológica",
+    "clase": "Cardiorrespiratorio",
+    "relacion_nanda": [
+      "00034"
+    ],
+    "pagina_pdf": 556
+  },
+  {
+    "codigo": "0413",
+    "etiqueta": "Severidad de la pérdida de sangre",
+    "definicion": "Magnitud de una hemorragia interna o externa, evaluada a través de la estabilidad hemodinámica y la pérdida estimada de volumen circulante.",
+    "dominio": "Salud fisiológica",
+    "clase": "Cardiorrespiratorio",
+    "relacion_nanda": [
+      "00206"
+    ],
+    "pagina_pdf": 570
+  },
+  {
+    "codigo": "0414",
+    "etiqueta": "Estado cardiopulmonar",
+    "definicion": "Grado en que los sistemas cardíaco y respiratorio funcionan en conjunto para suministrar oxígeno y eliminar dióxido de carbono de los tejidos corporales.",
+    "dominio": "Salud fisiológica",
+    "clase": "Cardiorrespiratorio",
+    "relacion_nanda": [
+      "00030",
+      "00204"
+    ],
+    "pagina_pdf": 352
+  },
+  {
+    "codigo": "0415",
+    "etiqueta": "Estado respiratorio",
+    "definicion": "Estado global de los pulmones y las vías respiratorias, reflejado en la permeabilidad de las vías, el intercambio gaseoso y la eficacia de la ventilación corporal.",
+    "dominio": "Salud fisiológica",
+    "clase": "Cardiorrespiratorio",
+    "relacion_nanda": [
+      "00031",
+      "00032"
+    ],
+    "pagina_pdf": 371
+  },
+  {
+    "codigo": "0500",
+    "etiqueta": "Continencia urinaria",
+    "definicion": "Control consciente y voluntario de la eliminación de orina desde la vejiga, manteniendo la capacidad de retrasar la micción hasta encontrar un lugar y momento socialmente aceptables.",
+    "dominio": "Salud fisiológica",
+    "clase": "Eliminación",
+    "relacion_nanda": [
+      "00016",
+      "00017",
+      "00019"
+    ],
+    "pagina_pdf": 222
+  },
+  {
+    "codigo": "0501",
+    "etiqueta": "Eliminación urinaria",
+    "definicion": "Capacidad del sistema urinario para filtrar, almacenar y evacuar la orina, manteniendo un patrón de frecuencia, cantidad y color dentro de los rangos normales.",
+    "dominio": "Salud fisiológica",
+    "clase": "Eliminación",
+    "relacion_nanda": [
+      "00016",
+      "00023"
+    ],
+    "pagina_pdf": 330
+  },
+  {
+    "codigo": "0502",
+    "etiqueta": "Continencia fecal",
+    "definicion": "Capacidad de controlar voluntariamente la expulsión de heces y gases desde el recto, discriminando entre el contenido sólido, líquido y gaseoso.",
+    "dominio": "Salud fisiológica",
+    "clase": "Eliminación",
+    "relacion_nanda": [
+      "00014"
+    ],
+    "pagina_pdf": 221
+  },
+  {
+    "codigo": "0503",
+    "etiqueta": "Eliminación intestinal",
+    "definicion": "Formación y evacuación de heces a través del tracto digestivo bajo, caracterizada por una consistencia adecuada, frecuencia regular y ausencia de dolor o esfuerzo excesivo.",
+    "dominio": "Salud fisiológica",
+    "clase": "Eliminación",
+    "relacion_nanda": [
+      "00011",
+      "00013",
+      "00196"
+    ],
+    "pagina_pdf": 329
+  },
+  {
+    "codigo": "0600",
+    "etiqueta": "Equilibrio electrolítico y ácido-base",
+    "definicion": "Mantenimiento de las concentraciones de iones (sodio, potasio, calcio, etc.) y del pH en los compartimentos intracelular y extracelular para garantizar la función celular óptima.",
+    "dominio": "Salud fisiológica",
+    "clase": "Líquidos y electrolitos",
+    "relacion_nanda": [
+      "00195",
+      "00197"
+    ],
+    "pagina_pdf": 326
+  },
+  {
+    "codigo": "0601",
+    "etiqueta": "Equilibrio hídrico",
+    "definicion": "Equilibrio entre la entrada y salida de agua en los compartimentos corporales, evidenciado por la turgencia cutánea, la estabilidad de los signos vitales y la ausencia de edema.",
+    "dominio": "Salud fisiológica",
+    "clase": "Líquidos y electrolitos",
+    "relacion_nanda": [
+      "00025",
+      "00026",
+      "00027"
+    ],
+    "pagina_pdf": 327
+  },
+  {
+    "codigo": "0602",
+    "etiqueta": "Hidratación",
+    "definicion": "Cantidad adecuada de agua en los compartimentos intracelular y extracelular del organismo para permitir los procesos metabólicos y la perfusión de los tejidos.",
+    "dominio": "Salud fisiológica",
+    "clase": "Líquidos y electrolitos",
+    "relacion_nanda": [
+      "00027",
+      "00028"
+    ],
+    "pagina_pdf": 405
+  },
+  {
+    "codigo": "0603",
+    "etiqueta": "Severidad de la sobrecarga de líquidos",
+    "definicion": "Gravedad de la acumulación excesiva de líquidos en los compartimentos intersticial e intravascular, manifestada por aumento de peso, edema y dificultad respiratoria.",
+    "dominio": "Salud fisiológica",
+    "clase": "Líquidos y electrolitos",
+    "relacion_nanda": [
+      "00026"
+    ],
+    "pagina_pdf": 573
+  },
+  {
+    "codigo": "0604",
+    "etiqueta": "Estado de la deglución",
+    "definicion": "Tránsito seguro y eficiente de sólidos y líquidos desde la boca hasta el estómago, sin riesgo de aspiración y manteniendo la integridad de las fases oral, faríngea y esofágica.",
+    "dominio": "Salud fisiológica",
+    "clase": "Nutrición",
+    "relacion_nanda": [
+      "00103"
+    ],
+    "pagina_pdf": 358
+  },
+  {
+    "codigo": "0605",
+    "etiqueta": "Estado de la deglución: fase oral",
+    "definicion": "Preparación del bolo alimenticio en la boca, incluyendo la masticación, la salivación y el movimiento lingual para propulsar el bolo hacia la orofaringe.",
+    "dominio": "Salud fisiológica",
+    "clase": "Nutrición",
+    "relacion_nanda": [
+      "00103"
+    ],
+    "pagina_pdf": 359
+  },
+  {
+    "codigo": "0606",
+    "etiqueta": "Estado de la deglución: fase faríngea",
+    "definicion": "Paso seguro del bolo alimenticio a través de la orofaringe hacia el esófago, que incluye el cierre glótico para prevenir la aspiración traqueal, la elevación del hioides y la relajación del esfínter esofágico superior.",
+    "dominio": "Salud fisiológica",
+    "clase": "Nutrición",
+    "relacion_nanda": [
+      "00103"
+    ],
+    "pagina_pdf": 360
+  },
+  {
+    "codigo": "0607",
+    "etiqueta": "Estado de la deglución: fase esofágica",
+    "definicion": "Tránsito del alimento o líquidos desde el esófago superior hasta el estómago mediante ondas peristálticas coordinadas y la apertura del esfínter esofágico inferior, evitando el reflujo o la estasis alimentaria.",
+    "dominio": "Salud fisiológica",
+    "clase": "Nutrición",
+    "relacion_nanda": [
+      "00103"
+    ],
+    "pagina_pdf": 361
+  },
+  {
+    "codigo": "0700",
+    "etiqueta": "Reacción transfusional sanguínea",
+    "definicion": "Gravedad de las respuestas sistémicas adversas (inmunitarias o no) del organismo ante la administración de sangre o hemoderivados, evaluando signos como fiebre, escalofríos, urticaria o inestabilidad hemodinámica.",
+    "dominio": "Salud fisiológica",
+    "clase": "Respuesta inmune",
+    "relacion_nanda": [
+      "00087"
+    ],
+    "pagina_pdf": 530
+  },
+  {
+    "codigo": "0701",
+    "etiqueta": "Severidad de la infección",
+    "definicion": "Grado de los signos y síntomas presentes durante un proceso infeccioso, evaluando la respuesta inflamatoria local o sistémica, cambios en el recuento leucocitario y la alteración de la función de los órganos afectados.",
+    "dominio": "Salud fisiológica",
+    "clase": "Respuesta inmune",
+    "relacion_nanda": [
+      "00004",
+      "00266"
+    ],
+    "pagina_pdf": 571
+  },
+  {
+    "codigo": "0702",
+    "etiqueta": "Estado inmune",
+    "definicion": "Capacidad del organismo para resistir y combatir la invasión de agentes patógenos mediante respuestas celulares y humorales adecuadas, manteniendo el equilibrio entre la vigilancia y la tolerancia inmunológica.",
+    "dominio": "Salud fisiológica",
+    "clase": "Respuesta inmune",
+    "relacion_nanda": [
+      "00043"
+    ],
+    "pagina_pdf": 361
+  },
+  {
+    "codigo": "0703",
+    "etiqueta": "Severidad de la infección: recién nacido",
+    "definicion": "Magnitud de la respuesta sistémica de un neonato (0-28 días) ante un patógeno, caracterizada por inestabilidad térmica, rechazo al alimento, letargia o alteraciones cardiorrespiratorias críticas.",
+    "dominio": "Salud fisiológica",
+    "clase": "Respuesta inmune",
+    "relacion_nanda": [
+      "00004"
+    ],
+    "pagina_pdf": 572
+  },
+  {
+    "codigo": "0704",
+    "etiqueta": "Severidad de la respuesta alérgica",
+    "definicion": "Gravedad de la reacción de hipersensibilidad mediada por el sistema inmune ante un antígeno específico, que puede variar desde manifestaciones cutáneas leves hasta choque anafiláctico con compromiso vital.",
+    "dominio": "Salud fisiológica",
+    "clase": "Respuesta inmune",
+    "relacion_nanda": [
+      "00217",
+      "00218"
+    ],
+    "pagina_pdf": 574
+  },
+  {
+    "codigo": "0800",
+    "etiqueta": "Termorregulación",
+    "definicion": "Capacidad del organismo para mantener la temperatura corporal central dentro del rango homeostático normal (36.5°C - 37.5°C), equilibrando la producción de calor (termogénesis) con la pérdida de calor (termólisis).",
+    "dominio": "Salud fisiológica",
+    "clase": "Regulación metabólica",
+    "relacion_nanda": [
+      "00005",
+      "00006",
+      "00007",
+      "00008"
+    ],
+    "pagina_pdf": 578
+  },
+  {
+    "codigo": "0801",
+    "etiqueta": "Termorregulación: recién nacido",
+    "definicion": "Capacidad del neonato para mantener una temperatura corporal estable, minimizando el estrés por frío o calor extremo, dada su inmadurez fisiológica, escaso tejido adiposo pardo y alta relación superficie/volumen.",
+    "dominio": "Salud fisiológica",
+    "clase": "Regulación metabólica",
+    "relacion_nanda": [
+      "00008",
+      "00280"
+    ],
+    "pagina_pdf": 579
+  },
+  {
+    "codigo": "0802",
+    "etiqueta": "Signos vitales",
+    "definicion": "Grado en que la temperatura corporal, el pulso, la frecuencia respiratoria y la presión arterial se encuentran dentro de los rangos fisiológicos normales para la edad y condición del individuo, reflejando su estado hemodinámico básico.",
+    "dominio": "Salud fisiológica",
+    "clase": "Regulación metabólica",
+    "relacion_nanda": [
+      "00032",
+      "00204",
+      "00267"
+    ],
+    "pagina_pdf": 575
+  },
+  {
+    "codigo": "0900",
+    "etiqueta": "Capacidad cognitiva",
+    "definicion": "Habilidad de un individuo para ejecutar funciones mentales superiores, incluyendo la atención, memoria, orientación, juicio y resolución de problemas de manera adecuada al contexto y etapa de desarrollo.",
+    "dominio": "Salud fisiológica",
+    "clase": "Neurocognitivo",
+    "relacion_nanda": [
+      "00128",
+      "00131"
+    ],
+    "pagina_pdf": 168
+  },
+  {
+    "codigo": "0901",
+    "etiqueta": "Orientación cognitiva",
+    "definicion": "Habilidad para identificar correctamente a las personas, el lugar geográfico, el tiempo (día, mes, año) y las circunstancias actuales que rodean al individuo.",
+    "dominio": "Salud fisiológica",
+    "clase": "Neurocognitivo",
+    "relacion_nanda": [
+      "00128",
+      "00129"
+    ],
+    "pagina_pdf": 472
+  },
+  {
+    "codigo": "0902",
+    "etiqueta": "Comunicación",
+    "definicion": "Capacidad de un individuo para recibir, procesar e intercambiar información, sentimientos e ideas mediante el lenguaje verbal, escrito o gestual, logrando una comprensión compartida.",
+    "dominio": "Salud fisiológica",
+    "clase": "Neurocognitivo",
+    "relacion_nanda": [
+      "00051"
+    ],
+    "pagina_pdf": 204
+  },
+  {
+    "codigo": "0903",
+    "etiqueta": "Comunicación: expresiva",
+    "definicion": "Habilidad para emitir mensajes coherentes utilizando palabras, símbolos o gestos para transmitir necesidades, pensamientos y sentimientos a otros de forma comprensible.",
+    "dominio": "Salud fisiológica",
+    "clase": "Neurocognitivo",
+    "relacion_nanda": [
+      "00051"
+    ],
+    "pagina_pdf": 205
+  },
+  {
+    "codigo": "0904",
+    "etiqueta": "Comunicación: receptiva",
+    "definicion": "Capacidad para procesar, interpretar y comprender los mensajes visuales, auditivos o táctiles enviados por otros, permitiendo una respuesta adecuada a la información recibida.",
+    "dominio": "Salud fisiológica",
+    "clase": "Neurocognitivo",
+    "relacion_nanda": [
+      "00051"
+    ],
+    "pagina_pdf": 206
+  },
+  {
+    "codigo": "0905",
+    "etiqueta": "Concentración",
+    "definicion": "Habilidad para enfocar de manera selectiva y sostenida la atención en un estímulo, tarea u objeto específico, inhibiendo las distracciones del entorno para completar una actividad.",
+    "dominio": "Salud fisiológica",
+    "clase": "Neurocognitivo",
+    "relacion_nanda": [
+      "00128",
+      "00173"
+    ],
+    "pagina_pdf": 208
+  },
+  {
+    "codigo": "0906",
+    "etiqueta": "Toma de decisiones",
+    "definicion": "Capacidad para elegir entre dos o más alternativas después de evaluar los riesgos, beneficios y consecuencias de cada opción, actuando conforme a los propios valores y necesidades.",
+    "dominio": "Salud fisiológica",
+    "clase": "Neurocognitivo",
+    "relacion_nanda": [
+      "00083"
+    ],
+    "pagina_pdf": 581
+  },
+  {
+    "codigo": "0907",
+    "etiqueta": "Elaboración de la información",
+    "definicion": "Capacidad cognitiva para integrar datos sensoriales y conceptuales, analizarlos y organizar una respuesta lógica o una conclusión coherente basada en la experiencia previa.",
+    "dominio": "Salud fisiológica",
+    "clase": "Neurocognitivo",
+    "relacion_nanda": [
+      "00131"
+    ],
+    "pagina_pdf": 329
+  },
+  {
+    "codigo": "0908",
+    "etiqueta": "Memoria",
+    "definicion": "Capacidad para registrar, almacenar y recuperar información o experiencias pasadas, tanto a corto como a largo plazo, facilitando el aprendizaje y la continuidad de la identidad personal.",
+    "dominio": "Salud fisiológica",
+    "clase": "Neurocognitivo",
+    "relacion_nanda": [
+      "00131"
+    ],
+    "pagina_pdf": 436
+  },
+  {
+    "codigo": "0909",
+    "etiqueta": "Estado neurológico",
+    "definicion": "Integridad y funcionamiento del sistema nervioso central y periférico, evaluado a través del nivel de conciencia, reflejos, función motora y sensorial, y pares craneales.",
+    "dominio": "Salud fisiológica",
+    "clase": "Neurocognitivo",
+    "relacion_nanda": [
+      "00201",
+      "00151"
+    ],
+    "pagina_pdf": 362
+  },
+  {
+    "codigo": "0910",
+    "etiqueta": "Estado neurológico: autónomo",
+    "definicion": "Capacidad del sistema nervioso autónomo para regular las funciones involuntarias críticas, como la frecuencia cardíaca, la presión arterial, la digestión y la respuesta pupilar.",
+    "dominio": "Salud fisiológica",
+    "clase": "Neurocognitivo",
+    "relacion_nanda": [
+      "00009",
+      "00267"
+    ],
+    "pagina_pdf": 363
+  },
+  {
+    "codigo": "0911",
+    "etiqueta": "Estado neurológico: control motor central",
+    "definicion": "Capacidad del encéfalo y la médula espinal para coordinar movimientos voluntarios, tono muscular, postura y equilibrio mediante la integración de señales eferentes.",
+    "dominio": "Salud fisiológica",
+    "clase": "Neurocognitivo",
+    "relacion_nanda": [
+      "00085",
+      "00155"
+    ],
+    "pagina_pdf": 364
+  },
+  {
+    "codigo": "0912",
+    "etiqueta": "Estado neurológico: consciencia",
+    "definicion": "Grado de alerta y capacidad de respuesta de un individuo ante estímulos externos e internos, evaluado típicamente mediante escalas de coma (como Glasgow) y la reactividad pupilar.",
+    "dominio": "Salud fisiológica",
+    "clase": "Neurocognitivo",
+    "relacion_nanda": [
+      "00201",
+      "00128"
+    ],
+    "pagina_pdf": 365
+  },
+  {
+    "codigo": "0913",
+    "etiqueta": "Estado neurológico: sensitivo/motor periférico",
+    "definicion": "Integridad de los nervios craneales y espinales para transmitir impulsos sensoriales (tacto, dolor, temperatura) y ejecutar respuestas motoras en las extremidades.",
+    "dominio": "Salud fisiológica",
+    "clase": "Neurocognitivo",
+    "relacion_nanda": [
+      "00085",
+      "00204"
+    ],
+    "pagina_pdf": 366
+  },
+  {
+    "codigo": "0914",
+    "etiqueta": "Control neurológico de la perfusión periférica",
+    "definicion": "Regulación mediada por el sistema nervioso sobre el diámetro de los vasos sanguíneos y el flujo de sangre a las extremidades para mantener la viabilidad tisular.",
+    "dominio": "Salud fisiológica",
+    "clase": "Neurocognitivo",
+    "relacion_nanda": [
+      "00204"
+    ],
+    "pagina_pdf": 235
+  },
+  {
+    "codigo": "0915",
+    "etiqueta": "Respuesta alérgica: localizada",
+    "definicion": "Gravedad de la respuesta inmunitaria limitada a un área específica del cuerpo (como piel, ojos o nariz) tras la exposición a un alérgeno, manifestada por edema, prurito o eritema.",
+    "dominio": "Salud fisiológica",
+    "clase": "Respuesta inmune",
+    "relacion_nanda": [
+      "00217"
+    ],
+    "pagina_pdf": 548
+  },
+  {
+    "codigo": "0916",
+    "etiqueta": "Nivel de delirio",
+    "definicion": "Gravedad de la alteración aguda, fluctuante y reversible de la conciencia y la cognición, caracterizada por desorientación, alucinaciones, agitación psicomotriz o letargo.",
+    "dominio": "Salud fisiológica",
+    "clase": "Neurocognitivo",
+    "relacion_nanda": [
+      "00128",
+      "00173"
+    ],
+    "pagina_pdf": 427
+  },
+  {
+    "codigo": "0917",
+    "etiqueta": "Estado neurológico: funcional",
+    "definicion": "Capacidad del sistema nervioso para permitir la realización de actividades complejas, integrando funciones sensoriales, motoras y cognitivas en la vida cotidiana.",
+    "dominio": "Salud fisiológica",
+    "clase": "Neurocognitivo",
+    "relacion_nanda": [
+      "00085",
+      "00131"
+    ],
+    "pagina_pdf": 364
+  },
+  {
+    "codigo": "0918",
+    "etiqueta": "Atención al lado afectado",
+    "definicion": "Capacidad de un individuo con daño cerebral (generalmente hemisférico) para percibir y responder a estímulos en el lado del cuerpo o el entorno opuesto a la lesión.",
+    "dominio": "Salud fisiológica",
+    "clase": "Neurocognitivo",
+    "relacion_nanda": [
+      "00123"
+    ],
+    "pagina_pdf": 128
+  },
+  {
+    "codigo": "0920",
+    "etiqueta": "Nivel de demencia",
+    "definicion": "Grado de deterioro cognitivo progresivo e irreversible que afecta la memoria, el lenguaje y la capacidad de juicio, interfiriendo con la independencia funcional y social.",
+    "dominio": "Salud fisiológica",
+    "clase": "Neurocognitivo",
+    "relacion_nanda": [
+      "00131"
+    ],
+    "pagina_pdf": 428
+  },
+  {
+    "codigo": "1000",
+    "etiqueta": "Establecimiento de la relación",
+    "definicion": "Capacidad de una persona para iniciar y mantener una conexión terapéutica o personal basada en la confianza mutua, el respeto, la empatía y la comunicación abierta para alcanzar objetivos comunes.",
+    "dominio": "Salud psicosocial",
+    "clase": "Interacción social",
+    "relacion_nanda": [
+      "00052",
+      "00223"
+    ],
+    "pagina_pdf": 343
+  },
+  {
+    "codigo": "1001",
+    "etiqueta": "Bienestar del cuidador familiar",
+    "definicion": "Grado de satisfacción y salud percibida por el cuidador principal en relación con su vida personal, equilibrio emocional, salud física y estabilidad financiera mientras desempeña su rol de cuidado.",
+    "dominio": "Salud psicosocial",
+    "clase": "Bienestar psicológico",
+    "relacion_nanda": [
+      "00061",
+      "00062"
+    ],
+    "pagina_pdf": 154
+  },
+  {
+    "codigo": "1002",
+    "etiqueta": "Mantenimiento del estilo de vida",
+    "definicion": "Capacidad del individuo para realizar los ajustes necesarios y mantener un patrón de vida saludable, coherente con sus valores y metas, a pesar de los cambios en el estado de salud o el entorno.",
+    "dominio": "Salud psicosocial",
+    "clase": "Bienestar psicológico",
+    "relacion_nanda": [
+      "00188"
+    ],
+    "pagina_pdf": 420
+  },
+  {
+    "codigo": "1003",
+    "etiqueta": "Mantenimiento de la salud",
+    "definicion": "Acciones personales para gestionar y mejorar la salud propia, incluyendo el cumplimiento de regímenes terapéuticos, la prevención de riesgos y la búsqueda de recursos sanitarios adecuados.",
+    "dominio": "Salud psicosocial",
+    "clase": "Bienestar psicológico",
+    "relacion_nanda": [
+      "00099",
+      "00292"
+    ],
+    "pagina_pdf": 418
+  },
+  {
+    "codigo": "1100",
+    "etiqueta": "Salud oral",
+    "definicion": "Estado de integridad y funcionamiento de los dientes, encías y estructuras de la cavidad bucal, que permite la alimentación, el habla y la interacción social sin dolor ni infecciones.",
+    "dominio": "Salud fisiológica",
+    "clase": "Integridad tisular",
+    "relacion_nanda": [
+      "00045"
+    ],
+    "pagina_pdf": 559
+  },
+  {
+    "codigo": "1101",
+    "etiqueta": "Integridad tisular: piel y membranas mucosas",
+    "definicion": "Indemnidad estructural y función fisiológica normal de la piel y las mucosas epiteliales, incluyendo la capacidad de actuar como barrera protectora contra agentes externos.",
+    "dominio": "Salud fisiológica",
+    "clase": "Integridad tisular",
+    "relacion_nanda": [
+      "00044",
+      "00046",
+      "00047"
+    ],
+    "pagina_pdf": 408
+  },
+  {
+    "codigo": "1102",
+    "etiqueta": "Curación de la herida: por primera intención",
+    "definicion": "Grado en que los bordes de una herida quirúrgica o traumática limpia se unen y cierran correctamente, con una formación mínima de tejido cicatricial y ausencia de complicaciones.",
+    "dominio": "Salud fisiológica",
+    "clase": "Integridad tisular",
+    "relacion_nanda": [
+      "00044",
+      "00246"
+    ],
+    "pagina_pdf": 278
+  },
+  {
+    "codigo": "1103",
+    "etiqueta": "Curación de la herida: por segunda intención",
+    "definicion": "Proceso de regeneración de tejidos en heridas abiertas que requieren la formación de tejido de granulación desde la base hasta la superficie para completar el cierre de la lesión.",
+    "dominio": "Salud fisiológica",
+    "clase": "Integridad tisular",
+    "relacion_nanda": [
+      "00044",
+      "00249"
+    ],
+    "pagina_pdf": 279
+  },
+  {
+    "codigo": "1104",
+    "etiqueta": "Curación del hueso",
+    "definicion": "Proceso fisiológico de reparación y regeneración de un tejido óseo fracturado, que incluye la formación de callo óseo y la recuperación de la continuidad estructural del hueso.",
+    "dominio": "Salud fisiológica",
+    "clase": "Integridad tisular",
+    "relacion_nanda": [
+      "00085",
+      "00155"
+    ],
+    "pagina_pdf": 277
+  },
+  {
+    "codigo": "1105",
+    "etiqueta": "Integridad de la mucosa oral",
+    "definicion": "Estado de salud de los tejidos blandos de la boca, incluyendo la lengua, encías y paladar, caracterizado por la humedad adecuada y la ausencia de úlceras o inflamación.",
+    "dominio": "Salud fisiológica",
+    "clase": "Integridad tisular",
+    "relacion_nanda": [
+      "00045"
+    ],
+    "pagina_pdf": 407
+  },
+  {
+    "codigo": "1200",
+    "etiqueta": "Imagen corporal",
+    "definicion": "Percepción, sentimientos y actitudes de un individuo hacia su propia apariencia física, estructura y funciones corporales, la cual puede verse afectada por cambios biológicos o quirúrgicos.",
+    "dominio": "Salud psicosocial",
+    "clase": "Autoconcepto",
+    "relacion_nanda": [
+      "00118"
+    ],
+    "pagina_pdf": 406
+  },
+  {
+    "codigo": "1201",
+    "etiqueta": "Esperanza",
+    "definicion": "Presencia de un estado optimista y una creencia interna en la posibilidad de un futuro positivo, manifestado por el establecimiento de metas y la movilización de energías para lograrlas.",
+    "dominio": "Salud psicosocial",
+    "clase": "Bienestar psicológico",
+    "relacion_nanda": [
+      "00124",
+      "00125"
+    ],
+    "pagina_pdf": 337
+  },
+  {
+    "codigo": "1202",
+    "etiqueta": "Identidad",
+    "definicion": "Capacidad de un individuo para mantener una autopercepción clara y consistente a lo largo del tiempo, reconociendo sus propios rasgos, valores y roles dentro de la sociedad.",
+    "dominio": "Salud psicosocial",
+    "clase": "Autoconcepto",
+    "relacion_nanda": [
+      "00121",
+      "00225"
+    ],
+    "pagina_pdf": 404
+  },
+  {
+    "codigo": "1203",
+    "etiqueta": "Severidad de la soledad",
+    "definicion": "Magnitud de la angustia emocional y el vacío percibido por una persona debido a la falta de conexiones sociales significativas o la discrepancia entre las relaciones deseadas y las reales.",
+    "dominio": "Salud psicosocial",
+    "clase": "Bienestar psicológico",
+    "relacion_nanda": [
+      "00054"
+    ],
+    "pagina_pdf": 573
+  },
+  {
+    "codigo": "1204",
+    "etiqueta": "Equilibrio emocional",
+    "definicion": "Estado de estabilidad en el que el individuo regula sus sentimientos y respuestas emocionales ante los estresores de la vida, manteniendo una perspectiva coherente y adaptativa.",
+    "dominio": "Salud psicosocial",
+    "clase": "Bienestar psicológico",
+    "relacion_nanda": [
+      "00124",
+      "00153"
+    ],
+    "pagina_pdf": 325
+  },
+  {
+    "codigo": "1205",
+    "etiqueta": "Autoestima",
+    "definicion": "Juicio de valor y sentimientos de confianza que una persona tiene sobre sus propias capacidades, importancia y éxito, influyendo en su interacción con los demás y su autocuidado.",
+    "dominio": "Salud psicosocial",
+    "clase": "Autoconcepto",
+    "relacion_nanda": [
+      "00119",
+      "00120",
+      "00153"
+    ],
+    "pagina_pdf": 149
+  },
+  {
+    "codigo": "1206",
+    "etiqueta": "Deseo de vivir",
+    "definicion": "Manifestación de la voluntad propia para continuar existiendo y participar activamente en la vida, a pesar de enfrentar enfermedades graves, dolor o circunstancias adversas.",
+    "dominio": "Salud psicosocial",
+    "clase": "Bienestar psicológico",
+    "relacion_nanda": [
+      "00124"
+    ],
+    "pagina_pdf": 296
+  },
+  {
+    "codigo": "1207",
+    "etiqueta": "Identidad sexual",
+    "definicion": "Reconocimiento y aceptación interna de la propia orientación y género, junto con la capacidad de expresar la sexualidad de manera saludable y satisfactoria para el individuo.",
+    "dominio": "Salud psicosocial",
+    "clase": "Autoconcepto",
+    "relacion_nanda": [
+      "00121",
+      "00227"
+    ],
+    "pagina_pdf": 405
+  },
+  {
+    "codigo": "1208",
+    "etiqueta": "Nivel de depresión",
+    "definicion": "Gravedad del estado de ánimo melancólico, pérdida de interés en las actividades, sentimientos de inutilidad y alteraciones del sueño o apetito que afectan el funcionamiento diario.",
+    "dominio": "Salud psicosocial",
+    "clase": "Bienestar psicológico",
+    "relacion_nanda": [
+      "00124",
+      "00135"
+    ],
+    "pagina_pdf": 429
+  },
+  {
+    "codigo": "1209",
+    "etiqueta": "Motivación",
+    "definicion": "Impulso interno o externo que mueve a la persona a iniciar y persistir en acciones dirigidas hacia un objetivo de salud, superando obstáculos y manteniendo el esfuerzo.",
+    "dominio": "Salud psicosocial",
+    "clase": "Bienestar psicológico",
+    "relacion_nanda": [
+      "00078",
+      "00079"
+    ],
+    "pagina_pdf": 437
+  },
+  {
+    "codigo": "1210",
+    "etiqueta": "Nivel de miedo",
+    "definicion": "Gravedad de la respuesta emocional negativa ante una amenaza identificable, real o imaginaria, que se manifiesta por tensión muscular, inquietud o signos de activación autonómica.",
+    "dominio": "Salud psicosocial",
+    "clase": "Bienestar psicológico",
+    "relacion_nanda": [
+      "00148"
+    ],
+    "pagina_pdf": 441
+  },
+  {
+    "codigo": "1211",
+    "etiqueta": "Nivel de ansiedad",
+    "definicion": "Magnitud de los sentimientos de aprensión, tensión o malestar ante una fuente inespecífica o anticipada de peligro, que afecta el bienestar cognitivo y físico.",
+    "dominio": "Salud psicosocial",
+    "clase": "Bienestar psicológico",
+    "relacion_nanda": [
+      "00146",
+      "00147"
+    ],
+    "pagina_pdf": 422
+  },
+  {
+    "codigo": "1212",
+    "etiqueta": "Nivel de estrés",
+    "definicion": "Grado de tensión física o psicológica que experimenta un individuo como resultado de presiones ambientales, sociales o personales que exceden su capacidad de respuesta inmediata.",
+    "dominio": "Salud psicosocial",
+    "clase": "Bienestar psicológico",
+    "relacion_nanda": [
+      "00177"
+    ],
+    "pagina_pdf": 434
+  },
+  {
+    "codigo": "1213",
+    "etiqueta": "Nivel de desesperanza",
+    "definicion": "Estado en el que el individuo percibe una falta de alternativas o soluciones para sus problemas, sintiéndose incapaz de influir en su futuro o en los resultados de su salud.",
+    "dominio": "Salud psicosocial",
+    "clase": "Bienestar psicológico",
+    "relacion_nanda": [
+      "00124"
+    ],
+    "pagina_pdf": 431
+  },
+  {
+    "codigo": "1214",
+    "etiqueta": "Nivel de culpa",
+    "definicion": "Gravedad del sentimiento de autorreproche o remordimiento que experimenta una persona al creer que ha violado un estándar moral o que es responsable de un resultado negativo.",
+    "dominio": "Salud psicosocial",
+    "clase": "Bienestar psicológico",
+    "relacion_nanda": [
+      "00157"
+    ],
+    "pagina_pdf": 426
+  },
+  {
+    "codigo": "1215",
+    "etiqueta": "Conciencia de uno mismo",
+    "definicion": "Capacidad para introspeccionar y reconocer los propios pensamientos, emociones, comportamientos y su impacto en los demás, manteniendo una autopercepción realista.",
+    "dominio": "Salud psicosocial",
+    "clase": "Autoconcepto",
+    "relacion_nanda": [
+      "00121"
+    ],
+    "pagina_pdf": 207
+  },
+  {
+    "codigo": "1216",
+    "etiqueta": "Nivel de agitación",
+    "definicion": "Gravedad de la actividad motora excesiva, desordenada y sin propósito, a menudo acompañada de irritabilidad o inquietud mental extrema.",
+    "dominio": "Salud psicosocial",
+    "clase": "Bienestar psicológico",
+    "relacion_nanda": [
+      "00138"
+    ],
+    "pagina_pdf": 421
+  },
+  {
+    "codigo": "1300",
+    "etiqueta": "Aceptación: estado de salud",
+    "definicion": "Grado en que el individuo reconoce, se adapta y se reconcilia con los cambios significativos en su salud, incorporándolos a su vida de manera constructiva.",
+    "dominio": "Salud psicosocial",
+    "clase": "Adaptación psicosocial",
+    "relacion_nanda": [
+      "00188"
+    ],
+    "pagina_pdf": 105
+  },
+  {
+    "codigo": "1301",
+    "etiqueta": "Adaptación del niño a la hospitalización",
+    "definicion": "Capacidad de un paciente pediátrico para manejar el estrés, el miedo y la interrupción de la rutina causados por el entorno hospitalario y los procedimientos médicos.",
+    "dominio": "Salud psicosocial",
+    "clase": "Adaptación psicosocial",
+    "relacion_nanda": [
+      "00146"
+    ],
+    "pagina_pdf": 110
+  },
+  {
+    "codigo": "1302",
+    "etiqueta": "Afrontamiento de problemas",
+    "definicion": "Acciones cognitivas y conductuales dirigidas a manejar, reducir o tolerar las demandas internas y externas que son percibidas como estresantes o que exceden los recursos propios.",
+    "dominio": "Salud psicosocial",
+    "clase": "Adaptación psicosocial",
+    "relacion_nanda": [
+      "00069",
+      "00199",
+      "00226"
+    ],
+    "pagina_pdf": 112
+  },
+  {
+    "codigo": "1303",
+    "etiqueta": "Muerte digna",
+    "definicion": "Grado en que una persona al final de la vida mantiene el control de las decisiones, la comodidad física, la paz espiritual y la proximidad de sus seres queridos, de acuerdo con sus deseos y valores personales.",
+    "dominio": "Salud psicosocial",
+    "clase": "Adaptación psicosocial",
+    "relacion_nanda": [
+      "00066"
+    ],
+    "pagina_pdf": 452
+  },
+  {
+    "codigo": "1304",
+    "etiqueta": "Resolución de la culpa",
+    "definicion": "Capacidad de un individuo para superar los sentimientos de autorreproche mediante el perdón a sí mismo, la reparación de errores cuando es posible y la integración de la experiencia en la propia historia personal.",
+    "dominio": "Salud psicosocial",
+    "clase": "Adaptación psicosocial",
+    "relacion_nanda": [
+      "00157"
+    ],
+    "pagina_pdf": 535
+  },
+  {
+    "codigo": "1305",
+    "etiqueta": "Adaptación psicosocial: cambio de vida",
+    "definicion": "Capacidad de un individuo para ajustar sus pensamientos, sentimientos y conductas ante una transición vital importante (jubilación, divorcio, discapacidad) para mantener el funcionamiento y la satisfacción personal.",
+    "dominio": "Salud psicosocial",
+    "clase": "Adaptación psicosocial",
+    "relacion_nanda": [
+      "00069",
+      "00188"
+    ],
+    "pagina_pdf": 111
+  },
+  {
+    "codigo": "1306",
+    "etiqueta": "Crecimiento postraumático",
+    "definicion": "Cambio psicológico positivo experimentado como resultado de la lucha contra circunstancias vitales altamente desafiantes o traumáticas, manifestado por una mayor apreciación de la vida y nuevas posibilidades.",
+    "dominio": "Salud psicosocial",
+    "clase": "Adaptación psicosocial",
+    "relacion_nanda": [
+      "00141",
+      "00142"
+    ],
+    "pagina_pdf": 276
+  },
+  {
+    "codigo": "1307",
+    "etiqueta": "Manejo de la tensión de los padres",
+    "definicion": "Capacidad de los progenitores o cuidadores para equilibrar las demandas de la crianza con sus propias necesidades emocionales, utilizando estrategias adaptativas para reducir el estrés familiar.",
+    "dominio": "Salud psicosocial",
+    "clase": "Adaptación psicosocial",
+    "relacion_nanda": [
+      "00056",
+      "00164"
+    ],
+    "pagina_pdf": 415
+  },
+  {
+    "codigo": "1308",
+    "etiqueta": "Resiliencia personal",
+    "definicion": "Capacidad del individuo para adaptarse con éxito y mantener un funcionamiento competente a pesar de vivir situaciones de adversidad extrema, estrés severo o traumas psicológicos.",
+    "dominio": "Salud psicosocial",
+    "clase": "Adaptación psicosocial",
+    "relacion_nanda": [
+      "00210",
+      "00211",
+      "00212"
+    ],
+    "pagina_pdf": 540
+  },
+  {
+    "codigo": "1309",
+    "etiqueta": "Resiliencia comunitaria",
+    "definicion": "Habilidad de un grupo social o comunidad para utilizar sus recursos colectivos para absorber, recuperarse y aprender de eventos adversos, desastres o crisis económicas.",
+    "dominio": "Salud psicosocial",
+    "clase": "Adaptación psicosocial",
+    "relacion_nanda": [
+      "00213"
+    ],
+    "pagina_pdf": 539
+  },
+  {
+    "codigo": "1310",
+    "etiqueta": "Resolución del duelo",
+    "definicion": "Proceso de adaptación emocional que sigue a una pérdida significativa, caracterizado por la expresión del dolor, la reorganización de la vida cotidiana y el establecimiento de nuevos vínculos o metas.",
+    "dominio": "Salud psicosocial",
+    "clase": "Adaptación psicosocial",
+    "relacion_nanda": [
+      "00135",
+      "00136"
+    ],
+    "pagina_pdf": 536
+  },
+  {
+    "codigo": "1311",
+    "etiqueta": "Resolución del duelo: familiar",
+    "definicion": "Acciones y procesos compartidos por los miembros de una unidad familiar para afrontar la pérdida de un ser querido, manteniendo la cohesión y el apoyo mutuo durante la transición.",
+    "dominio": "Salud psicosocial",
+    "clase": "Adaptación psicosocial",
+    "relacion_nanda": [
+      "00135",
+      "00063"
+    ],
+    "pagina_pdf": 537
+  },
+  {
+    "codigo": "1400",
+    "etiqueta": "Autocontrol del comportamiento abusivo",
+    "definicion": "Acciones personales para regular y detener los impulsos dirigidos a causar daño físico, emocional o sexual a otras personas, reconociendo los desencadenantes y buscando ayuda.",
+    "dominio": "Salud psicosocial",
+    "clase": "Autocontrol",
+    "relacion_nanda": [
+      "00138",
+      "00139"
+    ],
+    "pagina_pdf": 145
+  },
+  {
+    "codigo": "1401",
+    "etiqueta": "Autocontrol de la agresión",
+    "definicion": "Capacidad del individuo para restringir comportamientos de confrontación, hostilidad o violencia hacia personas y objetos, utilizando técnicas de relajación y comunicación no violenta.",
+    "dominio": "Salud psicosocial",
+    "clase": "Autocontrol",
+    "relacion_nanda": [
+      "00138"
+    ],
+    "pagina_pdf": 146
+  },
+  {
+    "codigo": "1402",
+    "etiqueta": "Autocontrol de la ansiedad",
+    "definicion": "Acciones personales para eliminar o reducir sentimientos de aprensión y tensión procedentes de una fuente no identificada, empleando estrategias de afrontamiento efectivas.",
+    "dominio": "Salud psicosocial",
+    "clase": "Autocontrol",
+    "relacion_nanda": [
+      "00146"
+    ],
+    "pagina_pdf": 147
+  },
+  {
+    "codigo": "1403",
+    "etiqueta": "Autocontrol del pensamiento distorsionado",
+    "definicion": "Habilidad personal para reconocer y corregir percepciones erróneas de la realidad, alucinaciones o delirios, manteniendo el enfoque en la realidad y el tratamiento prescrito.",
+    "dominio": "Salud psicosocial",
+    "clase": "Autocontrol",
+    "relacion_nanda": [
+      "00128",
+      "00201"
+    ],
+    "pagina_pdf": 152
+  },
+  {
+    "codigo": "1404",
+    "etiqueta": "Autocontrol del miedo",
+    "definicion": "Acciones personales para gestionar y reducir las respuestas emocionales ante una amenaza identificada y real, evitando que el pánico interfiera en el funcionamiento diario.",
+    "dominio": "Salud psicosocial",
+    "clase": "Autocontrol",
+    "relacion_nanda": [
+      "00148"
+    ],
+    "pagina_pdf": 150
+  },
+  {
+    "codigo": "1405",
+    "etiqueta": "Autocontrol de los impulsos",
+    "definicion": "Capacidad para resistir o demorar deseos inmediatos o tentaciones de actuar sin pensar, evaluando las consecuencias a largo plazo antes de ejecutar una acción.",
+    "dominio": "Salud psicosocial",
+    "clase": "Autocontrol",
+    "relacion_nanda": [
+      "00138",
+      "00222"
+    ],
+    "pagina_pdf": 151
+  },
+  {
+    "codigo": "1406",
+    "etiqueta": "Autocontrol del consumo de alcohol",
+    "definicion": "Acciones personales para evitar o limitar la ingesta de bebidas alcohólicas, reconociendo las consecuencias negativas y manteniendo el compromiso con la abstinencia o el consumo moderado.",
+    "dominio": "Salud psicosocial",
+    "clase": "Autocontrol",
+    "relacion_nanda": [
+      "00079",
+      "00282"
+    ],
+    "pagina_pdf": 148
+  },
+  {
+    "codigo": "1407",
+    "etiqueta": "Autocontrol del consumo de drogas",
+    "definicion": "Acciones individuales para suprimir el uso de sustancias químicas ilegales o el uso indebido de medicamentos recetados que alteran la mente o el comportamiento.",
+    "dominio": "Salud psicosocial",
+    "clase": "Autocontrol",
+    "relacion_nanda": [
+      "00079",
+      "00282"
+    ],
+    "pagina_pdf": 149
+  },
+  {
+    "codigo": "1408",
+    "etiqueta": "Autocontrol de los síntomas",
+    "definicion": "Acciones personales para monitorizar y gestionar los cambios en el estado físico o emocional derivados de una enfermedad, aplicando medidas preventivas o correctivas de forma oportuna.",
+    "dominio": "Salud psicosocial",
+    "clase": "Autocontrol",
+    "relacion_nanda": [
+      "00078",
+      "00161"
+    ],
+    "pagina_pdf": 153
+  },
+  {
+    "codigo": "1409",
+    "etiqueta": "Autocontrol de la depresión",
+    "definicion": "Acciones personales para manejar los sentimientos de tristeza extrema y desmotivación, buscando apoyo social, cumpliendo con la terapia y participando en actividades saludables.",
+    "dominio": "Salud psicosocial",
+    "clase": "Autocontrol",
+    "relacion_nanda": [
+      "00135",
+      "00124"
+    ],
+    "pagina_pdf": 149
+  },
+  {
+    "codigo": "1410",
+    "etiqueta": "Autocontrol del trastorno de la alimentación",
+    "definicion": "Acciones personales para normalizar los patrones de ingesta, la percepción de la imagen corporal y el peso, evitando conductas compensatorias o restrictivas dañinas.",
+    "dominio": "Salud psicosocial",
+    "clase": "Autocontrol",
+    "relacion_nanda": [
+      "00269",
+      "00270"
+    ],
+    "pagina_pdf": 154
+  },
+  {
+    "codigo": "1411",
+    "etiqueta": "Autocontrol de las autolesiones",
+    "definicion": "Capacidad de una persona para abstenerse de realizar actos deliberados de daño físico hacia su propio cuerpo (cortes, quemaduras) como medio para lidiar con el dolor emocional.",
+    "dominio": "Salud psicosocial",
+    "clase": "Autocontrol",
+    "relacion_nanda": [
+      "00139",
+      "00150"
+    ],
+    "pagina_pdf": 147
+  },
+  {
+    "codigo": "1412",
+    "etiqueta": "Autocontrol del pánico",
+    "definicion": "Acciones personales para detener la escalada de síntomas de ansiedad aguda y ataques de pánico, utilizando técnicas respiratorias y de reorientación cognitiva.",
+    "dominio": "Salud psicosocial",
+    "clase": "Autocontrol",
+    "relacion_nanda": [
+      "00146"
+    ],
+    "pagina_pdf": 151
+  },
+  {
+    "codigo": "1414",
+    "etiqueta": "Autocontrol de la ira",
+    "definicion": "Habilidad para reconocer los signos tempranos de enojo y utilizar métodos constructivos para expresar el descontento sin recurrir a la agresión o la hostilidad destructiva.",
+    "dominio": "Salud psicosocial",
+    "clase": "Autocontrol",
+    "relacion_nanda": [
+      "00138"
+    ],
+    "pagina_pdf": 150
+  },
+  {
+    "codigo": "1415",
+    "etiqueta": "Autocontrol del consumo de tabaco",
+    "definicion": "Acciones personales para eliminar el uso de productos derivados del tabaco o nicotina, gestionando el síndrome de abstinencia y evitando las recaídas.",
+    "dominio": "Salud psicosocial",
+    "clase": "Autocontrol",
+    "relacion_nanda": [
+      "00079",
+      "00307"
+    ],
+    "pagina_pdf": 153
+  },
+  {
+    "codigo": "1501",
+    "etiqueta": "Desempeño del rol",
+    "definicion": "Capacidad de un individuo para cumplir con los comportamientos, responsabilidades y expectativas sociales asociadas a sus funciones específicas (padre, empleado, ciudadano).",
+    "dominio": "Salud psicosocial",
+    "clase": "Interacción social",
+    "relacion_nanda": [
+      "00055",
+      "00064"
+    ],
+    "pagina_pdf": 293
+  },
+  {
+    "codigo": "1502",
+    "etiqueta": "Habilidades de interacción social",
+    "definicion": "Uso de comportamientos verbales y no verbales efectivos que permiten al individuo integrarse, colaborar y mantener relaciones armoniosas con los demás.",
+    "dominio": "Salud psicosocial",
+    "clase": "Interacción social",
+    "relacion_nanda": [
+      "00052"
+    ],
+    "pagina_pdf": 403
+  },
+  {
+    "codigo": "1503",
+    "etiqueta": "Implicación social",
+    "definicion": "Frecuencia y calidad de la participación en actividades grupales, comunitarias o recreativas que fomentan el sentido de pertenencia y la red de apoyo social.",
+    "dominio": "Salud psicosocial",
+    "clase": "Interacción social",
+    "relacion_nanda": [
+      "00053",
+      "00054"
+    ],
+    "pagina_pdf": 407
+  },
+  {
+    "codigo": "1504",
+    "etiqueta": "Soporte social",
+    "definicion": "Disponibilidad percibida y real de ayuda (emocional, instrumental, informativa) proveniente de amigos, familiares y la comunidad en momentos de necesidad.",
+    "dominio": "Salud psicosocial",
+    "clase": "Interacción social",
+    "relacion_nanda": [
+      "00052",
+      "00062"
+    ],
+    "pagina_pdf": 574
+  },
+  {
+    "codigo": "1600",
+    "etiqueta": "Conducta de cumplimiento",
+    "definicion": "Acciones voluntarias del individuo que coinciden con las recomendaciones de salud y el régimen terapéutico acordado con los profesionales sanitarios.",
+    "dominio": "Salud mediante el conocimiento y la conducta",
+    "clase": "Gestión de la salud",
+    "relacion_nanda": [
+      "00078",
+      "00079"
+    ],
+    "pagina_pdf": 208
+  },
+  {
+    "codigo": "1601",
+    "etiqueta": "Conducta de cumplimiento: dieta prescrita",
+    "definicion": "Seguimiento riguroso de las restricciones y recomendaciones nutricionales indicadas para tratar una patología específica o mejorar el estado general de salud.",
+    "dominio": "Salud mediante el conocimiento y la conducta",
+    "clase": "Gestión de la salud",
+    "relacion_nanda": [
+      "00001",
+      "00162"
+    ],
+    "pagina_pdf": 209
+  },
+  {
+    "codigo": "1602",
+    "etiqueta": "Conducta de fomento de la salud",
+    "definicion": "Acciones personales para mantener o aumentar el bienestar, la autorrealización y la salud de manera proactiva, más allá de la simple prevención de enfermedades específicas.",
+    "dominio": "Salud mediante el conocimiento y la conducta",
+    "clase": "Gestión de la salud",
+    "relacion_nanda": [
+      "00099",
+      "00188"
+    ],
+    "pagina_pdf": 210
+  },
+  {
+    "codigo": "1603",
+    "etiqueta": "Conducta de búsqueda de salud",
+    "definicion": "Acciones individuales dirigidas a encontrar y utilizar recursos, información o ayuda profesional para promover el bienestar o gestionar una condición de salud desconocida o existente.",
+    "dominio": "Salud mediante el conocimiento y la conducta",
+    "clase": "Gestión de la salud",
+    "relacion_nanda": [
+      "00099"
+    ],
+    "pagina_pdf": 207
+  },
+  {
+    "codigo": "1604",
+    "etiqueta": "Educación de los hijos: seguridad física",
+    "definicion": "Acciones de los padres o cuidadores para proporcionar y enseñar un entorno seguro que proteja al niño de lesiones accidentales y peligros ambientales.",
+    "dominio": "Salud mediante el conocimiento y la conducta",
+    "clase": "Gestión de la salud",
+    "relacion_nanda": [
+      "00035",
+      "00164"
+    ],
+    "pagina_pdf": 313
+  },
+  {
+    "codigo": "1605",
+    "etiqueta": "Control del riesgo",
+    "definicion": "Acciones personales para eliminar o reducir las amenazas para la salud, reales, personales y modificables, mediante la vigilancia y la implementación de medidas preventivas.",
+    "dominio": "Salud mediante el conocimiento y la conducta",
+    "clase": "Gestión de la salud",
+    "relacion_nanda": [
+      "00004",
+      "00035",
+      "00188"
+    ],
+    "pagina_pdf": 236
+  },
+  {
+    "codigo": "1606",
+    "etiqueta": "Participación en las decisiones sobre salud",
+    "definicion": "Implicación del individuo en la elección de opciones de cuidado de salud, colaborando con los profesionales para seleccionar tratamientos basados en sus valores y preferencias.",
+    "dominio": "Salud mediante el conocimiento y la conducta",
+    "clase": "Gestión de la salud",
+    "relacion_nanda": [
+      "00078",
+      "00083"
+    ],
+    "pagina_pdf": 481
+  },
+  {
+    "codigo": "1607",
+    "etiqueta": "Conductas de salud prenatal",
+    "definicion": "Acciones de autocuidado realizadas por una mujer embarazada para promover el bienestar de ella misma y del feto, incluyendo nutrición, ejercicio y asistencia a controles médicos.",
+    "dominio": "Salud mediante el conocimiento y la conducta",
+    "clase": "Gestión de la salud",
+    "relacion_nanda": [
+      "00209",
+      "00221"
+    ],
+    "pagina_pdf": 211
+  },
+  {
+    "codigo": "1608",
+    "etiqueta": "Control del síntoma",
+    "definicion": "Acciones personales para vigilar los cambios negativos en el funcionamiento físico o emocional y realizar actividades para aliviar las molestias asociadas.",
+    "dominio": "Salud mediante el conocimiento y la conducta",
+    "clase": "Gestión de la salud",
+    "relacion_nanda": [
+      "00078",
+      "00161"
+    ],
+    "pagina_pdf": 240
+  },
+  {
+    "codigo": "1609",
+    "etiqueta": "Conducta terapéutica: enfermedad o lesión",
+    "definicion": "Acciones personales para controlar y paliar los efectos de una enfermedad o lesión, siguiendo el plan de cuidados establecido para optimizar la recuperación.",
+    "dominio": "Salud mediante el conocimiento y la conducta",
+    "clase": "Gestión de la salud",
+    "relacion_nanda": [
+      "00078",
+      "00161"
+    ],
+    "pagina_pdf": 213
+  },
+  {
+    "codigo": "1610",
+    "etiqueta": "Control del riesgo: enfermedad cardiovascular",
+    "definicion": "Acciones personales para reducir los factores de riesgo que contribuyen al desarrollo o progresión de patologías del corazón y vasos sanguíneos (ej. dieta, ejercicio, control de tensión).",
+    "dominio": "Salud mediante el conocimiento y la conducta",
+    "clase": "Gestión de la salud",
+    "relacion_nanda": [
+      "00200",
+      "00204",
+      "00239"
+    ],
+    "pagina_pdf": 237
+  },
+  {
+    "codigo": "1611",
+    "etiqueta": "Control del riesgo: obesidad",
+    "definicion": "Acciones personales para prevenir o tratar el exceso de grasa corporal mediante el equilibrio de la ingesta calórica, la actividad física y el cambio de hábitos conductuales.",
+    "dominio": "Salud mediante el conocimiento y la conducta",
+    "clase": "Gestión de la salud",
+    "relacion_nanda": [
+      "00232",
+      "00233"
+    ],
+    "pagina_pdf": 238
+  },
+  {
+    "codigo": "1612",
+    "etiqueta": "Control del riesgo: exposición al sol",
+    "definicion": "Acciones personales para proteger la piel de los efectos dañinos de la radiación ultravioleta, minimizando el riesgo de quemaduras y cáncer de piel.",
+    "dominio": "Salud mediante el conocimiento y la conducta",
+    "clase": "Gestión de la salud",
+    "relacion_nanda": [
+      "00047"
+    ],
+    "pagina_pdf": 239
+  },
+  {
+    "codigo": "1613",
+    "etiqueta": "Autogestión de los cuidados",
+    "definicion": "Capacidad del individuo para organizar, ejecutar y evaluar sus propias actividades de salud y autocuidado de forma autónoma, integrando el régimen terapéutico en su vida diaria.",
+    "dominio": "Salud mediante el conocimiento y la conducta",
+    "clase": "Gestión de la salud",
+    "relacion_nanda": [
+      "00078",
+      "00161"
+    ],
+    "pagina_pdf": 155
+  },
+  {
+    "codigo": "1614",
+    "etiqueta": "Autogestión de la enfermedad crónica",
+    "definicion": "Acciones personales para manejar los síntomas, el tratamiento y las consecuencias físicas y psicosociales de una enfermedad de larga duración para mantener la calidad de vida.",
+    "dominio": "Salud mediante el conocimiento y la conducta",
+    "clase": "Gestión de la salud",
+    "relacion_nanda": [
+      "00078",
+      "00161"
+    ],
+    "pagina_pdf": 156
+  },
+  {
+    "codigo": "1615",
+    "etiqueta": "Autogestión de la anticoagulación",
+    "definicion": "Acciones personales para monitorizar el tratamiento con anticoagulantes, reconociendo signos de sangrado, ajustando la dieta si es necesario y cumpliendo con las pruebas de laboratorio.",
+    "dominio": "Salud mediante el conocimiento y la conducta",
+    "clase": "Gestión de la salud",
+    "relacion_nanda": [
+      "00206"
+    ],
+    "pagina_pdf": 157
+  },
+  {
+    "codigo": "1617",
+    "etiqueta": "Autogestión de la diabetes",
+    "definicion": "Acciones personales para controlar los niveles de glucosa en sangre, mediante la administración de insulina o fármacos, el control de la dieta y el ejercicio regular.",
+    "dominio": "Salud mediante el conocimiento y la conducta",
+    "clase": "Gestión de la salud",
+    "relacion_nanda": [
+      "00179"
+    ],
+    "pagina_pdf": 158
+  },
+  {
+    "codigo": "1618",
+    "etiqueta": "Autogestión de la hipertensión",
+    "definicion": "Acciones personales para mantener la presión arterial dentro de los límites normales, incluyendo la toma de medicación, la reducción de sodio y la gestión del estrés.",
+    "dominio": "Salud mediante el conocimiento y la conducta",
+    "clase": "Gestión de la salud",
+    "relacion_nanda": [
+      "00204"
+    ],
+    "pagina_pdf": 159
+  },
+  {
+    "codigo": "1619",
+    "etiqueta": "Autogestión de la salud cardíaca",
+    "definicion": "Acciones personales para optimizar la función del corazón y prevenir complicaciones después de un evento cardíaco, centradas en la rehabilitación y la monitorización de síntomas.",
+    "dominio": "Salud mediante el conocimiento y la conducta",
+    "clase": "Gestión de la salud",
+    "relacion_nanda": [
+      "00029",
+      "00200"
+    ],
+    "pagina_pdf": 160
+  },
+  {
+    "codigo": "1620",
+    "etiqueta": "Autogestión del asma",
+    "definicion": "Acciones personales para prevenir y controlar los episodios de broncoconstricción, identificando desencadenantes y utilizando correctamente la medicación inhalada.",
+    "dominio": "Salud mediante el conocimiento y la conducta",
+    "clase": "Gestión de la salud",
+    "relacion_nanda": [
+      "00031",
+      "00032"
+    ],
+    "pagina_pdf": 161
+  },
+  {
+    "codigo": "1621",
+    "etiqueta": "Conducta de adhesión",
+    "definicion": "Grado en que el paciente se compromete activamente y sigue de forma consistente las recomendaciones de salud pactadas con el equipo médico.",
+    "dominio": "Salud mediante el conocimiento y la conducta",
+    "clase": "Gestión de la salud",
+    "relacion_nanda": [
+      "00078",
+      "00079"
+    ],
+    "pagina_pdf": 206
+  },
+  {
+    "codigo": "1622",
+    "etiqueta": "Conducta de cumplimiento: medicación prescrita",
+    "definicion": "Acciones personales para tomar los fármacos indicados en las dosis, horarios y formas de administración correctas durante el tiempo establecido.",
+    "dominio": "Salud mediante el conocimiento y la conducta",
+    "clase": "Gestión de la salud",
+    "relacion_nanda": [
+      "00078"
+    ],
+    "pagina_pdf": 210
+  },
+  {
+    "codigo": "1700",
+    "etiqueta": "Creencias sobre la salud",
+    "definicion": "Convicciones y percepciones personales que influyen en las decisiones de salud, incluyendo la percepción de susceptibilidad, gravedad, beneficios y barreras para la acción.",
+    "dominio": "Salud mediante el conocimiento y la conducta",
+    "clase": "Creencias sobre la salud",
+    "relacion_nanda": [
+      "00078",
+      "00188"
+    ],
+    "pagina_pdf": 270
+  },
+  {
+    "codigo": "1701",
+    "etiqueta": "Creencias sobre la salud: capacidad percibida para actuar",
+    "definicion": "Convicción personal de que uno tiene la habilidad y los recursos necesarios para realizar las conductas de salud requeridas para influir en un resultado.",
+    "dominio": "Salud mediante el conocimiento y la conducta",
+    "clase": "Creencias sobre la salud",
+    "relacion_nanda": [
+      "00078"
+    ],
+    "pagina_pdf": 271
+  },
+  {
+    "codigo": "1702",
+    "etiqueta": "Creencias sobre la salud: control percibido",
+    "definicion": "Percepción de que uno tiene una influencia directa sobre los resultados de salud a través de sus propias acciones, en contraposición al azar o a factores externos.",
+    "dominio": "Salud mediante el conocimiento y la conducta",
+    "clase": "Creencias sobre la salud",
+    "relacion_nanda": [
+      "00078"
+    ],
+    "pagina_pdf": 272
+  },
+  {
+    "codigo": "1703",
+    "etiqueta": "Creencias sobre la salud: recursos percibidos",
+    "definicion": "Percepción de la disponibilidad de medios financieros, sociales y físicos para apoyar la realización de conductas promotoras de la salud.",
+    "dominio": "Salud mediante el conocimiento y la conducta",
+    "clase": "Creencias sobre la salud",
+    "relacion_nanda": [
+      "00078"
+    ],
+    "pagina_pdf": 273
+  },
+  {
+    "codigo": "1704",
+    "etiqueta": "Creencias sobre la salud: amenaza percibida",
+    "definicion": "Evaluación personal sobre la probabilidad de contraer una enfermedad y la gravedad de las consecuencias físicas y sociales de dicha condición.",
+    "dominio": "Salud mediante el conocimiento y la conducta",
+    "clase": "Creencias sobre la salud",
+    "relacion_nanda": [
+      "00078"
+    ],
+    "pagina_pdf": 274
+  },
+  {
+    "codigo": "1800",
+    "etiqueta": "Conocimiento: lactancia materna",
+    "definicion": "Grado de comprensión transmitido sobre los beneficios, la técnica, el mantenimiento y la resolución de problemas relacionados con la alimentación al pecho.",
+    "dominio": "Salud mediante el conocimiento y la conducta",
+    "clase": "Conocimiento sobre la salud",
+    "relacion_nanda": [
+      "00104",
+      "00106"
+    ],
+    "pagina_pdf": 248
+  },
+  {
+    "codigo": "1801",
+    "etiqueta": "Conocimiento: seguridad infantil",
+    "definicion": "Grado de comprensión sobre las medidas preventivas y el desarrollo normal de los niños para evitar lesiones accidentales en diferentes etapas del crecimiento.",
+    "dominio": "Salud mediante el conocimiento y la conducta",
+    "clase": "Conocimiento sobre la salud",
+    "relacion_nanda": [
+      "00035",
+      "00164"
+    ],
+    "pagina_pdf": 266
+  },
+  {
+    "codigo": "1802",
+    "etiqueta": "Conocimiento: dieta saludable",
+    "definicion": "Grado de comprensión sobre los principios de una nutrición equilibrada, los grupos de alimentos y el impacto de los nutrientes en el mantenimiento de la salud.",
+    "dominio": "Salud mediante el conocimiento y la conducta",
+    "clase": "Conocimiento sobre la salud",
+    "relacion_nanda": [
+      "00001",
+      "00002"
+    ],
+    "pagina_pdf": 244
+  },
+  {
+    "codigo": "1803",
+    "etiqueta": "Conocimiento: proceso de la enfermedad",
+    "definicion": "Grado de comprensión sobre una patología específica, incluyendo su causa, síntomas, progresión y posibles complicaciones para facilitar el autocuidado.",
+    "dominio": "Salud mediante el conocimiento y la conducta",
+    "clase": "Conocimiento sobre la salud",
+    "relacion_nanda": [
+      "00126",
+      "00161"
+    ],
+    "pagina_pdf": 259
+  },
+  {
+    "codigo": "1804",
+    "etiqueta": "Conocimiento: actividad prescrita",
+    "definicion": "Grado de comprensión sobre el tipo, frecuencia y precauciones de las actividades físicas recomendadas por el profesional de salud como parte del tratamiento.",
+    "dominio": "Salud mediante el conocimiento y la conducta",
+    "clase": "Conocimiento sobre la salud",
+    "relacion_nanda": [
+      "00126",
+      "00094"
+    ],
+    "pagina_pdf": 241
+  },
+  {
+    "codigo": "1805",
+    "etiqueta": "Conocimiento: conductas sanitarias",
+    "definicion": "Grado de comprensión transmitido sobre las acciones y comportamientos que promueven la salud, previenen enfermedades y mejoran el bienestar general del individuo en su entorno.",
+    "dominio": "Salud mediante el conocimiento y la conducta",
+    "clase": "Conocimiento sobre la salud",
+    "relacion_nanda": [
+      "00126",
+      "00188"
+    ],
+    "pagina_pdf": 242
+  },
+  {
+    "codigo": "1806",
+    "etiqueta": "Conocimiento: recursos sanitarios",
+    "definicion": "Grado de comprensión sobre la disponibilidad, acceso y uso adecuado de los servicios médicos, programas comunitarios y redes de apoyo para atender necesidades de salud.",
+    "dominio": "Salud mediante el conocimiento y la conducta",
+    "clase": "Conocimiento sobre la salud",
+    "relacion_nanda": [
+      "00126",
+      "00161"
+    ],
+    "pagina_pdf": 261
+  },
+  {
+    "codigo": "1808",
+    "etiqueta": "Conocimiento: medicación",
+    "definicion": "Grado de comprensión sobre el uso seguro de los fármacos prescritos, incluyendo nombres, dosis, horarios, efectos esperados y posibles reacciones adversas graves.",
+    "dominio": "Salud mediante el conocimiento y la conducta",
+    "clase": "Conocimiento sobre la salud",
+    "relacion_nanda": [
+      "00126",
+      "00078"
+    ],
+    "pagina_pdf": 252
+  },
+  {
+    "codigo": "1811",
+    "etiqueta": "Conocimiento: determinantes de la salud",
+    "definicion": "Grado de comprensión sobre los factores sociales, económicos y ambientales que influyen en el estado de salud personal y colectiva de una población.",
+    "dominio": "Salud mediante el conocimiento y la conducta",
+    "clase": "Conocimiento sobre la salud",
+    "relacion_nanda": [
+      "00126"
+    ],
+    "pagina_pdf": 243
+  },
+  {
+    "codigo": "1813",
+    "etiqueta": "Conocimiento: régimen terapéutico",
+    "definicion": "Grado de comprensión sobre el plan integral de cuidados, que incluye actividades de salud, dieta, medicación y seguimiento para gestionar una condición específica.",
+    "dominio": "Salud mediante el conocimiento y la conducta",
+    "clase": "Conocimiento sobre la salud",
+    "relacion_nanda": [
+      "00126",
+      "00078",
+      "00161"
+    ],
+    "pagina_pdf": 264
+  },
+  {
+    "codigo": "1814",
+    "etiqueta": "Conocimiento: procedimientos terapéuticos",
+    "definicion": "Grado de comprensión sobre el propósito, la preparación, el proceso y los cuidados posteriores de un procedimiento médico o quirúrgico específico.",
+    "dominio": "Salud mediante el conocimiento y la conducta",
+    "clase": "Conocimiento sobre la salud",
+    "relacion_nanda": [
+      "00126",
+      "00161"
+    ],
+    "pagina_pdf": 258
+  },
+  {
+    "codigo": "1815",
+    "etiqueta": "Conocimiento: funcionamiento sexual",
+    "definicion": "Grado de comprensión sobre la anatomía reproductiva, la respuesta sexual, la fertilidad y las prácticas seguras para mantener la salud sexual.",
+    "dominio": "Salud mediante el conocimiento y la conducta",
+    "clase": "Conocimiento sobre la salud",
+    "relacion_nanda": [
+      "00059",
+      "00065"
+    ],
+    "pagina_pdf": 246
+  },
+  {
+    "codigo": "1816",
+    "etiqueta": "Conocimiento: fomento de la salud",
+    "definicion": "Grado de comprensión sobre los principios para mejorar la salud personal y aumentar el control sobre los factores que la determinan.",
+    "dominio": "Salud mediante el conocimiento y la conducta",
+    "clase": "Conocimiento sobre la salud",
+    "relacion_nanda": [
+      "00126",
+      "00188"
+    ],
+    "pagina_pdf": 245
+  },
+  {
+    "codigo": "1817",
+    "etiqueta": "Conocimiento: gestión de la fertilidad",
+    "definicion": "Grado de comprensión sobre los métodos anticonceptivos, la planificación familiar y el seguimiento de los ciclos reproductivos para evitar o lograr el embarazo.",
+    "dominio": "Salud mediante el conocimiento y la conducta",
+    "clase": "Conocimiento sobre la salud",
+    "relacion_nanda": [
+      "00221"
+    ],
+    "pagina_pdf": 247
+  },
+  {
+    "codigo": "1819",
+    "etiqueta": "Conocimiento: cuidados del lactante",
+    "definicion": "Grado de comprensión sobre las necesidades básicas del niño de 0 a 12 meses, incluyendo alimentación, higiene, sueño y estimulación del desarrollo.",
+    "dominio": "Salud mediante el conocimiento y la conducta",
+    "clase": "Conocimiento sobre la salud",
+    "relacion_nanda": [
+      "00164"
+    ],
+    "pagina_pdf": 243
+  },
+  {
+    "codigo": "1820",
+    "etiqueta": "Conocimiento: control de la diabetes",
+    "definicion": "Grado de comprensión sobre la fisiopatología de la diabetes, la monitorización de la glucemia y la prevención de complicaciones agudas y crónicas.",
+    "dominio": "Salud mediante el conocimiento y la conducta",
+    "clase": "Conocimiento sobre la salud",
+    "relacion_nanda": [
+      "00126",
+      "00179"
+    ],
+    "pagina_pdf": 244
+  },
+  {
+    "codigo": "1821",
+    "etiqueta": "Conocimiento: manejo de la enfermedad crónica",
+    "definicion": "Grado de comprensión sobre el cuidado a largo plazo de una condición persistente, centrándose en el control de síntomas y el mantenimiento de la funcionalidad.",
+    "dominio": "Salud mediante el conocimiento y la conducta",
+    "clase": "Conocimiento sobre la salud",
+    "relacion_nanda": [
+      "00126",
+      "00161"
+    ],
+    "pagina_pdf": 250
+  },
+  {
+    "codigo": "1822",
+    "etiqueta": "Conocimiento: control de la hipertensión",
+    "definicion": "Grado de comprensión sobre los valores de presión arterial, los factores de riesgo modificables y la importancia del cumplimiento del tratamiento antihipertensivo.",
+    "dominio": "Sal Salud mediante el conocimiento y la conducta",
+    "clase": "Conocimiento sobre la salud",
+    "relacion_nanda": [
+      "00126",
+      "00204"
+    ],
+    "pagina_pdf": 249
+  },
+  {
+    "codigo": "1823",
+    "etiqueta": "Conocimiento: fomento de la salud",
+    "definicion": "Grado de comprensión sobre las estrategias para optimizar el bienestar físico y mental, incluyendo la reducción del estrés y la actividad física.",
+    "dominio": "Salud mediante el conocimiento y la conducta",
+    "clase": "Conocimiento sobre la salud",
+    "relacion_nanda": [
+      "00188"
+    ],
+    "pagina_pdf": 245
+  },
+  {
+    "codigo": "1824",
+    "etiqueta": "Conocimiento: cuidados de la salud en la enfermedad",
+    "definicion": "Grado de comprensión sobre las acciones necesarias para estabilizar una enfermedad aguda y prevenir la progresión hacia un estado crítico.",
+    "dominio": "Salud mediante el conocimiento y la conducta",
+    "clase": "Conocimiento sobre la salud",
+    "relacion_nanda": [
+      "00126",
+      "00161"
+    ],
+    "pagina_pdf": 250
+  },
+  {
+    "codigo": "1826",
+    "etiqueta": "Conocimiento: cuidados de la ostomía",
+    "definicion": "Grado de comprensión sobre el mantenimiento del estoma, el uso de dispositivos de recolección y la vigilancia de la piel periestomal.",
+    "dominio": "Salud mediante el conocimiento y la conducta",
+    "clase": "Conocimiento sobre la salud",
+    "relacion_nanda": [
+      "00126",
+      "00108"
+    ],
+    "pagina_pdf": 253
+  },
+  {
+    "codigo": "1827",
+    "etiqueta": "Conocimiento: mecánica corporal",
+    "definicion": "Grado de comprensión sobre el uso coordinado y seguro del cuerpo para realizar movimientos y levantar objetos, minimizando el riesgo de lesiones musculoesqueléticas.",
+    "dominio": "Salud mediante el conocimiento y la conducta",
+    "clase": "Conocimiento sobre la salud",
+    "relacion_nanda": [
+      "00085",
+      "00155"
+    ],
+    "pagina_pdf": 251
+  },
+  {
+    "codigo": "1828",
+    "etiqueta": "Conocimiento: prevención de caídas",
+    "definicion": "Grado de comprensión sobre los factores de riesgo ambientales y personales que predisponen a las caídas y las medidas de seguridad para evitarlas.",
+    "dominio": "Salud mediante el conocimiento y la conducta",
+    "clase": "Conocimiento sobre la salud",
+    "relacion_nanda": [
+      "00155"
+    ],
+    "pagina_pdf": 257
+  },
+  {
+    "codigo": "1829",
+    "etiqueta": "Conocimiento: control del cáncer",
+    "definicion": "Grado de comprensión sobre la prevención, detección precoz, opciones de tratamiento y manejo de efectos secundarios relacionados con procesos neoplásicos.",
+    "dominio": "Salud mediante el conocimiento y la conducta",
+    "clase": "Conocimiento sobre la salud",
+    "relacion_nanda": [
+      "00126"
+    ],
+    "pagina_pdf": 241
+  },
+  {
+    "codigo": "1830",
+    "etiqueta": "Conocimiento: control del riesgo",
+    "definicion": "Grado de comprensión sobre cómo identificar y mitigar peligros específicos en el estilo de vida o el entorno que pueden comprometer la salud.",
+    "dominio": "Salud mediante el conocimiento y la conducta",
+    "clase": "Conocimiento sobre la salud",
+    "relacion_nanda": [
+      "00126",
+      "00188"
+    ],
+    "pagina_pdf": 265
+  },
+  {
+    "codigo": "1831",
+    "etiqueta": "Conocimiento: manejo de la artritis",
+    "definicion": "Grado de comprensión sobre la inflamación articular, el manejo del dolor, la conservación de la energía y las terapias para mantener la movilidad.",
+    "dominio": "Salud mediante el conocimiento y la conducta",
+    "clase": "Conocimiento sobre la salud",
+    "relacion_nanda": [
+      "00126",
+      "00085"
+    ],
+    "pagina_pdf": 241
+  },
+  {
+    "codigo": "1832",
+    "etiqueta": "Conocimiento: manejo del asma",
+    "definicion": "Grado de comprensión sobre la inflamación de las vías aéreas, el uso de medidores de flujo máximo y el plan de acción ante crisis asmáticas.",
+    "dominio": "Salud mediante el conocimiento y la conducta",
+    "clase": "Conocimiento sobre la salud",
+    "relacion_nanda": [
+      "00126",
+      "00031"
+    ],
+    "pagina_pdf": 242
+  },
+  {
+    "codigo": "1833",
+    "etiqueta": "Conocimiento: manejo de la insuficiencia cardíaca congestiva",
+    "definicion": "Grado de comprensión sobre la disfunción miocárdica, la restricción de líquidos, el control de peso diario y los signos de empeoramiento.",
+    "dominio": "Salud mediante el conocimiento y la conducta",
+    "clase": "Conocimiento sobre la salud",
+    "relacion_nanda": [
+      "00126",
+      "00029"
+    ],
+    "pagina_pdf": 245
+  },
+  {
+    "codigo": "1834",
+    "etiqueta": "Conocimiento: manejo de la depresión",
+    "definicion": "Grado de comprensión sobre los trastornos del estado de ánimo, la importancia de la adherencia farmacológica y las señales de alerta de suicidio.",
+    "dominio": "Salud mediante el conocimiento y la conducta",
+    "clase": "Conocimiento sobre la salud",
+    "relacion_nanda": [
+      "00126",
+      "00135"
+    ],
+    "pagina_pdf": 244
+  },
+  {
+    "codigo": "1835",
+    "etiqueta": "Conocimiento: estilo de vida saludable",
+    "definicion": "Grado de comprensión sobre la combinación de hábitos alimenticios, actividad física y descanso que minimizan el riesgo de enfermedades crónicas.",
+    "dominio": "Salud mediante el conocimiento y la conducta",
+    "clase": "Conocimiento sobre la salud",
+    "relacion_nanda": [
+      "00126",
+      "00188"
+    ],
+    "pagina_pdf": 246
+  },
+  {
+    "codigo": "1836",
+    "etiqueta": "Conocimiento: control del uso de sustancias",
+    "definicion": "Grado de comprensión sobre los efectos nocivos de las drogas y el alcohol, así como las estrategias para mantener la sobriedad.",
+    "dominio": "Salud mediante el conocimiento y la conducta",
+    "clase": "Conocimiento sobre la salud",
+    "relacion_nanda": [
+      "00126",
+      "00079"
+    ],
+    "pagina_pdf": 268
+  },
+  {
+    "codigo": "1837",
+    "etiqueta": "Conocimiento: manejo de la insuficiencia renal",
+    "definicion": "Grado de comprensión sobre la filtración renal, las restricciones dietéticas (potasio, fósforo), el cuidado del acceso vascular y la diálisis.",
+    "dominio": "Salud mediante el conocimiento y la conducta",
+    "clase": "Conocimiento sobre la salud",
+    "relacion_nanda": [
+      "00126",
+      "00204"
+    ],
+    "pagina_pdf": 251
+  },
+  {
+    "codigo": "1838",
+    "etiqueta": "Conocimiento: seguridad personal",
+    "definicion": "Grado de comprensión sobre las medidas para protegerse de agresiones, violencia doméstica y otros peligros de la integridad física.",
+    "dominio": "Salud mediante el conocimiento y la conducta",
+    "clase": "Conocimiento sobre la salud",
+    "relacion_nanda": [
+      "00126",
+      "00138"
+    ],
+    "pagina_pdf": 267
+  },
+  {
+    "codigo": "1839",
+    "etiqueta": "Conocimiento: prevención del embarazo",
+    "definicion": "Grado de comprensión sobre el funcionamiento de los métodos anticonceptivos de barrera, hormonales o definitivos para evitar la concepción.",
+    "dominio": "Salud mediante el conocimiento y la conducta",
+    "clase": "Conocimiento sobre la salud",
+    "relacion_nanda": [
+      "00126",
+      "00221"
+    ],
+    "pagina_pdf": 257
+  },
+  {
+    "codigo": "1840",
+    "etiqueta": "Conocimiento: manejo de la infección",
+    "definicion": "Grado de comprensión sobre la cadena de transmisión de microorganismos, técnicas de asepsia y el uso correcto de antibióticos.",
+    "dominio": "Salud mediante el conocimiento y la conducta",
+    "clase": "Conocimiento sobre la salud",
+    "relacion_nanda": [
+      "00126",
+      "00004"
+    ],
+    "pagina_pdf": 249
+  },
+  {
+    "codigo": "1841",
+    "etiqueta": "Conocimiento: manejo de la enfermedad vascular periférica",
+    "definicion": "Grado de comprensión transmitido sobre el compromiso del flujo sanguíneo en las extremidades, el cuidado de los pies, la importancia de no fumar y la vigilancia de cambios en la coloración de la piel.",
+    "dominio": "Salud mediante el conocimiento y la conducta",
+    "clase": "Conocimiento sobre la salud",
+    "relacion_nanda": [
+      "00126",
+      "00204"
+    ],
+    "pagina_pdf": 252
+  },
+  {
+    "codigo": "1842",
+    "etiqueta": "Conocimiento: control del peso",
+    "definicion": "Grado de comprensión sobre la relación entre la ingesta calórica, el gasto energético, los rangos de índice de masa corporal (IMC) saludables y los riesgos asociados a la obesidad.",
+    "dominio": "Salud mediante el conocimiento y la conducta",
+    "clase": "Conocimiento sobre la salud",
+    "relacion_nanda": [
+      "00126",
+      "00232"
+    ],
+    "pagina_pdf": 269
+  },
+  {
+    "codigo": "1843",
+    "etiqueta": "Conocimiento: manejo del dolor",
+    "definicion": "Grado de comprensión sobre las causas del dolor, el uso de escalas de intensidad, la administración de analgésicos y el empleo de técnicas no farmacológicas para el alivio sintomático.",
+    "dominio": "Salud mediante el conocimiento y la conducta",
+    "clase": "Conocimiento sobre la salud",
+    "relacion_nanda": [
+      "00126",
+      "00132",
+      "00133"
+    ],
+    "pagina_pdf": 243
+  },
+  {
+    "codigo": "1844",
+    "etiqueta": "Conocimiento: manejo de la esclerosis múltiple",
+    "definicion": "Grado de comprensión sobre el proceso desmielinizante, la gestión de la fatiga, la prevención de exacerbaciones por calor y el uso de terapias modificadoras de la enfermedad.",
+    "dominio": "Salud mediante el conocimiento y la conducta",
+    "clase": "Conocimiento sobre la salud",
+    "relacion_nanda": [
+      "00126",
+      "00085"
+    ],
+    "pagina_pdf": 245
+  },
+  {
+    "codigo": "1847",
+    "etiqueta": "Conocimiento: defensa de la salud",
+    "definicion": "Grado de comprensión sobre los derechos del paciente, la capacidad para navegar el sistema sanitario y la importancia de expresar las preferencias personales en el cuidado médico.",
+    "dominio": "Salud mediante el conocimiento y la conducta",
+    "clase": "Conocimiento sobre la salud",
+    "relacion_nanda": [
+      "00078",
+      "00083"
+    ],
+    "pagina_pdf": 242
+  },
+  {
+    "codigo": "1848",
+    "etiqueta": "Conocimiento: manejo de la depresión infantil",
+    "definicion": "Grado de comprensión sobre las manifestaciones atípicas de la depresión en niños (irritabilidad, quejas somáticas), el impacto en el desarrollo y las opciones de apoyo psicoterapéutico.",
+    "dominio": "Salud mediante el conocimiento y la conducta",
+    "clase": "Conocimiento sobre la salud",
+    "relacion_nanda": [
+      "00126",
+      "00135"
+    ],
+    "pagina_pdf": 244
+  },
+  {
+    "codigo": "1849",
+    "etiqueta": "Conocimiento: manejo de la enfermedad de Alzheimer",
+    "definicion": "Grado de comprensión sobre la pérdida progresiva de la función cognitiva, las estrategias de seguridad en el hogar, la comunicación efectiva y la gestión de la agitación.",
+    "dominio": "Salud mediante el conocimiento y la conducta",
+    "clase": "Conocimiento sobre la salud",
+    "relacion_nanda": [
+      "00126",
+      "00131"
+    ],
+    "pagina_pdf": 244
+  },
+  {
+    "codigo": "1851",
+    "etiqueta": "Conocimiento: manejo del trastorno de estrés postraumático",
+    "definicion": "Grado de comprensión sobre los síntomas de reexperimentación, evitación e hiperalerta, así como las técnicas de anclaje y la importancia del tratamiento especializado.",
+    "dominio": "Salud mediante el conocimiento and la conducta",
+    "clase": "Conocimiento sobre la salud",
+    "relacion_nanda": [
+      "00141",
+      "00142"
+    ],
+    "pagina_pdf": 268
+  },
+  {
+    "codigo": "1852",
+    "etiqueta": "Conocimiento: manejo de los trastornos de la alimentación",
+    "definicion": "Grado de comprensión sobre las consecuencias físicas de la restricción o purga, la distorsión de la imagen corporal y los pasos para la rehabilitación nutricional.",
+    "dominio": "Salud mediante el conocimiento y la conducta",
+    "clase": "Conocimiento sobre la salud",
+    "relacion_nanda": [
+      "00126",
+      "00269"
+    ],
+    "pagina_pdf": 268
+  },
+  {
+    "codigo": "1853",
+    "etiqueta": "Conocimiento: manejo del cáncer",
+    "definicion": "Grado de comprensión sobre la biología del tumor, los ciclos de tratamiento (quimioterapia/radioterapia), el control de neutropenia y el soporte nutricional.",
+    "dominio": "Salud mediante el conocimiento y la conducta",
+    "clase": "Conocimiento sobre la salud",
+    "relacion_nanda": [
+      "00126"
+    ],
+    "pagina_pdf": 241
+  },
+  {
+    "codigo": "1854",
+    "etiqueta": "Conocimiento: dieta prescrita",
+    "definicion": "Grado de comprensión sobre los alimentos permitidos y prohibidos, el tamaño de las porciones y el propósito de la dieta para controlar una patología específica.",
+    "dominio": "Salud mediante el conocimiento y la conducta",
+    "clase": "Conocimiento sobre la salud",
+    "relacion_nanda": [
+      "00001",
+      "00002",
+      "00161"
+    ],
+    "pagina_pdf": 244
+  },
+  {
+    "codigo": "1855",
+    "etiqueta": "Conocimiento: estilo de vida saludable",
+    "definicion": "Grado de comprensión sobre la integración de conductas de bajo riesgo, como el sueño reparador, la hidratación adecuada y el manejo proactivo de las emociones.",
+    "dominio": "Salud mediante el conocimiento y la conducta",
+    "clase": "Conocimiento sobre la salud",
+    "relacion_nanda": [
+      "00188"
+    ],
+    "pagina_pdf": 246
+  },
+  {
+    "codigo": "1900",
+    "etiqueta": "Inmunización",
+    "definicion": "Grado en que el individuo tiene actualizado su esquema de vacunación según la edad y normativas locales para prevenir enfermedades infectocontagiosas.",
+    "dominio": "Salud mediante el conocimiento y la conducta",
+    "clase": "Gestión de la salud",
+    "relacion_nanda": [
+      "00004",
+      "00188"
+    ],
+    "pagina_pdf": 408
+  },
+  {
+    "codigo": "1901",
+    "etiqueta": "Control del riesgo: salud ambiental",
+    "definicion": "Acciones personales para identificar y minimizar peligros en el entorno físico (aire, agua, ruido, toxinas) que puedan afectar la salud individual o familiar.",
+    "dominio": "Salud mediante el conocimiento y la conducta",
+    "clase": "Gestión de la salud",
+    "relacion_nanda": [
+      "00035",
+      "00188"
+    ],
+    "pagina_pdf": 240
+  },
+  {
+    "codigo": "1902",
+    "etiqueta": "Control del riesgo",
+    "definicion": "Acciones personales para comprender, prevenir, eliminar o reducir las amenazas de salud que son modificables a través de la conducta diaria.",
+    "dominio": "Salud mediante el conocimiento y la conducta",
+    "clase": "Gestión de la salud",
+    "relacion_nanda": [
+      "00188"
+    ],
+    "pagina_pdf": 236
+  },
+  {
+    "codigo": "1903",
+    "etiqueta": "Control del riesgo: consumo de alcohol",
+    "definicion": "Acciones personales para monitorizar y limitar la ingesta de alcohol, reconociendo patrones de abuso y buscando alternativas saludables para la socialización.",
+    "dominio": "Salud mediante el conocimiento y la conducta",
+    "clase": "Gestión de la salud",
+    "relacion_nanda": [
+      "00282"
+    ],
+    "pagina_pdf": 237
+  },
+  {
+    "codigo": "1904",
+    "etiqueta": "Control del riesgo: consumo de drogas",
+    "definicion": "Acciones personales para evitar el uso de sustancias ilícitas y el uso indebido de medicamentos recetados, participando en programas de prevención si es necesario.",
+    "dominio": "Salud mediante el conocimiento y la conducta",
+    "clase": "Gestión de la salud",
+    "relacion_nanda": [
+      "00282"
+    ],
+    "pagina_pdf": 238
+  },
+  {
+    "codigo": "1905",
+    "etiqueta": "Control del riesgo: enfermedades de transmisión sexual (ETS)",
+    "definicion": "Acciones personales para reducir la probabilidad de adquirir o transmitir infecciones a través del contacto sexual, mediante el uso de barreras y la comunicación con la pareja.",
+    "dominio": "Salud mediante el conocimiento y la conducta",
+    "clase": "Gestión de la salud",
+    "relacion_nanda": [
+      "00188",
+      "00227"
+    ],
+    "pagina_pdf": 239
+  },
+  {
+    "codigo": "1906",
+    "etiqueta": "Control del riesgo: consumo de tabaco",
+    "definicion": "Acciones personales para cesar o evitar el tabaquismo, incluyendo la gestión de los impulsos y la evitación de entornos que inciten al consumo.",
+    "dominio": "Salud mediante el conocimiento y la conducta",
+    "clase": "Gestión de la salud",
+    "relacion_nanda": [
+      "00307"
+    ],
+    "pagina_pdf": 241
+  },
+  {
+    "codigo": "1907",
+    "etiqueta": "Control del riesgo: embarazo no deseado",
+    "definicion": "Acciones personales para utilizar de manera consistente y correcta los métodos anticonceptivos para prevenir una gestación en un momento no planificado.",
+    "dominio": "Salud mediante el conocimiento y la conducta",
+    "clase": "Gestión de la salud",
+    "relacion_nanda": [
+      "00221"
+    ],
+    "pagina_pdf": 238
+  },
+  {
+    "codigo": "1908",
+    "etiqueta": "Detección del riesgo",
+    "definicion": "Acciones personales para identificar las señales de alerta de un problema de salud potencial a través del autoexamen o la participación en programas de cribado.",
+    "dominio": "Salud mediante el conocimiento y la conducta",
+    "clase": "Gestión de la salud",
+    "relacion_nanda": [
+      "00188"
+    ],
+    "pagina_pdf": 298
+  },
+  {
+    "codigo": "1909",
+    "etiqueta": "Conducta de seguridad: prevención de caídas",
+    "definicion": "Acciones personales o del cuidador para minimizar los factores de riesgo que puedan precipitar caídas en el entorno inmediato, como el uso de calzado adecuado y eliminación de obstáculos.",
+    "dominio": "Salud mediante el conocimiento y la conducta",
+    "clase": "Gestión de la salud",
+    "relacion_nanda": [
+      "00155"
+    ],
+    "pagina_pdf": 212
+  },
+  {
+    "codigo": "1910",
+    "etiqueta": "Conducta de seguridad: ambiente físico del hogar",
+    "definicion": "Acciones personales para mantener la vivienda libre de riesgos, incluyendo la seguridad eléctrica, el almacenamiento de productos químicos y la iluminación adecuada.",
+    "dominio": "Salud mediante el conocimiento y la conducta",
+    "clase": "Gestión de la salud",
+    "relacion_nanda": [
+      "00035"
+    ],
+    "pagina_pdf": 211
+  },
+  {
+    "codigo": "1911",
+    "etiqueta": "Conducta de seguridad: personal",
+    "definicion": "Acciones individuales para protegerse de lesiones autoinfligidas o de agresiones externas en entornos sociales o laborales.",
+    "dominio": "Salud mediante el conocimiento y la conducta",
+    "clase": "Gestión de la salud",
+    "relacion_nanda": [
+      "00035"
+    ],
+    "pagina_pdf": 212
+  },
+  {
+    "codigo": "1912",
+    "etiqueta": "Caídas",
+    "definicion": "Número de veces que un individuo se va al suelo de forma involuntaria o accidental, con o sin lesión resultante, en un periodo determinado.",
+    "dominio": "Salud mediante el conocimiento y la conducta",
+    "clase": "Gestión de la salud",
+    "relacion_nanda": [
+      "00155"
+    ],
+    "pagina_pdf": 165
+  },
+  {
+    "codigo": "1913",
+    "etiqueta": "Severidad de la lesión física",
+    "definicion": "Gravedad de las alteraciones en la integridad corporal (fracturas, laceraciones, hematomas) producidas por un evento accidental o traumático.",
+    "dominio": "Salud mediante el conocimiento y la conducta",
+    "clase": "Gestión de la salud",
+    "relacion_nanda": [
+      "00035",
+      "00155"
+    ],
+    "pagina_pdf": 571
+  },
+  {
+    "codigo": "1914",
+    "etiqueta": "Control del riesgo: salud visual",
+    "definicion": "Acciones personales para prevenir el deterioro de la visión, incluyendo el uso de protección ocular y la asistencia a exámenes oftalmológicos regulares.",
+    "dominio": "Salud mediante el conocimiento y la conducta",
+    "clase": "Gestión de la salud",
+    "relacion_nanda": [
+      "00122"
+    ],
+    "pagina_pdf": 240
+  },
+  {
+    "codigo": "1915",
+    "etiqueta": "Control del riesgo: salud auditiva",
+    "definicion": "Acciones personales para prevenir la pérdida de audición, como evitar la exposición prolongada a ruidos intensos y la higiene adecuada del conducto auditivo.",
+    "dominio": "Salud mediante el conocimiento y la conducta",
+    "clase": "Gestión de la salud",
+    "relacion_nanda": [
+      "00122"
+    ],
+    "pagina_pdf": 236
+  },
+  {
+    "codigo": "2000",
+    "etiqueta": "Calidad de vida",
+    "definicion": "Percepción individual del bienestar físico, mental y social, y de la capacidad para funcionar en las actividades de la vida diaria y disfrutar de las relaciones interpersonales.",
+    "dominio": "Salud percibida",
+    "clase": "Calidad de vida",
+    "relacion_nanda": [
+      "00188",
+      "00200"
+    ],
+    "pagina_pdf": 166
+  },
+  {
+    "codigo": "2001",
+    "etiqueta": "Salud espiritual",
+    "definicion": "Capacidad de un individuo para experimentar significado, propósito y conexión con uno mismo, con los demás, con la naturaleza o con un ser superior.",
+    "dominio": "Salud percibida",
+    "clase": "Calidad de vida",
+    "relacion_nanda": [
+      "00066",
+      "00067"
+    ],
+    "pagina_pdf": 558
+  },
+  {
+    "codigo": "2002",
+    "etiqueta": "Bienestar personal",
+    "definicion": "Grado de percepción positiva sobre el propio estado de salud, satisfacción con la vida, capacidad de funcionamiento y sentido de pertenencia social.",
+    "dominio": "Salud percibida",
+    "clase": "Calidad de vida",
+    "relacion_nanda": [
+      "00188",
+      "00124"
+    ],
+    "pagina_pdf": 155
+  },
+  {
+    "codigo": "2003",
+    "etiqueta": "Estado de salud del estudiante",
+    "definicion": "Grado de bienestar físico, social y emocional de un individuo en el entorno educativo que permite el aprendizaje y el desarrollo personal adecuado.",
+    "dominio": "Salud percibida",
+    "clase": "Calidad de vida",
+    "relacion_nanda": [
+      "00188"
+    ],
+    "pagina_pdf": 369
+  },
+  {
+    "codigo": "2004",
+    "etiqueta": "Forma física",
+    "definicion": "Capacidad para realizar actividades físicas con vigor, reflejando el rendimiento cardiorrespiratorio, la fuerza muscular, la resistencia y la flexibilidad.",
+    "dominio": "Salud percibida",
+    "clase": "Salud y estado funcional",
+    "relacion_nanda": [
+      "00092",
+      "00094"
+    ],
+    "pagina_pdf": 401
+  },
+  {
+    "codigo": "2005",
+    "etiqueta": "Estado de salud funcional",
+    "definicion": "Capacidad del individuo para realizar las actividades básicas e instrumentales de la vida diaria de forma independiente o con ayuda mínima.",
+    "dominio": "Salud percibida",
+    "clase": "Salud y estado funcional",
+    "relacion_nanda": [
+      "00085",
+      "00091"
+    ],
+    "pagina_pdf": 368
+  },
+  {
+    "codigo": "2006",
+    "etiqueta": "Estado de salud",
+    "definicion": "Valoración global del bienestar físico, mental y social del individuo, según su propia percepción y los indicadores objetivos de funcionamiento.",
+    "dominio": "Salud percibida",
+    "clase": "Salud y estado funcional",
+    "relacion_nanda": [
+      "00188"
+    ],
+    "pagina_pdf": 367
+  },
+  {
+    "codigo": "2007",
+    "etiqueta": "Estado de salud de la familia",
+    "definicion": "Estado de bienestar dinámico de la unidad familiar como sistema, incluyendo la salud de sus miembros y la eficacia de sus procesos de interacción.",
+    "dominio": "Salud percibida",
+    "clase": "Salud y estado funcional",
+    "relacion_nanda": [
+      "00060",
+      "00063"
+    ],
+    "pagina_pdf": 368
+  },
+  {
+    "codigo": "2008",
+    "etiqueta": "Estado de comodidad",
+    "definicion": "Grado de tranquilidad física, psicoespiritual, ambiental y social percibido por el individuo en una situación de salud o enfermedad.",
+    "dominio": "Salud percibida",
+    "clase": "Calidad de vida",
+    "relacion_nanda": [
+      "00214"
+    ],
+    "pagina_pdf": 353
+  },
+  {
+    "codigo": "2009",
+    "etiqueta": "Estado de comodidad: entorno",
+    "definicion": "Percepción de tranquilidad y seguridad derivada de los factores ambientales externos, como temperatura, luz, ruido y privacidad.",
+    "dominio": "Salud percibida",
+    "clase": "Calidad de vida",
+    "relacion_nanda": [
+      "00214"
+    ],
+    "pagina_pdf": 354
+  },
+  {
+    "codigo": "2010",
+    "etiqueta": "Estado de comodidad: física",
+    "definicion": "Percepción de bienestar corporal y ausencia de sensaciones desagradables como dolor, náuseas, prurito o fatiga extrema.",
+    "dominio": "Salud percibida",
+    "clase": "Calidad de vida",
+    "relacion_nanda": [
+      "00214",
+      "00132",
+      "00134"
+    ],
+    "pagina_pdf": 355
+  },
+  {
+    "codigo": "2011",
+    "etiqueta": "Estado de comodidad: psicoespiritual",
+    "definicion": "Percepción de paz interior, esperanza y fortaleza emocional ante las circunstancias de vida y el proceso de salud.",
+    "dominio": "Salud percibida",
+    "clase": "Calidad de vida",
+    "relacion_nanda": [
+      "00214",
+      "00066"
+    ],
+    "pagina_pdf": 356
+  },
+  {
+    "codigo": "2012",
+    "etiqueta": "Estado de comodidad: sociocultural",
+    "definicion": "Percepción de apoyo, aceptación y conexión con el entorno social y cultural, manteniendo la dignidad y el respeto a los valores propios.",
+    "dominio": "Salud percibida",
+    "clase": "Calidad de vida",
+    "relacion_nanda": [
+      "00214",
+      "00054"
+    ],
+    "pagina_pdf": 357
+  },
+  {
+    "codigo": "2013",
+    "etiqueta": "Equilibrio en el estilo de vida",
+    "definicion": "Grado de armonía entre las diferentes esferas de la vida, incluyendo el trabajo, el descanso, las relaciones y el autocuidado, para promover el bienestar.",
+    "dominio": "Salud percibida",
+    "clase": "Calidad de vida",
+    "relacion_nanda": [
+      "00188"
+    ],
+    "pagina_pdf": 325
+  },
+  {
+    "codigo": "2100",
+    "etiqueta": "Nivel de comodidad",
+    "definicion": "Grado de bienestar positivo percibido por el individuo y ausencia de malestar físico o psicológico después de una intervención de salud.",
+    "dominio": "Salud fisiológica",
+    "clase": "Sintomatología",
+    "relacion_nanda": [
+      "00214"
+    ],
+    "pagina_pdf": 425
+  },
+  {
+    "codigo": "2101",
+    "etiqueta": "Severidad del sufrimiento",
+    "definicion": "Magnitud de la angustia emocional, mental o espiritual severa que experimenta un individuo ante una pérdida o amenaza grave a su integridad.",
+    "dominio": "Salud psicosocial",
+    "clase": "Bienestar psicológico",
+    "relacion_nanda": [
+      "00066",
+      "00135"
+    ],
+    "pagina_pdf": 574
+  },
+  {
+    "codigo": "2102",
+    "etiqueta": "Nivel del dolor",
+    "definicion": "Intensidad del dolor observado o referido, manifestado por respuestas autonómicas y verbalizaciones, que afecta el estado general del paciente.",
+    "dominio": "Salud fisiológica",
+    "clase": "Sintomatología",
+    "relacion_nanda": [
+      "00132",
+      "00133"
+    ],
+    "pagina_pdf": 431
+  },
+  {
+    "codigo": "2103",
+    "etiqueta": "Severidad de los síntomas",
+    "definicion": "Grado de intensidad y frecuencia de los cambios negativos en el funcionamiento físico, emocional o cognitivo asociados a una enfermedad.",
+    "dominio": "Salud fisiológica",
+    "clase": "Sintomatología",
+    "relacion_nanda": [
+      "00161"
+    ],
+    "pagina_pdf": 575
+  },
+  {
+    "codigo": "2104",
+    "etiqueta": "Severidad de los síntomas de abstinencia",
+    "definicion": "Gravedad de las respuestas físicas y psicológicas que ocurren tras la interrupción brusca del consumo de una sustancia que genera dependencia.",
+    "dominio": "Salud fisiológica",
+    "clase": "Sintomatología",
+    "relacion_nanda": [
+      "00282"
+    ],
+    "pagina_pdf": 576
+  },
+  {
+    "codigo": "2105",
+    "etiqueta": "Severidad de las náuseas y los vómitos",
+    "definicion": "Magnitud del malestar gástrico subjetivo y de la expulsión forzada del contenido gástrico, evaluando frecuencia y duración.",
+    "dominio": "Salud fisiológica",
+    "clase": "Sintomatología",
+    "relacion_nanda": [
+      "00134"
+    ],
+    "pagina_pdf": 572
+  },
+  {
+    "codigo": "2106",
+    "etiqueta": "Severidad de los síntomas adversos",
+    "definicion": "Gravedad de las respuestas físicas o emocionales no deseadas que ocurren como consecuencia de una intervención terapéutica o de la administración de un fármaco.",
+    "dominio": "Salud fisiológica",
+    "clase": "Sintomatología",
+    "relacion_nanda": [
+      "00161"
+    ],
+    "pagina_pdf": 576
+  },
+  {
+    "codigo": "2107",
+    "etiqueta": "Severidad de las quemaduras",
+    "definicion": "Magnitud de la lesión tisular causada por agentes térmicos, químicos o eléctricos, evaluada por la profundidad del daño y el porcentaje de superficie corporal afectada.",
+    "dominio": "Salud fisiológica",
+    "clase": "Integridad tisular",
+    "relacion_nanda": [
+      "00044",
+      "00046"
+    ],
+    "pagina_pdf": 573
+  },
+  {
+    "codigo": "2108",
+    "etiqueta": "Severidad de la retirada de sustancias",
+    "definicion": "Gravedad de los signos y síntomas fisiológicos y psicológicos que acompañan al cese del consumo de una sustancia adictiva bajo supervisión médica.",
+    "dominio": "Salud fisiológica",
+    "clase": "Sintomatología",
+    "relacion_nanda": [
+      "00282"
+    ],
+    "pagina_pdf": 577
+  },
+  {
+    "codigo": "2109",
+    "etiqueta": "Nivel de fatiga",
+    "definicion": "Magnitud de la sensación de cansancio abrumador y disminución de la capacidad para el trabajo físico y mental a los niveles habituales.",
+    "dominio": "Salud fisiológica",
+    "clase": "Sintomatología",
+    "relacion_nanda": [
+      "00093"
+    ],
+    "pagina_pdf": 435
+  },
+  {
+    "codigo": "2111",
+    "etiqueta": "Severidad del ojo seco",
+    "definicion": "Grado de malestar ocular y daño potencial en la superficie del ojo debido a una lubricación insuficiente o a una evaporación excesiva de las lágrimas.",
+    "dominio": "Salud fisiológica",
+    "clase": "Sintomatología",
+    "relacion_nanda": [
+      "00219"
+    ],
+    "pagina_pdf": 572
+  },
+  {
+    "codigo": "2112",
+    "etiqueta": "Severidad de la hipoglucemia",
+    "definicion": "Gravedad de los síntomas derivados de niveles anormalmente bajos de glucosa en sangre, incluyendo sudoración, temblor, confusión y riesgo de coma.",
+    "dominio": "Salud fisiológica",
+    "clase": "Regulación metabólica",
+    "relacion_nanda": [
+      "00179"
+    ],
+    "pagina_pdf": 570
+  },
+  {
+    "codigo": "2113",
+    "etiqueta": "Severidad de la hiperglucemia",
+    "definicion": "Gravedad de los signos y síntomas resultantes de niveles elevados de glucosa en sangre, como polidipsia, poliuria y presencia de cetonas en orina.",
+    "dominio": "Salud fisiológica",
+    "clase": "Regulación metabólica",
+    "relacion_nanda": [
+      "00179"
+    ],
+    "pagina_pdf": 569
+  },
+  {
+    "codigo": "2202",
+    "etiqueta": "Preparación del cuidador familiar domiciliario",
+    "definicion": "Grado de preparación cognitiva, física y emocional de un miembro de la familia para asumir la responsabilidad del cuidado continuo en el hogar.",
+    "dominio": "Salud psicosocial",
+    "clase": "Adaptación psicosocial",
+    "relacion_nanda": [
+      "00061",
+      "00062"
+    ],
+    "pagina_pdf": 526
+  },
+  {
+    "codigo": "2203",
+    "etiqueta": "Alteración del estilo de vida del cuidador",
+    "definicion": "Grado de cambio negativo en el patrón de vida de una persona debido a la carga de cuidados, incluyendo repercusiones en el trabajo, ocio y relaciones.",
+    "dominio": "Salud psicosocial",
+    "clase": "Adaptación psicosocial",
+    "relacion_nanda": [
+      "00061"
+    ],
+    "pagina_pdf": 116
+  },
+  {
+    "codigo": "2204",
+    "etiqueta": "Relación entre el cuidador y el paciente",
+    "definicion": "Calidad del vínculo afectivo y la eficacia de la interacción entre la persona que presta los cuidados y quien los recibe.",
+    "dominio": "Salud psicosocial",
+    "clase": "Interacción social",
+    "relacion_nanda": [
+      "00061",
+      "00104"
+    ],
+    "pagina_pdf": 532
+  },
+  {
+    "codigo": "2205",
+    "etiqueta": "Rendimiento del cuidador familiar: cuidados directos",
+    "definicion": "Grado de eficacia con el que el cuidador familiar realiza las técnicas de enfermería y las actividades de autocuidado para el paciente.",
+    "dominio": "Salud psicosocial",
+    "clase": "Adaptación psicosocial",
+    "relacion_nanda": [
+      "00061",
+      "00062"
+    ],
+    "pagina_pdf": 534
+  },
+  {
+    "codigo": "2208",
+    "etiqueta": "Factores estresantes del cuidador familiar",
+    "definicion": "Gravedad de las presiones ambientales, económicas y psicológicas que actúan sobre el cuidador familiar y comprometen su bienestar.",
+    "dominio": "Salud psicosocial",
+    "clase": "Adaptación psicosocial",
+    "relacion_nanda": [
+      "00061",
+      "00062"
+    ],
+    "pagina_pdf": 398
+  },
+  {
+    "codigo": "2211",
+    "etiqueta": "Rendimiento del cuidador familiar: cuidados indirectos",
+    "definicion": "Eficacia con la que el cuidador familiar gestiona los recursos externos, las finanzas y los servicios de salud para el bienestar del paciente.",
+    "dominio": "Salud psicosocial",
+    "clase": "Adaptación psicosocial",
+    "relacion_nanda": [
+      "00061",
+      "00062"
+    ],
+    "pagina_pdf": 535
+  },
+  {
+    "codigo": "2300",
+    "etiqueta": "Satisfacción del paciente/usuario: cuidados",
+    "definicion": "Grado de percepción positiva del paciente respecto a la calidad y eficacia de la atención de enfermería y médica recibida durante su proceso.",
+    "dominio": "Salud percibida",
+    "clase": "Satisfacción con los cuidados",
+    "relacion_nanda": [
+      "00188"
+    ],
+    "pagina_pdf": 560
+  },
+  {
+    "codigo": "2301",
+    "etiqueta": "Satisfacción del paciente/usuario: comunicación",
+    "definicion": "Grado de percepción positiva sobre la claridad, frecuencia y empatía de la información proporcionada por los profesionales de salud.",
+    "dominio": "Salud percibida",
+    "clase": "Satisfacción con los cuidados",
+    "relacion_nanda": [
+      "00188",
+      "00051"
+    ],
+    "pagina_pdf": 561
+  },
+  {
+    "codigo": "2302",
+    "etiqueta": "Satisfacción del paciente/usuario: enseñanza",
+    "definicion": "Grado de percepción positiva del paciente sobre la utilidad, relevancia y claridad de las actividades educativas realizadas por el personal de salud para mejorar su autocuidado.",
+    "dominio": "Salud percibida",
+    "clase": "Satisfacción con los cuidados",
+    "relacion_nanda": [
+      "00126",
+      "00161"
+    ],
+    "pagina_pdf": 562
+  },
+  {
+    "codigo": "2303",
+    "etiqueta": "Satisfacción del paciente/usuario: manejo del dolor",
+    "definicion": "Grado de percepción positiva del paciente sobre la eficacia de las medidas (farmacológicas y no farmacológicas) y la rapidez del personal para aliviar su dolor.",
+    "dominio": "Salud percibida",
+    "clase": "Satisfacción con los cuidados",
+    "relacion_nanda": [
+      "00132",
+      "00133"
+    ],
+    "pagina_pdf": 563
+  },
+  {
+    "codigo": "2304",
+    "etiqueta": "Satisfacción del paciente/usuario: entorno físico",
+    "definicion": "Grado de percepción positiva sobre la limpieza, seguridad, nivel de ruido, comodidad y privacidad de las instalaciones donde se brindan los cuidados.",
+    "dominio": "Salud percibida",
+    "clase": "Satisfacción con los cuidados",
+    "relacion_nanda": [
+      "00214"
+    ],
+    "pagina_pdf": 564
+  },
+  {
+    "codigo": "2305",
+    "etiqueta": "Satisfacción del paciente/usuario: cuidados de enfermería",
+    "definicion": "Grado de percepción positiva sobre la competencia técnica, la empatía, la disponibilidad y el respeto mostrado por el personal de enfermería durante la estancia hospitalaria o consulta.",
+    "dominio": "Salud percibida",
+    "clase": "Satisfacción con los cuidados",
+    "relacion_nanda": [
+      "00188"
+    ],
+    "pagina_pdf": 565
+  },
+  {
+    "codigo": "2401",
+    "etiqueta": "Estado de salud de la comunidad",
+    "definicion": "Estado de bienestar dinámico de una población, medido por indicadores de morbilidad, acceso a servicios básicos y la capacidad de la comunidad para responder a problemas de salud colectivos.",
+    "dominio": "Salud comunitaria",
+    "clase": "Bienestar de la comunidad",
+    "relacion_nanda": [
+      "00215"
+    ],
+    "pagina_pdf": 367
+  },
+  {
+    "codigo": "2404",
+    "etiqueta": "Preparación de la comunidad ante un desastre",
+    "definicion": "Capacidad de una población y sus instituciones para planificar, coordinar y organizar recursos de respuesta rápida ante emergencias naturales o tecnológicas.",
+    "dominio": "Salud comunitaria",
+    "clase": "Protección de la salud de la comunidad",
+    "relacion_nanda": [
+      "00215"
+    ],
+    "pagina_pdf": 525
+  },
+  {
+    "codigo": "2502",
+    "etiqueta": "Funcionamiento de la familia",
+    "definicion": "Capacidad de la unidad familiar para cumplir con sus funciones esenciales, incluyendo el apoyo emocional, la socialización de los miembros y el mantenimiento de la estabilidad económica y física.",
+    "dominio": "Salud familiar",
+    "clase": "Estado de salud de la familia",
+    "relacion_nanda": [
+      "00060",
+      "00063"
+    ],
+    "pagina_pdf": 402
+  },
+  {
+    "codigo": "2506",
+    "etiqueta": "Salud emocional del cuidador familiar",
+    "definicion": "Estado de bienestar psicológico del cuidador, caracterizado por la ausencia de sobrecarga extrema, ansiedad o depresión vinculada al rol de cuidado.",
+    "dominio": "Salud familiar",
+    "clase": "Bienestar del cuidador familiar",
+    "relacion_nanda": [
+      "00061",
+      "00062"
+    ],
+    "pagina_pdf": 557
+  },
+  {
+    "codigo": "2507",
+    "etiqueta": "Salud física del cuidador familiar",
+    "definicion": "Estado de integridad corporal y ausencia de enfermedades o lesiones musculoesqueléticas en el cuidador principal como consecuencia de las tareas de asistencia.",
+    "dominio": "Salud familiar",
+    "clase": "Bienestar del cuidador familiar",
+    "relacion_nanda": [
+      "00061"
+    ],
+    "pagina_pdf": 558
+  },
+  {
+    "codigo": "2600",
+    "etiqueta": "Afrontamiento de los problemas de la familia",
+    "definicion": "Acciones y estrategias colectivas empleadas por los miembros de una familia para manejar situaciones de crisis, estrés o cambios importantes en la dinámica interna.",
+    "dominio": "Salud familiar",
+    "clase": "Ser padre",
+    "relacion_nanda": [
+      "00063",
+      "00074"
+    ],
+    "pagina_pdf": 113
+  },
+  {
+    "codigo": "2601",
+    "etiqueta": "Clima social de la familia",
+    "definicion": "Ambiente de apoyo, cohesión y expresión de sentimientos que prevalece dentro de la unidad familiar, facilitando el desarrollo individual de sus integrantes.",
+    "dominio": "Salud familiar",
+    "clase": "Estado de salud de la familia",
+    "relacion_nanda": [
+      "00060",
+      "00063"
+    ],
+    "pagina_pdf": 203
+  },
+  {
+    "codigo": "2602",
+    "etiqueta": "Funcionamiento de la familia",
+    "definicion": "Eficacia de la comunicación y el apoyo mutuo entre los miembros de la familia para alcanzar metas comunes y adaptarse a las demandas externas.",
+    "dominio": "Salud familiar",
+    "clase": "Estado de salud de la familia",
+    "relacion_nanda": [
+      "00063"
+    ],
+    "pagina_pdf": 402
+  },
+  {
+    "codigo": "2605",
+    "etiqueta": "Participación de la familia en la asistencia sanitaria",
+    "definicion": "Grado de involucramiento de los miembros de la familia en el proceso de toma de decisiones, ejecución de cuidados y apoyo al plan terapéutico del paciente.",
+    "dominio": "Salud familiar",
+    "clase": "Estado de salud de la familia",
+    "relacion_nanda": [
+      "00062",
+      "00083"
+    ],
+    "pagina_pdf": 481
+  },
+  {
+    "codigo": "2609",
+    "etiqueta": "Apoyo familiar durante el tratamiento",
+    "definicion": "Presencia de soporte emocional e instrumental proporcionado por la red familiar para facilitar la adherencia del paciente al régimen terapéutico y su recuperación.",
+    "dominio": "Salud familiar",
+    "clase": "Estado de salud de la familia",
+    "relacion_nanda": [
+      "00062",
+      "00078"
+    ],
+    "pagina_pdf": 126
+  },
+  {
+    "codigo": "1106",
+    "etiqueta": "Preparación del parto",
+    "definicion": "Grado de preparación física y psicológica de la mujer y su pareja para el proceso del trabajo de parto y el nacimiento del recién nacido.",
+    "dominio": "Salud psicosocial",
+    "clase": "Adaptación psicosocial",
+    "relacion_nanda": [
+      "00208",
+      "00209"
+    ],
+    "pagina_pdf": 527
+  },
+  {
+    "codigo": "0416",
+    "etiqueta": "Perfusión tisular: celular",
+    "definicion": "Adecuación del flujo sanguíneo a través de los capilares para el intercambio de nutrientes y desechos celulares.",
+    "dominio": "Salud fisiológica",
+    "clase": "Cardiopulmonar",
+    "relacion_nanda": [
+      "00204"
+    ],
+    "pagina_pdf": 491
+  },
+  {
+    "codigo": "1004",
+    "etiqueta": "Estado nutricional",
+    "definicion": "Grado en que los nutrientes son ingeridos y absorbidos para satisfacer las necesidades metabólicas.",
+    "dominio": "Salud fisiológica",
+    "clase": "Digestión y Nutrición",
+    "relacion_nanda": [
+      "00001",
+      "00002"
+    ],
+    "pagina_pdf": 378
+  },
+  {
+    "codigo": "1005",
+    "etiqueta": "Estado nutricional: determinación bioquímica",
+    "definicion": "Indicadores bioquímicos (albúmina, hemoglobina, etc.) que reflejan el estado de nutrición.",
+    "dominio": "Salud fisiológica",
+    "clase": "Digestión y Nutrición",
+    "relacion_nanda": [
+      "00002"
+    ],
+    "pagina_pdf": 379
+  },
+  {
+    "codigo": "1006",
+    "etiqueta": "Estado nutricional: masa corporal",
+    "definicion": "Adecuación del peso en relación con la estatura y la composición de grasa corporal.",
+    "dominio": "Salud fisiológica",
+    "clase": "Digestión y Nutrición",
+    "relacion_nanda": [
+      "00001",
+      "00232"
+    ],
+    "pagina_pdf": 381
+  },
+  {
+    "codigo": "1007",
+    "etiqueta": "Estado nutricional: energía",
+    "definicion": "Adecuación de la ingesta de nutrientes para proporcionar energía para el funcionamiento físico.",
+    "dominio": "Salud fisiológica",
+    "clase": "Digestión y Nutrición",
+    "relacion_nanda": [
+      "00002",
+      "00093"
+    ],
+    "pagina_pdf": 380
+  },
+  {
+    "codigo": "1008",
+    "etiqueta": "Estado nutricional: ingesta de alimentos y líquidos",
+    "definicion": "Cantidad de alimentos y líquidos consumidos en un periodo de 24 horas.",
+    "dominio": "Salud fisiológica",
+    "clase": "Digestión y Nutrición",
+    "relacion_nanda": [
+      "00002",
+      "00027"
+    ],
+    "pagina_pdf": 382
+  },
+  {
+    "codigo": "1009",
+    "etiqueta": "Estado nutricional: ingesta de nutrientes",
+    "definicion": "Adecuación de la ingesta de vitaminas, minerales, proteínas y calorías.",
+    "dominio": "Salud fisiológica",
+    "clase": "Digestión y Nutrición",
+    "relacion_nanda": [
+      "00002"
+    ],
+    "pagina_pdf": 383
+  },
+  {
+    "codigo": "1010",
+    "etiqueta": "Estado de la deglución",
+    "definicion": "Tránsito seguro de líquidos o sólidos desde la boca hacia el esófago.",
+    "dominio": "Salud fisiológica",
+    "clase": "Digestión y Nutrición",
+    "relacion_nanda": [
+      "00103"
+    ],
+    "pagina_pdf": 357
+  },
+  {
+    "codigo": "1011",
+    "etiqueta": "Estado de la deglución: fase oral",
+    "definicion": "Preparación y movimiento del bolo alimenticio en la boca antes de deglutir.",
+    "dominio": "Salud fisiológica",
+    "clase": "Digestión y Nutrición",
+    "relacion_nanda": [
+      "00103"
+    ],
+    "pagina_pdf": 358
+  },
+  {
+    "codigo": "1012",
+    "etiqueta": "Estado de la deglución: fase faríngea",
+    "definicion": "Paso del bolo alimenticio a través de la faringe hacia el esófago evitando la aspiración.",
+    "dominio": "Salud fisiológica",
+    "clase": "Digestión y Nutrición",
+    "relacion_nanda": [
+      "00103",
+      "00039"
+    ],
+    "pagina_pdf": 359
+  },
+  {
+    "codigo": "1013",
+    "etiqueta": "Estado de la deglución: fase esofágica",
+    "definicion": "Paso del bolo alimenticio a través del esófago hacia el estómago.",
+    "dominio": "Salud fisiológica",
+    "clase": "Digestión y Nutrición",
+    "relacion_nanda": [
+      "00103"
+    ],
+    "pagina_pdf": 360
+  },
+  {
+    "codigo": "1014",
+    "etiqueta": "Apetito",
+    "definicion": "Deseo o inclinación psicológica de ingerir alimentos.",
+    "dominio": "Salud fisiológica",
+    "clase": "Digestión y Nutrición",
+    "relacion_nanda": [
+      "00002",
+      "00134"
+    ],
+    "pagina_pdf": 127
+  },
+  {
+    "codigo": "1107",
+    "etiqueta": "Recuperación quirúrgica: postoperatorio inmediato",
+    "definicion": "Grado en que una persona alcanza la estabilidad fisiológica después de una cirugía mayor, desde la salida del quirófano hasta el alta en la unidad de recuperación.",
+    "dominio": "Salud fisiológica",
+    "clase": "Integridad tisular",
+    "relacion_nanda": [
+      "00246",
+      "00100"
+    ],
+    "pagina_pdf": 531
+  },
+  {
+    "codigo": "0803",
+    "etiqueta": "Función hepática",
+    "definicion": "Capacidad del hígado para realizar funciones metabólicas, de síntesis y de desintoxicación.",
+    "dominio": "Salud fisiológica",
+    "clase": "Regulación metabólica",
+    "relacion_nanda": [
+      "00178",
+      "00230"
+    ],
+    "pagina_pdf": 401
+  },
+  {
+    "codigo": "0804",
+    "etiqueta": "Función endocrina",
+    "definicion": "Adecuación de la regulación hormonal para mantener la homeostasis orgánica.",
+    "dominio": "Salud fisiológica",
+    "clase": "Regulación metabólica",
+    "relacion_nanda": [
+      "00126",
+      "00179"
+    ],
+    "pagina_pdf": 401
+  },
+  {
+    "codigo": "2400",
+    "etiqueta": "Función social de la comunidad",
+    "definicion": "Capacidad de una comunidad para proporcionar apoyo, socialización y servicios a sus miembros.",
+    "dominio": "Salud comunitaria",
+    "clase": "Bienestar de la comunidad",
+    "relacion_nanda": [
+      "00215"
+    ],
+    "pagina_pdf": 402
+  },
+  {
+    "codigo": "2402",
+    "etiqueta": "Control de riesgos de la comunidad: enfermedad transmisible",
+    "definicion": "Acciones comunitarias para eliminar o reducir la propagación de agentes infecciosos que amenazan la salud pública.",
+    "dominio": "Salud comunitaria",
+    "clase": "Protección de la salud de la comunidad",
+    "relacion_nanda": [
+      "00004",
+      "00215"
+    ],
+    "pagina_pdf": 236
+  },
+  {
+    "codigo": "2403",
+    "etiqueta": "Control de riesgos de la comunidad: violencia",
+    "definicion": "Acciones de la comunidad para reducir la incidencia de conductas violentas y proteger a los ciudadanos.",
+    "dominio": "Salud comunitaria",
+    "clase": "Protección de la salud de la comunidad",
+    "relacion_nanda": [
+      "00138",
+      "00215"
+    ],
+    "pagina_pdf": 237
+  },
+  {
+    "codigo": "2405",
+    "etiqueta": "Salud de la comunidad: inmunidad",
+    "definicion": "Resistencia de una población a la propagación de enfermedades infecciosas mediante altas tasas de vacunación.",
+    "dominio": "Salud comunitaria",
+    "clase": "Protección de la salud de la comunidad",
+    "relacion_nanda": [
+      "00188"
+    ],
+    "pagina_pdf": 556
+  },
+  {
+    "codigo": "2406",
+    "etiqueta": "Salud de la comunidad: exposición a toxinas",
+    "definicion": "Grado en que los miembros de la comunidad están protegidos de sustancias peligrosas en el ambiente.",
+    "dominio": "Salud comunitaria",
+    "clase": "Protección de la salud de la comunidad",
+    "relacion_nanda": [
+      "00035"
+    ],
+    "pagina_pdf": 556
+  },
+  {
+    "codigo": "2407",
+    "etiqueta": "Eficacia de las instituciones de la comunidad",
+    "definicion": "Capacidad de las organizaciones sociales para satisfacer las necesidades de salud y bienestar de la población.",
+    "dominio": "Salud comunitaria",
+    "clase": "Bienestar de la comunidad",
+    "relacion_nanda": [
+      "00215"
+    ],
+    "pagina_pdf": 320
+  },
+  {
+    "codigo": "2603",
+    "etiqueta": "Integridad de la familia",
+    "definicion": "Capacidad de la familia para mantenerse unida y apoyarse mutuamente ante el estrés y los cambios.",
+    "dominio": "Salud familiar",
+    "clase": "Estado de salud de la familia",
+    "relacion_nanda": [
+      "00060",
+      "00063"
+    ],
+    "pagina_pdf": 408
+  },
+  {
+    "codigo": "2604",
+    "etiqueta": "Normalización de la familia",
+    "definicion": "Capacidad del sistema familiar para mantener rutinas y desarrollar estrategias ante una enfermedad crónica o discapacidad.",
+    "dominio": "Salud familiar",
+    "clase": "Estado de salud de la familia",
+    "relacion_nanda": [
+      "00060",
+      "00063"
+    ],
+    "pagina_pdf": 465
+  },
+  {
+    "codigo": "2606",
+    "etiqueta": "Estado de salud de la familia: lactante",
+    "definicion": "Estado de bienestar físico y emocional del lactante en el contexto de su familia.",
+    "dominio": "Salud familiar",
+    "clase": "Estado de salud de la familia",
+    "relacion_nanda": [
+      "00164"
+    ],
+    "pagina_pdf": 368
+  },
+  {
+    "codigo": "2607",
+    "etiqueta": "Resiliencia familiar",
+    "definicion": "Capacidad de la familia para adaptarse positivamente y recuperarse tras situaciones adversas o crisis.",
+    "dominio": "Salud familiar",
+    "clase": "Estado de salud de la familia",
+    "relacion_nanda": [
+      "00063"
+    ],
+    "pagina_pdf": 537
+  },
+  {
+    "codigo": "2608",
+    "etiqueta": "Manejo de la salud de la familia",
+    "definicion": "Grado en que la familia integra en su vida diaria hábitos saludables y el cumplimiento de tratamientos.",
+    "dominio": "Salud familiar",
+    "clase": "Estado de salud de la familia",
+    "relacion_nanda": [
+      "00062",
+      "00161"
+    ],
+    "pagina_pdf": 444
+  },
+  {
+    "codigo": "1916",
+    "etiqueta": "Control del riesgo: hipertermia",
+    "definicion": "Acciones personales para prevenir un aumento excesivo de la temperatura corporal.",
+    "dominio": "Salud mediante el conocimiento y la conducta",
+    "clase": "Gestión de la salud",
+    "relacion_nanda": [
+      "00007"
+    ],
+    "pagina_pdf": 239
+  },
+  {
+    "codigo": "1917",
+    "etiqueta": "Control del riesgo: hipotermia",
+    "definicion": "Acciones personales para prevenir una disminución excesiva de la temperatura corporal.",
+    "dominio": "Salud mediante el conocimiento y la conducta",
+    "clase": "Gestión de la salud",
+    "relacion_nanda": [
+      "00006"
+    ],
+    "pagina_pdf": 239
+  },
+  {
+    "codigo": "1918",
+    "etiqueta": "Control del riesgo: insolación",
+    "definicion": "Acciones personales para prevenir los efectos adversos de la exposición prolongada al sol.",
+    "dominio": "Salud mediante el conocimiento y la conducta",
+    "clase": "Gestión de la salud",
+    "relacion_nanda": [
+      "00007",
+      "00188"
+    ],
+    "pagina_pdf": 240
+  },
+  {
+    "codigo": "1919",
+    "etiqueta": "Control del riesgo: asfixia",
+    "definicion": "Acciones personales para prevenir la obstrucción de las vías respiratorias por objetos o sustancias.",
+    "dominio": "Salud mediante el conocimiento y la conducta",
+    "clase": "Gestión de la salud",
+    "relacion_nanda": [
+      "00039"
+    ],
+    "pagina_pdf": 236
+  },
+  {
+    "codigo": "1920",
+    "etiqueta": "Control del riesgo: intoxicación",
+    "definicion": "Acciones personales para prevenir la ingesta o inhalación accidental de sustancias tóxicas.",
+    "dominio": "Salud mediante el conocimiento y la conducta",
+    "clase": "Gestión de la salud",
+    "relacion_nanda": [
+      "00035",
+      "00037"
+    ],
+    "pagina_pdf": 240
+  },
+  {
+    "codigo": "1921",
+    "etiqueta": "Control del riesgo: radiación",
+    "definicion": "Acciones personales para minimizar la exposición a radiaciones ionizantes o no ionizantes.",
+    "dominio": "Salud mediante el conocimiento y la conducta",
+    "clase": "Gestión de la salud",
+    "relacion_nanda": [
+      "00188"
+    ],
+    "pagina_pdf": 240
+  },
+  {
+    "codigo": "1922",
+    "etiqueta": "Control del riesgo: quemaduras",
+    "definicion": "Acciones personales para prevenir lesiones térmicas, químicas o eléctricas en el hogar o trabajo.",
+    "dominio": "Salud mediante el conocimiento y la conducta",
+    "clase": "Gestión de la salud",
+    "relacion_nanda": [
+      "00035"
+    ],
+    "pagina_pdf": 240
+  },
+  {
+    "codigo": "1923",
+    "etiqueta": "Control del riesgo: laceraciones",
+    "definicion": "Acciones personales para prevenir heridas cortantes o desgarros en la piel.",
+    "dominio": "Salud mediante el conocimiento y la conducta",
+    "clase": "Gestión de la salud",
+    "relacion_nanda": [
+      "00035",
+      "00044"
+    ],
+    "pagina_pdf": 240
+  },
+  {
+    "codigo": "1924",
+    "etiqueta": "Control del riesgo: proceso infeccioso",
+    "definicion": "Acciones personales para prevenir la aparición o propagación de infecciones.",
+    "dominio": "Salud mediante el conocimiento y la conducta",
+    "clase": "Gestión de la salud",
+    "relacion_nanda": [
+      "00004"
+    ],
+    "pagina_pdf": 240
+  },
+  {
+    "codigo": "1925",
+    "etiqueta": "Control del riesgo: trauma",
+    "definicion": "Acciones personales para prevenir accidentes que resulten en lesiones físicas graves.",
+    "dominio": "Salud mediante el conocimiento y la conducta",
+    "clase": "Gestión de la salud",
+    "relacion_nanda": [
+      "00038"
+    ],
+    "pagina_pdf": 241
+  },
+  {
+    "codigo": "1926",
+    "etiqueta": "Control del riesgo: consumo de tabaco de segunda mano",
+    "definicion": "Acciones personales para evitar la exposición al humo ambiental de tabaco y minimizar sus riesgos para la salud.",
+    "dominio": "Salud mediante el conocimiento y la conducta",
+    "clase": "Gestión de la salud",
+    "relacion_nanda": [
+      "00307",
+      "00188"
+    ],
+    "pagina_pdf": 241
+  },
+  {
+    "codigo": "1927",
+    "etiqueta": "Control del riesgo: exposición al sol",
+    "definicion": "Acciones personales para limitar la exposición a los rayos ultravioleta y utilizar medidas de protección cutánea.",
+    "dominio": "Salud mediante el conocimiento y la conducta",
+    "clase": "Gestión de la salud",
+    "relacion_nanda": [
+      "00044",
+      "00188"
+    ],
+    "pagina_pdf": 239
+  },
+  {
+    "codigo": "1928",
+    "etiqueta": "Control del riesgo: hipertensión",
+    "definicion": "Acciones personales para monitorizar y reducir la presión arterial mediante dieta, ejercicio y cumplimiento terapéutico.",
+    "dominio": "Salud mediante el conocimiento y la conducta",
+    "clase": "Gestión de la salud",
+    "relacion_nanda": [
+      "00204",
+      "00161"
+    ],
+    "pagina_pdf": 239
+  },
+  {
+    "codigo": "1929",
+    "etiqueta": "Control del riesgo: automedicación",
+    "definicion": "Acciones personales para evitar el uso de fármacos sin prescripción médica y reconocer los peligros de la interacción medicamentosa.",
+    "dominio": "Salud mediante el conocimiento y la conducta",
+    "clase": "Gestión de la salud",
+    "relacion_nanda": [
+      "00188",
+      "00126"
+    ],
+    "pagina_pdf": 237
+  },
+  {
+    "codigo": "1930",
+    "etiqueta": "Control del riesgo: enfermedad cardiovascular",
+    "definicion": "Acciones personales para minimizar los factores de riesgo modificables relacionados con patologías del corazón y vasos sanguíneos.",
+    "dominio": "Salud mediante el conocimiento y la conducta",
+    "clase": "Gestión de la salud",
+    "relacion_nanda": [
+      "00204",
+      "00240"
+    ],
+    "pagina_pdf": 238
+  },
+  {
+    "codigo": "1931",
+    "etiqueta": "Control del riesgo: asfixia en el lactante/niño",
+    "definicion": "Acciones del cuidador para prevenir la obstrucción de las vías aéreas por juguetes, alimentos o ropa de cama en menores.",
+    "dominio": "Salud mediante el conocimiento y la conducta",
+    "clase": "Gestión de la salud",
+    "relacion_nanda": [
+      "00039"
+    ],
+    "pagina_pdf": 236
+  },
+  {
+    "codigo": "1932",
+    "etiqueta": "Control del riesgo: violencia en la pareja",
+    "definicion": "Acciones personales para reconocer señales de abuso, desarrollar planes de seguridad y buscar ayuda ante la violencia doméstica.",
+    "dominio": "Salud mediante el conocimiento y la conducta",
+    "clase": "Gestión de la salud",
+    "relacion_nanda": [
+      "00138",
+      "00150"
+    ],
+    "pagina_pdf": 241
+  },
+  {
+    "codigo": "1933",
+    "etiqueta": "Control del riesgo: úlceras por presión",
+    "definicion": "Acciones personales para prevenir la rotura de la integridad cutánea debida a la presión prolongada sobre prominencias óseas.",
+    "dominio": "Salud mediante el conocimiento y la conducta",
+    "clase": "Gestión de la salud",
+    "relacion_nanda": [
+      "00044",
+      "00047"
+    ],
+    "pagina_pdf": 241
+  },
+  {
+    "codigo": "1934",
+    "etiqueta": "Control del riesgo: enfermedad de Alzheimer",
+    "definicion": "Acciones del cuidador para retrasar el deterioro funcional y mantener la seguridad del paciente con demencia.",
+    "dominio": "Salud mediante el conocimiento y la conducta",
+    "clase": "Gestión de la salud",
+    "relacion_nanda": [
+      "00131"
+    ],
+    "pagina_pdf": 236
+  },
+  {
+    "codigo": "1935",
+    "etiqueta": "Control del riesgo: caídas en el lactante/niño",
+    "definicion": "Acciones del cuidador para proporcionar un entorno seguro que evite caídas accidentales en la infancia.",
+    "dominio": "Salud mediante el conocimiento y la conducta",
+    "clase": "Gestión de la salud",
+    "relacion_nanda": [
+      "00155"
+    ],
+    "pagina_pdf": 237
+  },
+  {
+    "codigo": "1936",
+    "etiqueta": "Control del riesgo: diabetes",
+    "definicion": "Acciones personales para prevenir complicaciones de la diabetes mediante el control glucémico y el cuidado de los pies.",
+    "dominio": "Salud mediante el conocimiento y la conducta",
+    "clase": "Gestión de la salud",
+    "relacion_nanda": [
+      "00179",
+      "00161"
+    ],
+    "pagina_pdf": 238
+  },
+  {
+    "codigo": "1937",
+    "etiqueta": "Control del riesgo: osteoporosis",
+    "definicion": "Acciones personales para prevenir la pérdida de densidad ósea mediante la ingesta de calcio y ejercicio de carga.",
+    "dominio": "Salud mediante el conocimiento y la conducta",
+    "clase": "Gestión de la salud",
+    "relacion_nanda": [
+      "00155",
+      "00188"
+    ],
+    "pagina_pdf": 240
+  },
+  {
+    "codigo": "1938",
+    "etiqueta": "Control del riesgo: tabaquismo",
+    "definicion": "Acciones personales para eliminar el consumo de cigarrillos y otros productos derivados del tabaco.",
+    "dominio": "Salud mediante el conocimiento y la conducta",
+    "clase": "Gestión de la salud",
+    "relacion_nanda": [
+      "00307"
+    ],
+    "pagina_pdf": 241
+  },
+  {
+    "codigo": "1939",
+    "etiqueta": "Control del riesgo: trastorno convulsivo",
+    "definicion": "Acciones personales para prevenir lesiones durante las convulsiones y cumplir con el régimen anticonvulsivo.",
+    "dominio": "Salud mediante el conocimiento y la conducta",
+    "clase": "Gestión de la salud",
+    "relacion_nanda": [
+      "00128",
+      "00161"
+    ],
+    "pagina_pdf": 238
+  },
+  {
+    "codigo": "1940",
+    "etiqueta": "Control del riesgo: infarto de miocardio",
+    "definicion": "Acciones personales para identificar síntomas de alerta y reducir conductas que predisponen a la isquemia coronaria.",
+    "dominio": "Salud mediante el conocimiento y la conducta",
+    "clase": "Gestión de la salud",
+    "relacion_nanda": [
+      "00240"
+    ],
+    "pagina_pdf": 239
+  },
+  {
+    "codigo": "1941",
+    "etiqueta": "Control del riesgo: accidente cerebrovascular (ACV)",
+    "definicion": "Acciones personales para controlar la hipertensión y otros factores que incrementan el riesgo de eventos vasculares cerebrales.",
+    "dominio": "Salud mediante el conocimiento y la conducta",
+    "clase": "Gestión de la salud",
+    "relacion_nanda": [
+      "00201",
+      "00204"
+    ],
+    "pagina_pdf": 236
+  },
+  {
+    "codigo": "1942",
+    "etiqueta": "Control del riesgo: depresión",
+    "definicion": "Acciones personales para reconocer cambios en el estado de ánimo y buscar apoyo profesional preventivo.",
+    "dominio": "Salud mediante el conocimiento y la conducta",
+    "clase": "Gestión de la salud",
+    "relacion_nanda": [
+      "00124",
+      "00135"
+    ],
+    "pagina_pdf": 238
+  },
+  {
+    "codigo": "2110",
+    "etiqueta": "Severidad de los síntomas de la menopausia",
+    "definicion": "Gravedad de los sofocos, cambios de humor y alteraciones del sueño asociados al cese de la función ovárica.",
+    "dominio": "Salud fisiológica",
+    "clase": "Sintomatología",
+    "relacion_nanda": [
+      "00188"
+    ],
+    "pagina_pdf": 576
+  },
+  {
+    "codigo": "2114",
+    "etiqueta": "Severidad del síndrome de desuso",
+    "definicion": "Gravedad de las complicaciones resultantes de la inactividad física prolongada (atrofia, estreñimiento, etc.).",
+    "dominio": "Salud fisiológica",
+    "clase": "Sintomatología",
+    "relacion_nanda": [
+      "00040"
+    ],
+    "pagina_pdf": 574
+  },
+  {
+    "codigo": "2306",
+    "etiqueta": "Satisfacción del paciente/usuario: manejo del régimen terapéutico",
+    "definicion": "Percepción positiva del paciente sobre la coordinación y el éxito del plan de cuidados médico-enfermero.",
+    "dominio": "Salud percibida",
+    "clase": "Satisfacción con los cuidados",
+    "relacion_nanda": [
+      "00161",
+      "00188"
+    ],
+    "pagina_pdf": 566
+  },
+  {
+    "codigo": "0220",
+    "etiqueta": "Movimiento articular: muñeca",
+    "definicion": "Rango de movilidad de la articulación radiocarpiana bajo control voluntario.",
+    "dominio": "Salud funcional",
+    "clase": "Movilidad",
+    "relacion_nanda": [
+      "00085"
+    ],
+    "pagina_pdf": 460
+  },
+  {
+    "codigo": "1818",
+    "etiqueta": "Conocimiento: gestación",
+    "definicion": "Grado de comprensión transmitido sobre los cambios corporales y las necesidades durante el embarazo.",
+    "dominio": "Salud mediante el conocimiento y la conducta",
+    "clase": "Conocimientos",
+    "relacion_nanda": [
+      "00209"
+    ],
+    "pagina_pdf": 243
+  },
+  {
+    "codigo": "1825",
+    "etiqueta": "Conocimiento: salud cardiovascular",
+    "definicion": "Grado de comprensión transmitido sobre el funcionamiento del corazón y la reducción de riesgos coronarios.",
+    "dominio": "Salud mediante el conocimiento y la conducta",
+    "clase": "Conocimientos",
+    "relacion_nanda": [
+      "00240"
+    ],
+    "pagina_pdf": 257
+  },
+  {
+    "codigo": "1845",
+    "etiqueta": "Conocimiento: manejo de la salud",
+    "definicion": "Grado de comprensión transmitido sobre la integración de los cuidados en la vida diaria.",
+    "dominio": "Salud mediante el conocimiento y la conducta",
+    "clase": "Conocimientos",
+    "relacion_nanda": [
+      "00161",
+      "00188"
+    ],
+    "pagina_pdf": 246
+  },
+  {
+    "codigo": "1850",
+    "etiqueta": "Conocimiento: salud maternal en el posparto",
+    "definicion": "Grado de comprensión transmitido sobre la recuperación física y emocional tras el nacimiento de un hijo.",
+    "dominio": "Salud mediante el conocimiento y la conducta",
+    "clase": "Conocimientos",
+    "relacion_nanda": [
+      "00208"
+    ],
+    "pagina_pdf": 257
+  },
+  {
+    "codigo": "2210",
+    "etiqueta": "Resistencia del cuidador familiar",
+    "definicion": "Capacidad del cuidador para mantener el rol de cuidado durante un largo periodo de tiempo.",
+    "dominio": "Salud familiar",
+    "clase": "Ser cuidador familiar",
+    "relacion_nanda": [
+      "00061"
+    ],
+    "pagina_pdf": 538
+  },
+  {
+    "codigo": "2505",
+    "etiqueta": "Salud emocional del lactante",
+    "definicion": "Grado de bienestar afectivo y respuesta social adecuada para la edad del niño.",
+    "dominio": "Salud funcional",
+    "clase": "Crecimiento y desarrollo",
+    "relacion_nanda": [
+      "00112"
+    ],
+    "pagina_pdf": 556
+  },
+  {
+    "codigo": "2508",
+    "etiqueta": "Bienestar del cuidador familiar",
+    "definicion": "Grado de satisfacción con el estado de salud física, emocional y social del cuidador.",
+    "dominio": "Salud familiar",
+    "clase": "Ser cuidador familiar",
+    "relacion_nanda": [
+      "00061"
+    ],
+    "pagina_pdf": 156
+  },
+  {
+    "codigo": "2511",
+    "etiqueta": "Estado de salud de la comunidad: salud pública",
+    "definicion": "Eficacia de los programas de salud de la comunidad para proteger y mejorar la salud de la población.",
+    "dominio": "Salud comunitaria",
+    "clase": "Bienestar de la comunidad",
+    "relacion_nanda": [
+      "00215"
+    ],
+    "pagina_pdf": 368
+  },
+  {
+    "codigo": "2514",
+    "etiqueta": "Estado de salud de la comunidad: acceso a servicios",
+    "definicion": "Grado en que los miembros de la comunidad pueden obtener los servicios de salud necesarios.",
+    "dominio": "Salud comunitaria",
+    "clase": "Bienestar de la comunidad",
+    "relacion_nanda": [
+      "00215"
+    ],
+    "pagina_pdf": 367
+  },
+  {
+    "codigo": "2802",
+    "etiqueta": "Control del riesgo social: enfermedad transmisible",
+    "definicion": "Acciones de la sociedad para reducir la incidencia de enfermedades infecciosas a nivel poblacional.",
+    "dominio": "Salud comunitaria",
+    "clase": "Protección de la salud de la comunidad",
+    "relacion_nanda": [
+      "00004",
+      "00215"
+    ],
+    "pagina_pdf": 240
+  },
+  {
+    "codigo": "2807",
+    "etiqueta": "Eficacia del cribado de salud de la comunidad",
+    "definicion": "Capacidad de los programas de detección precoz para identificar problemas de salud en la población.",
+    "dominio": "Salud comunitaria",
+    "clase": "Protección de la salud de la comunidad",
+    "relacion_nanda": [
+      "00215"
+    ],
+    "pagina_pdf": 320
+  },
+  {
+    "codigo": "2509",
+    "etiqueta": "Estado de salud fetal: prenatal",
+    "definicion": "Estado de bienestar relativo de un feto antes del nacimiento basado en pruebas de reactividad y movimientos.",
+    "dominio": "Salud fisiológica",
+    "clase": "Reproducción",
+    "relacion_nanda": [
+      "00209"
+    ],
+    "pagina_pdf": 369
+  },
+  {
+    "codigo": "2510",
+    "etiqueta": "Estado de salud fetal: intraparto",
+    "definicion": "Estado de bienestar relativo de un feto durante el proceso del parto (frecuencia cardíaca fetal y variabilidad).",
+    "dominio": "Salud fisiológica",
+    "clase": "Reproducción",
+    "relacion_nanda": [
+      "00209"
+    ],
+    "pagina_pdf": 369
+  },
+  {
+    "codigo": "2512",
+    "etiqueta": "Salud genética personal",
+    "definicion": "Comprensión y adaptación del individuo a los riesgos o condiciones genéticas heredadas.",
+    "dominio": "Salud mediante el conocimiento y la conducta",
+    "clase": "Gestión de la salud",
+    "relacion_nanda": [
+      "00126"
+    ],
+    "pagina_pdf": 556
+  },
+  {
+    "codigo": "2513",
+    "etiqueta": "Severidad del descuido: infantil",
+    "definicion": "Gravedad de la omisión de los cuidados básicos (alimentación, higiene, supervisión) por parte del cuidador.",
+    "dominio": "Salud psicosocial",
+    "clase": "Interacción social",
+    "relacion_nanda": [
+      "00061"
+    ],
+    "pagina_pdf": 575
+  },
+  {
+    "codigo": "1015",
+    "etiqueta": "Función gastrointestinal",
+    "definicion": "Capacidad del tracto gastrointestinal para digerir y absorber nutrientes y eliminar residuos.",
+    "dominio": "Salud fisiológica",
+    "clase": "Nutrición",
+    "relacion_nanda": [
+      "00196"
+    ],
+    "pagina_pdf": 401
+  },
+  {
+    "codigo": "1500",
+    "etiqueta": "Lazos afectivos padre-hijo",
+    "definicion": "Establecimiento y mantenimiento de una relación recíproca de afecto entre el cuidador y el niño.",
+    "dominio": "Salud psicosocial",
+    "clase": "Interacción social",
+    "relacion_nanda": [
+      "00058"
+    ],
+    "pagina_pdf": 418
+  },
+  {
+    "codigo": "1705",
+    "etiqueta": "Creencias sobre la salud: percepción de barreras",
+    "definicion": "Convicción personal sobre los obstáculos que impiden realizar una conducta de salud.",
+    "dominio": "Salud mediante el conocimiento y la conducta",
+    "clase": "Conocimientos",
+    "relacion_nanda": [
+      "00188"
+    ],
+    "pagina_pdf": 258
+  },
+  {
+    "codigo": "2200",
+    "etiqueta": "Adaptación del cuidador familiar al ingreso en un centro sanitario",
+    "definicion": "Respuesta psicosocial de un cuidador ante el traslado del paciente a una institución.",
+    "dominio": "Salud familiar",
+    "clase": "Ser cuidador familiar",
+    "relacion_nanda": [
+      "00061"
+    ],
+    "pagina_pdf": 110
+  },
+  {
+    "codigo": "2212",
+    "etiqueta": "Rendimiento del cuidador familiar: cuidados de larga duración",
+    "definicion": "Grado de competencia del cuidador en la provisión de asistencia continuada por un tiempo prolongado.",
+    "dominio": "Salud familiar",
+    "clase": "Ser cuidador familiar",
+    "relacion_nanda": [
+      "00061"
+    ],
+    "pagina_pdf": 535
+  },
+  {
+    "codigo": "2700",
+    "etiqueta": "Competencia de la comunidad",
+    "definicion": "Capacidad de una comunidad para resolver problemas y alcanzar metas colectivas.",
+    "dominio": "Salud comunitaria",
+    "clase": "Bienestar de la comunidad",
+    "relacion_nanda": [
+      "00215"
+    ],
+    "pagina_pdf": 215
+  },
+  {
+    "codigo": "2701",
+    "etiqueta": "Estado de salud de la comunidad",
+    "definicion": "Estado general de bienestar de una población definida.",
+    "dominio": "Salud comunitaria",
+    "clase": "Bienestar de la comunidad",
+    "relacion_nanda": [
+      "00215"
+    ],
+    "pagina_pdf": 367
+  },
+  {
+    "codigo": "2800",
+    "etiqueta": "Control del riesgo social: exposición al plomo",
+    "definicion": "Acciones comunitarias para reducir el riesgo de toxicidad por plomo en la población.",
+    "dominio": "Salud comunitaria",
+    "clase": "Protección de la salud de la comunidad",
+    "relacion_nanda": [
+      "00035"
+    ],
+    "pagina_pdf": 240
+  },
+  {
+    "codigo": "2801",
+    "etiqueta": "Control del riesgo social: violencia",
+    "definicion": "Acciones comunitarias para prevenir y reducir los actos de agresión y abuso.",
+    "dominio": "Salud comunitaria",
+    "clase": "Protección de la salud de la comunidad",
+    "relacion_nanda": [
+      "00138"
+    ],
+    "pagina_pdf": 241
+  },
+  {
+    "codigo": "2808",
+    "etiqueta": "Eficacia de las instituciones de la comunidad",
+    "definicion": "Adecuación de los servicios y programas comunitarios para satisfacer las necesidades de la población.",
+    "dominio": "Salud comunitaria",
+    "clase": "Bienestar de la comunidad",
+    "relacion_nanda": [
+      "00215"
+    ],
+    "pagina_pdf": 320
+  },
+  {
+    "codigo": "3000",
+    "etiqueta": "Satisfacción del paciente/usuario: asistencia",
+    "definicion": "Grado de percepción positiva de la atención recibida por parte del personal sanitario.",
+    "dominio": "Salud percibida",
+    "clase": "Satisfacción con los cuidados",
+    "relacion_nanda": [
+      "00188"
+    ],
+    "pagina_pdf": 548
+  },
+  {
+    "codigo": "3001",
+    "etiqueta": "Satisfacción del paciente/usuario: cumplimiento de las necesidades culturales",
+    "definicion": "Grado de satisfacción con el respeto y la integración de sus valores culturales en el cuidado.",
+    "dominio": "Salud percibida",
+    "clase": "Satisfacción con los cuidados",
+    "relacion_nanda": [
+      "00188"
+    ],
+    "pagina_pdf": 548
+  },
+  {
+    "codigo": "3002",
+    "etiqueta": "Satisfacción del paciente/usuario: enseñanza",
+    "definicion": "Grado de satisfacción con la información y educación proporcionada sobre su salud.",
+    "dominio": "Salud percibida",
+    "clase": "Satisfacción con los cuidados",
+    "relacion_nanda": [
+      "00126"
+    ],
+    "pagina_pdf": 549
+  },
+  {
+    "codigo": "3003",
+    "etiqueta": "Satisfacción del paciente/usuario: continuidad de los cuidados",
+    "definicion": "Grado de satisfacción con la coordinación y el seguimiento de la atención a través del tiempo.",
+    "dominio": "Salud percibida",
+    "clase": "Satisfacción con los cuidados",
+    "relacion_nanda": [
+      "00188"
+    ],
+    "pagina_pdf": 549
+  },
+  {
+    "codigo": "3004",
+    "etiqueta": "Satisfacción del paciente/usuario: control del dolor",
+    "definicion": "Grado de satisfacción con la eficacia de las medidas para aliviar el dolor.",
+    "dominio": "Salud percibida",
+    "clase": "Satisfacción con los cuidados",
+    "relacion_nanda": [
+      "00132",
+      "00133"
+    ],
+    "pagina_pdf": 550
+  },
+  {
+    "codigo": "3005",
+    "etiqueta": "Satisfacción del paciente/usuario: entorno físico",
+    "definicion": "Grado de satisfacción con las instalaciones, limpieza y comodidad del centro sanitario.",
+    "dominio": "Salud percibida",
+    "clase": "Satisfacción con los cuidados",
+    "relacion_nanda": [
+      "00214"
+    ],
+    "pagina_pdf": 550
+  },
+  {
+    "codigo": "3006",
+    "etiqueta": "Satisfacción del paciente/usuario: comunicación",
+    "definicion": "Grado de satisfacción con la claridad, honestidad y escucha del personal sanitario.",
+    "dominio": "Salud percibida",
+    "clase": "Satisfacción con los cuidados",
+    "relacion_nanda": [
+      "00051"
+    ],
+    "pagina_pdf": 551
+  },
+  {
+    "codigo": "3007",
+    "etiqueta": "Satisfacción del paciente/usuario: seguridad",
+    "definicion": "Grado de satisfacción con las medidas adoptadas para prevenir errores y daños físicos.",
+    "dominio": "Salud percibida",
+    "clase": "Satisfacción con los cuidados",
+    "relacion_nanda": [
+      "00035"
+    ],
+    "pagina_pdf": 551
+  },
+  {
+    "codigo": "3008",
+    "etiqueta": "Satisfacción del paciente/usuario: gestión de los síntomas",
+    "definicion": "Grado de satisfacción con la atención prestada para aliviar síntomas distintos al dolor.",
+    "dominio": "Salud percibida",
+    "clase": "Satisfacción con los cuidados",
+    "relacion_nanda": [
+      "00161"
+    ],
+    "pagina_pdf": 552
+  },
+  {
+    "codigo": "3009",
+    "etiqueta": "Satisfacción del paciente/usuario: cuidados psicológicos",
+    "definicion": "Grado de satisfacción con el apoyo emocional brindado por el equipo de salud.",
+    "dominio": "Salud percibida",
+    "clase": "Satisfacción con los cuidados",
+    "relacion_nanda": [
+      "00146"
+    ],
+    "pagina_pdf": 552
+  },
+  {
+    "codigo": "3010",
+    "etiqueta": "Satisfacción del paciente/usuario: aspectos técnicos de la asistencia",
+    "definicion": "Grado de satisfacción con la destreza y competencia técnica demostrada por los profesionales.",
+    "dominio": "Salud percibida",
+    "clase": "Satisfacción con los cuidados",
+    "relacion_nanda": [
+      "00188"
+    ],
+    "pagina_pdf": 553
+  },
+  {
+    "codigo": "3011",
+    "etiqueta": "Satisfacción del paciente/usuario: acceso a los recursos asistenciales",
+    "definicion": "Grado de satisfacción con la facilidad para obtener citas, transporte o servicios necesarios.",
+    "dominio": "Salud percibida",
+    "clase": "Satisfacción con los cuidados",
+    "relacion_nanda": [
+      "00215"
+    ],
+    "pagina_pdf": 553
+  },
+  {
+    "codigo": "3100",
+    "etiqueta": "Autogestión de la enfermedad aguda",
+    "definicion": "Acciones personales para manejar los síntomas y el tratamiento de una afección de corta duración.",
+    "dominio": "Salud mediante el conocimiento y la conducta",
+    "clase": "Gestión de la salud",
+    "relacion_nanda": [
+      "00161"
+    ],
+    "pagina_pdf": 152
+  },
+  {
+    "codigo": "3101",
+    "etiqueta": "Autogestión del tratamiento de la infección",
+    "definicion": "Acciones personales para seguir el régimen antibiótico y medidas de control de la infección.",
+    "dominio": "Salud mediante el conocimiento y la conducta",
+    "clase": "Gestión de la salud",
+    "relacion_nanda": [
+      "00004"
+    ],
+    "pagina_pdf": 154
+  },
+  {
+    "codigo": "3102",
+    "etiqueta": "Autogestión de la salud: enfermedad celíaca",
+    "definicion": "Acciones personales para mantener una dieta libre de gluten y manejar la enfermedad.",
+    "dominio": "Salud mediante el conocimiento y la conducta",
+    "clase": "Gestión de la salud",
+    "relacion_nanda": [
+      "00161"
+    ],
+    "pagina_pdf": 154
+  },
+  {
+    "codigo": "3103",
+    "etiqueta": "Autogestión: enfermedad pulmonar obstructiva crónica (EPOC)",
+    "definicion": "Acciones personales para manejar la disnea, el uso de oxígeno y prevenir exacerbaciones.",
+    "dominio": "Salud mediante el conocimiento y la conducta",
+    "clase": "Gestión de la salud",
+    "relacion_nanda": [
+      "00031"
+    ],
+    "pagina_pdf": 153
+  },
+  {
+    "codigo": "3104",
+    "etiqueta": "Autogestión de la enfermedad cardíaca",
+    "definicion": "Acciones personales para manejar los síntomas y riesgos asociados a patologías del corazón.",
+    "dominio": "Salud mediante el conocimiento y la conducta",
+    "clase": "Gestión de la salud",
+    "relacion_nanda": [
+      "00204",
+      "00240"
+    ],
+    "pagina_pdf": 153
+  },
+  {
+    "codigo": "3105",
+    "etiqueta": "Autogestión de la enfermedad renal",
+    "definicion": "Acciones personales para manejar los síntomas, el tratamiento y la prevención de la progresión de la insuficiencia renal.",
+    "dominio": "Salud mediante el conocimiento y la conducta",
+    "clase": "Gestión de la salud",
+    "relacion_nanda": [
+      "00161"
+    ],
+    "pagina_pdf": 153
+  },
+  {
+    "codigo": "3106",
+    "etiqueta": "Autogestión de la hipertensión",
+    "definicion": "Acciones personales para controlar la presión arterial mediante dieta, ejercicio y medicación.",
+    "dominio": "Salud mediante el conocimiento y la conducta",
+    "clase": "Gestión de la salud",
+    "relacion_nanda": [
+      "00204"
+    ],
+    "pagina_pdf": 153
+  },
+  {
+    "codigo": "3107",
+    "etiqueta": "Autogestión del trastorno por déficit de atención e hiperactividad (TDAH)",
+    "definicion": "Acciones personales o del cuidador para manejar los síntomas de inatención e impulsividad.",
+    "dominio": "Salud mediante el conocimiento y la conducta",
+    "clase": "Gestión de la salud",
+    "relacion_nanda": [
+      "00222"
+    ],
+    "pagina_pdf": 155
+  },
+  {
+    "codigo": "3108",
+    "etiqueta": "Autogestión del asma",
+    "definicion": "Acciones personales para evitar desencadenantes y manejar el flujo aéreo.",
+    "dominio": "Salud mediante el conocimiento y la conducta",
+    "clase": "Gestión de la salud",
+    "relacion_nanda": [
+      "00031"
+    ],
+    "pagina_pdf": 152
+  },
+  {
+    "codigo": "3109",
+    "etiqueta": "Autogestión de la artritis",
+    "definicion": "Acciones personales para manejar el dolor, la rigidez y la movilidad articular.",
+    "dominio": "Salud mediante el conocimiento y la conducta",
+    "clase": "Gestión de la salud",
+    "relacion_nanda": [
+      "00161"
+    ],
+    "pagina_pdf": 152
+  },
+  {
+    "codigo": "3110",
+    "etiqueta": "Autogestión del cáncer",
+    "definicion": "Acciones personales para manejar los efectos secundarios del tratamiento y el bienestar emocional.",
+    "dominio": "Salud mediante el conocimiento y la conducta",
+    "clase": "Gestión de la salud",
+    "relacion_nanda": [
+      "00161"
+    ],
+    "pagina_pdf": 152
+  },
+  {
+    "codigo": "3111",
+    "etiqueta": "Autogestión de la diabetes",
+    "definicion": "Acciones personales para equilibrar la ingesta de carbohidratos, el ejercicio y la insulina/medicación.",
+    "dominio": "Salud mediante el conocimiento y la conducta",
+    "clase": "Gestión de la salud",
+    "relacion_nanda": [
+      "00179"
+    ],
+    "pagina_pdf": 153
+  },
+  {
+    "codigo": "3112",
+    "etiqueta": "Autogestión del trastorno alimentario",
+    "definicion": "Acciones personales para restaurar patrones de alimentación saludables y percepción corporal.",
+    "dominio": "Salud mediante el conocimiento y la conducta",
+    "clase": "Gestión de la salud",
+    "relacion_nanda": [
+      "00002"
+    ],
+    "pagina_pdf": 155
+  },
+  {
+    "codigo": "3113",
+    "etiqueta": "Autogestión de la insuficiencia cardíaca",
+    "definicion": "Acciones personales para monitorizar el peso y los edemas, y restringir el sodio.",
+    "dominio": "Salud mediante el conocimiento y la conducta",
+    "clase": "Gestión de la salud",
+    "relacion_nanda": [
+      "00029"
+    ],
+    "pagina_pdf": 153
+  },
+  {
+    "codigo": "3114",
+    "etiqueta": "Autogestión de la infección por VIH",
+    "definicion": "Acciones personales para mantener el tratamiento antirretroviral y prevenir infecciones oportunistas.",
+    "dominio": "Salud mediante el conocimiento y la conducta",
+    "clase": "Gestión de la salud",
+    "relacion_nanda": [
+      "00161"
+    ],
+    "pagina_pdf": 154
+  },
+  {
+    "codigo": "3115",
+    "etiqueta": "Autogestión del dolor crónico",
+    "definicion": "Acciones personales para integrar estrategias paliativas en la vida diaria.",
+    "dominio": "Salud mediante el conocimiento y la conducta",
+    "clase": "Gestión de la salud",
+    "relacion_nanda": [
+      "00133"
+    ],
+    "pagina_pdf": 154
+  },
+  {
+    "codigo": "3116",
+    "etiqueta": "Autogestión de la esclerosis múltiple",
+    "definicion": "Acciones personales para gestionar la fatiga y los cambios neurológicos fluctuantes.",
+    "dominio": "Salud mediante el conocimiento y la conducta",
+    "clase": "Gestión de la salud",
+    "relacion_nanda": [
+      "00161"
+    ],
+    "pagina_pdf": 154
+  },
+  {
+    "codigo": "3117",
+    "etiqueta": "Autogestión de la enfermedad de Parkinson",
+    "definicion": "Acciones personales para manejar la movilidad y la seguridad ante el deterioro motor progresivo.",
+    "dominio": "Salud mediante el conocimiento y la conducta",
+    "clase": "Gestión de la salud",
+    "relacion_nanda": [
+      "00085"
+    ],
+    "pagina_pdf": 154
+  },
+  {
+    "codigo": "3118",
+    "etiqueta": "Autogestión de la anticoagulación",
+    "definicion": "Acciones personales para monitorizar signos de sangrado y cumplir con las pruebas de laboratorio.",
+    "dominio": "Salud mediante el conocimiento y la conducta",
+    "clase": "Gestión de la salud",
+    "relacion_nanda": [
+      "00206"
+    ],
+    "pagina_pdf": 152
+  },
+  {
+    "codigo": "3119",
+    "etiqueta": "Autogestión de la salud: asma infantil",
+    "definicion": "Acciones de los padres o cuidadores para controlar el entorno y el tratamiento respiratorio del niño.",
+    "dominio": "Salud mediante el conocimiento y la conducta",
+    "clase": "Gestión de la salud",
+    "relacion_nanda": [
+      "00031"
+    ],
+    "pagina_pdf": 152
+  },
+  {
+    "codigo": "3120",
+    "etiqueta": "Autogestión de la salud: diabetes infantil",
+    "definicion": "Acciones de la familia para gestionar los niveles de glucosa y la nutrición en el niño diabético.",
+    "dominio": "Salud mediante el conocimiento y la conducta",
+    "clase": "Gestión de la salud",
+    "relacion_nanda": [
+      "00179"
+    ],
+    "pagina_pdf": 153
+  },
+  {
+    "codigo": "3200",
+    "etiqueta": "Respuesta al destete de la ventilación mecánica: adulto",
+    "definicion": "Adaptación fisiológica y psicológica a la interrupción de la ventilación mecánica.",
+    "dominio": "Salud fisiológica",
+    "clase": "Cardiopulmonar",
+    "relacion_nanda": [
+      "00034"
+    ],
+    "pagina_pdf": 541
+  },
+  {
+    "codigo": "3201",
+    "etiqueta": "Respuesta al destete de la ventilación mecánica: niño",
+    "definicion": "Adaptación respiratoria del paciente pediátrico al retiro del soporte ventilatorio.",
+    "dominio": "Salud fisiológica",
+    "clase": "Cardiopulmonar",
+    "relacion_nanda": [
+      "00034"
+    ],
+    "pagina_pdf": 542
+  },
+  {
+    "codigo": "3300",
+    "etiqueta": "Respuesta a la ventilación mecánica: adulto",
+    "definicion": "Intercambio alveolar y perfusión tisular eficaces durante el soporte ventilatorio invasivo.",
+    "dominio": "Salud fisiológica",
+    "clase": "Cardiopulmonar",
+    "relacion_nanda": [
+      "00031",
+      "00033"
+    ],
+    "pagina_pdf": 540
+  },
+  {
+    "codigo": "3301",
+    "etiqueta": "Respuesta a la ventilación mecánica: niño",
+    "definicion": "Mantenimiento de la estabilidad respiratoria en el niño bajo ventilación mecánica.",
+    "dominio": "Salud fisiológica",
+    "clase": "Cardiopulmonar",
+    "relacion_nanda": [
+      "00031",
+      "00033"
+    ],
+    "pagina_pdf": 540
+  },
+  {
+    "codigo": "2702",
+    "etiqueta": "Salud de la comunidad: inmunidad",
+    "definicion": "Grado en que los miembros de la comunidad están protegidos contra enfermedades transmisibles mediante la inmunización.",
+    "dominio": "Salud comunitaria",
+    "clase": "Bienestar de la comunidad",
+    "relacion_nanda": [
+      "00004",
+      "00215"
+    ],
+    "pagina_pdf": 368
+  },
+  {
+    "codigo": "2703",
+    "etiqueta": "Respuesta comunitaria ante desastres",
+    "definicion": "Eficacia de las acciones colectivas para mitigar las consecuencias de una catástrofe.",
+    "dominio": "Salud comunitaria",
+    "clase": "Bienestar de la comunidad",
+    "relacion_nanda": [
+      "00215"
+    ],
+    "pagina_pdf": 540
+  },
+  {
+    "codigo": "2704",
+    "etiqueta": "Violencia en la comunidad",
+    "definicion": "Grado en que existe un ambiente seguro y libre de agresiones grupales o individuales en un área poblacional.",
+    "dominio": "Salud comunitaria",
+    "clase": "Bienestar de la comunidad",
+    "relacion_nanda": [
+      "00215"
+    ],
+    "pagina_pdf": 584
+  },
+  {
+    "codigo": "2803",
+    "etiqueta": "Control del riesgo social: contaminación del agua",
+    "definicion": "Acciones comunitarias para monitorizar y prevenir la presencia de patógenos o químicos en el suministro de agua.",
+    "dominio": "Salud comunitaria",
+    "clase": "Protección de la salud de la comunidad",
+    "relacion_nanda": [
+      "00035"
+    ],
+    "pagina_pdf": 240
+  },
+  {
+    "codigo": "2804",
+    "etiqueta": "Control del riesgo social: contaminación del aire",
+    "definicion": "Acciones comunitarias para reducir la presencia de alérgenos y toxinas en la atmósfera.",
+    "dominio": "Salud comunitaria",
+    "clase": "Protección de la salud de la comunidad",
+    "relacion_nanda": [
+      "00035"
+    ],
+    "pagina_pdf": 240
+  },
+  {
+    "codigo": "2805",
+    "etiqueta": "Control del riesgo social: seguridad alimentaria",
+    "definicion": "Acciones comunitarias para garantizar el acceso a alimentos seguros, nutritivos y suficientes.",
+    "dominio": "Salud comunitaria",
+    "clase": "Protección de la salud de la comunidad",
+    "relacion_nanda": [
+      "00163"
+    ],
+    "pagina_pdf": 241
+  },
+  {
+    "codigo": "2806",
+    "etiqueta": "Control del riesgo social: enfermedades crónicas",
+    "definicion": "Eficacia de las políticas comunitarias para reducir la incidencia de enfermedades no transmisibles.",
+    "dominio": "Salud comunitaria",
+    "clase": "Protección de la salud de la comunidad",
+    "relacion_nanda": [
+      "00215"
+    ],
+    "pagina_pdf": 240
+  },
+  {
+    "codigo": "1623",
+    "etiqueta": "Conducta de salud: salud cardiovascular",
+    "definicion": "Acciones personales para mantener el funcionamiento óptimo del sistema circulatorio.",
+    "dominio": "Salud mediante el conocimiento y la conducta",
+    "clase": "Gestión de la salud",
+    "relacion_nanda": [
+      "00240"
+    ],
+    "pagina_pdf": 208
+  },
+  {
+    "codigo": "1624",
+    "etiqueta": "Conducta de salud: salud respiratoria",
+    "definicion": "Acciones personales para mantener la función pulmonar y prevenir enfermedades respiratorias.",
+    "dominio": "Salud mediante el conocimiento y la conducta",
+    "clase": "Gestión de la salud",
+    "relacion_nanda": [
+      "00031"
+    ],
+    "pagina_pdf": 210
+  },
+  {
+    "codigo": "1625",
+    "etiqueta": "Conducta de salud: salud ósea",
+    "definicion": "Acciones personales para mantener la densidad mineral ósea y la salud del esqueleto.",
+    "dominio": "Salud mediante el conocimiento y la conducta",
+    "clase": "Gestión de la salud",
+    "relacion_nanda": [
+      "00155"
+    ],
+    "pagina_pdf": 210
+  },
+  {
+    "codigo": "1626",
+    "etiqueta": "Conducta de salud: salud metabólica",
+    "definicion": "Acciones personales para regular los niveles de glucosa, lípidos y peso.",
+    "dominio": "Salud mediante el conocimiento y la conducta",
+    "clase": "Gestión de la salud",
+    "relacion_nanda": [
+      "00179"
+    ],
+    "pagina_pdf": 210
+  },
+  {
+    "codigo": "1627",
+    "etiqueta": "Conducta de salud: salud inmunológica",
+    "definicion": "Acciones personales para fortalecer el sistema inmune y prevenir infecciones.",
+    "dominio": "Salud mediante el conocimiento y la conducta",
+    "clase": "Gestión de la salud",
+    "relacion_nanda": [
+      "00004"
+    ],
+    "pagina_pdf": 210
+  },
+  {
+    "codigo": "1628",
+    "etiqueta": "Conducta de salud: salud reproductiva",
+    "definicion": "Acciones personales para mantener el bienestar físico y emocional del sistema reproductivo.",
+    "dominio": "Salud mediante el conocimiento y la conducta",
+    "clase": "Gestión de la salud",
+    "relacion_nanda": [
+      "00209"
+    ],
+    "pagina_pdf": 210
+  },
+  {
+    "codigo": "1629",
+    "etiqueta": "Conducta de salud: salud mental",
+    "definicion": "Acciones personales para mantener el equilibrio emocional y la adaptación social.",
+    "dominio": "Salud mediante el conocimiento y la conducta",
+    "clase": "Gestión de la salud",
+    "relacion_nanda": [
+      "00124"
+    ],
+    "pagina_pdf": 210
+  },
+  {
+    "codigo": "1630",
+    "etiqueta": "Conducta de salud: autocuidado en el hogar",
+    "definicion": "Acciones personales para realizar las actividades de la vida diaria en el entorno doméstico.",
+    "dominio": "Salud mediante el conocimiento y la conducta",
+    "clase": "Gestión de la salud",
+    "relacion_nanda": [
+      "00108"
+    ],
+    "pagina_pdf": 204
+  },
+  {
+    "codigo": "1631",
+    "etiqueta": "Conducta de salud: salud cognitiva",
+    "definicion": "Acciones personales para mantener la función cerebral y prevenir el deterioro cognitivo.",
+    "dominio": "Salud mediante el conocimiento y la conducta",
+    "clase": "Gestión de la salud",
+    "relacion_nanda": [
+      "00128"
+    ],
+    "pagina_pdf": 208
+  },
+  {
+    "codigo": "1632",
+    "etiqueta": "Conducta de salud: salud dermatológica",
+    "definicion": "Acciones personales para proteger la piel y prevenir lesiones cutáneas.",
+    "dominio": "Salud mediante el conocimiento y la conducta",
+    "clase": "Gestión de la salud",
+    "relacion_nanda": [
+      "00047"
+    ],
+    "pagina_pdf": 208
+  },
+  {
+    "codigo": "1633",
+    "etiqueta": "Conducta de salud: salud nutricional",
+    "definicion": "Acciones personales para consumir una dieta equilibrada que satisfaga las necesidades corporales.",
+    "dominio": "Salud mediante el conocimiento y la conducta",
+    "clase": "Gestión de la salud",
+    "relacion_nanda": [
+      "00002"
+    ],
+    "pagina_pdf": 210
+  },
+  {
+    "codigo": "1634",
+    "etiqueta": "Conducta de salud: salud de los pies",
+    "definicion": "Acciones personales para el mantenimiento de la integridad y función de los pies.",
+    "dominio": "Salud mediante el conocimiento y la conducta",
+    "clase": "Gestión de la salud",
+    "relacion_nanda": [
+      "00047"
+    ],
+    "pagina_pdf": 210
+  },
+  {
+    "codigo": "1846",
+    "etiqueta": "Conocimiento: manejo de la enfermedad de Parkinson",
+    "definicion": "Grado de comprensión transmitido sobre el Parkinson y las estrategias de adaptación.",
+    "dominio": "Salud mediante el conocimiento y la conducta",
+    "clase": "Conocimientos",
+    "relacion_nanda": [
+      "00161"
+    ],
+    "pagina_pdf": 267
+  },
+  {
+    "codigo": "1856",
+    "etiqueta": "Conocimiento: control de las convulsiones",
+    "definicion": "Grado de comprensión sobre el manejo de la epilepsia y la seguridad durante una crisis.",
+    "dominio": "Salud mediante el conocimiento y la conducta",
+    "clase": "Conocimientos",
+    "relacion_nanda": [
+      "00161"
+    ],
+    "pagina_pdf": 262
+  },
+  {
+    "codigo": "1857",
+    "etiqueta": "Conocimiento: manejo de la ostomía",
+    "definicion": "Grado de comprensión transmitido sobre el cuidado del estoma y la bolsa de recolección.",
+    "dominio": "Salud mediante el conocimiento y la conducta",
+    "clase": "Conocimientos",
+    "relacion_nanda": [
+      "00161"
+    ],
+    "pagina_pdf": 270
+  },
+  {
+    "codigo": "1858",
+    "etiqueta": "Conocimiento: procedimiento terapéutico",
+    "definicion": "Grado de comprensión transmitido sobre un procedimiento médico o quirúrgico específico.",
+    "dominio": "Salud mediante el conocimiento y la conducta",
+    "clase": "Conocimientos",
+    "relacion_nanda": [
+      "00126"
+    ],
+    "pagina_pdf": 271
+  },
+  {
+    "codigo": "1859",
+    "etiqueta": "Conocimiento: manejo de la enfermedad coronaria",
+    "definicion": "Grado de comprensión sobre la patología de las arterias coronarias y su control.",
+    "dominio": "Salud mediante el conocimiento y la conducta",
+    "clase": "Conocimientos",
+    "relacion_nanda": [
+      "00240"
+    ],
+    "pagina_pdf": 267
+  },
+  {
+    "codigo": "1860",
+    "etiqueta": "Conocimiento: manejo de la insuficiencia venosa",
+    "definicion": "Grado de comprensión sobre el retorno venoso y el uso de medidas de compresión.",
+    "dominio": "Salud mediante el conocimiento y la conducta",
+    "clase": "Conocimientos",
+    "relacion_nanda": [
+      "00204"
+    ],
+    "pagina_pdf": 269
+  },
+  {
+    "codigo": "1861",
+    "etiqueta": "Conocimiento: manejo de la enfermedad vascular periférica",
+    "definicion": "Grado de comprensión sobre la circulación en extremidades y la prevención de lesiones.",
+    "dominio": "Salud mediante el conocimiento y la conducta",
+    "clase": "Conocimientos",
+    "relacion_nanda": [
+      "00204"
+    ],
+    "pagina_pdf": 268
+  },
+  {
+    "codigo": "1862",
+    "etiqueta": "Conocimiento: manejo de la osteoporosis",
+    "definicion": "Grado de comprensión sobre la salud ósea y la prevención de fracturas.",
+    "dominio": "Salud mediante el conocimiento y la conducta",
+    "clase": "Conocimientos",
+    "relacion_nanda": [
+      "00155"
+    ],
+    "pagina_pdf": 270
+  },
+  {
+    "codigo": "1863",
+    "etiqueta": "Conocimiento: manejo del accidente cerebrovascular",
+    "definicion": "Grado de comprensión sobre el ACV, signos de alerta y rehabilitación.",
+    "dominio": "Salud mediante el conocimiento y la conducta",
+    "clase": "Conocimientos",
+    "relacion_nanda": [
+      "00201"
+    ],
+    "pagina_pdf": 266
+  },
+  {
+    "codigo": "2206",
+    "etiqueta": "Salud emocional del cuidador familiar",
+    "definicion": "Estado de bienestar psicológico y adaptación afectiva de la persona que cuida.",
+    "dominio": "Salud familiar",
+    "clase": "Ser cuidador familiar",
+    "relacion_nanda": [
+      "00061"
+    ],
+    "pagina_pdf": 371
+  },
+  {
+    "codigo": "2503",
+    "etiqueta": "Relación entre el progenitor y el hijo",
+    "definicion": "Grado de conexión positiva y comunicación entre el padre/madre y su descendiente.",
+    "dominio": "Salud familiar",
+    "clase": "Ser padre",
+    "relacion_nanda": [
+      "00058"
+    ],
+    "pagina_pdf": 535
+  },
+  {
+    "codigo": "2504",
+    "etiqueta": "Función sexual",
+    "definicion": "Integración de los aspectos biológicos, emocionales e intelectuales del ser sexual.",
+    "dominio": "Salud psicosocial",
+    "clase": "Interacción social",
+    "relacion_nanda": [
+      "00059",
+      "00065"
+    ],
+    "pagina_pdf": 407
+  }
+]

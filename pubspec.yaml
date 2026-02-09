@@ -1,0 +1,96 @@
+  #══════════════════════════════════════════════ Un código de: Joseph Ubaldo Trejo Hernandez ══════════════════════════════════════════════
+
+name: polisafe
+description: "Sistema Profesional de Enfermería"
+publish_to: 'none'
+
+version: 1.0.0+1
+
+environment:
+  sdk: ">=3.10.7 <4.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  # UI
+  cupertino_icons: ^1.0.8
+
+  # PDF
+  flutter_pdfview: ^1.4.0
+  syncfusion_flutter_pdfviewer: ^32.1.25
+  syncfusion_flutter_pdf: ^32.1.25
+  syncfusion_flutter_core: ^32.1.25
+  syncfusion_flutter_signaturepad: ^32.1.25
+  archive: ^3.3.8
+
+  open_filex: ^4.5.0
+  pdf: ^3.11.3
+  printing: ^5.13.4
+  pdfx: ^2.0.0
+
+  # Storage
+  shared_preferences: ^2.3.2
+  path_provider: ^2.1.4
+  provider: ^6.1.2
+
+
+  # Share
+  share_plus: ^10.0.2
+
+  # Notifications
+  flutter_local_notifications: ^17.2.3
+  timezone: ^0.9.2
+
+  # Security
+  crypto: ^3.0.3
+
+  # Firebase (compatibles entre sí)
+  firebase_core: ^3.4.0
+  firebase_auth: ^5.2.0
+  cloud_firestore: ^5.4.0
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+  flutter_lints: ^6.0.0
+  url_launcher: ^6.2.6
+  flutter_launcher_icons: ^0.13.1
+
+flutter_launcher_icons:
+  android: true
+  ios: true
+  image_path: "assets/images/logo.jpg"
+  min_sdk_android: 21
+
+flutter:
+  uses-material-design: true
+
+  assets:
+    - assets/images/ipn_logo.png
+    - assets/images/cecyt16_logo.png
+    - assets/images/logo.jpg
+    - assets/images/paes.jpeg
+    - assets/images/medicamentos.jpeg
+    - assets/images/calculadora.jpeg
+    - assets/images/quirurgico.jpeg
+    - assets/images/estudio.jpeg
+    - assets/images/ajustes.jpeg
+
+    - assets/images/medicamentos/
+    - assets/images/quirurgico/
+
+    - assets/estudio/tablas/
+    - assets/estudio/normas/
+
+    - assets/data/nanda.pdf
+    - assets/data/nic.pdf
+    - assets/data/noc.pdf
+    - assets/data/nanda_2026.json
+    - assets/data/noc_2024.json
+    - assets/data/nic_2024.json
+    - assets/data/medicamentos.json
+
+    - assets/fonts/
+  #══════════════════════════════════════════════ Un código de: Joseph Ubaldo Trejo Hernandez ══════════════════════════════════════════════

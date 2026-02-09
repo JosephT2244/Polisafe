@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "972527111477",
+    "project_id": "polisafe-2",
+    "storage_bucket": "polisafe-2.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:972527111477:android:45d0d39d8d1942e2e4507c",
+        "android_client_info": {
+          "package_name": "com.example.polisafe"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyALR08OjbdPSHIpzCD4bii5Gz29Ytuj7Ac"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

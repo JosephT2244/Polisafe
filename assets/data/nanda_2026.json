@@ -1,0 +1,2215 @@
+[
+  {
+    "codigo": "00097",
+    "etiqueta": "Disminución de la participación en actividades de distracción",
+    "definicion": "Estimulación, interés o participación reducida en actividades recreativas o de ocio.",
+    "dominio": "1. Promoción de la salud.",
+    "clase": "Clase 1. Conciencia de la salud",
+    "pagina_pdf": 240
+  },
+  {
+    "codigo": "00448",
+    "etiqueta": "Riesgo de disminución de la participación en actividades recreativas",
+    "definicion": "Susceptible a una reducción de la estimulación, el interés o la participación en actividades recreativas o de ocio.",
+    "dominio": "1. Promoción de la salud.",
+    "clase": "Clase 1. Conciencia de la salud",
+    "pagina_pdf": 241
+  },
+  {
+    "codigo": "00355",
+    "etiqueta": "Conductas sedentarias excesivas",
+    "definicion": "Patrón de actividad insatisfactorio durante las horas de vigilia que tiene un bajo gasto de energía.",
+    "dominio": "1. Promoción de la salud.",
+    "clase": "Clase 1. Conciencia de la salud",
+    "pagina_pdf": 242
+  },
+  {
+    "codigo": "00394",
+    "etiqueta": "Riesgo de conductas sedentarias excesivas",
+    "definicion": "Susceptible a un patrón de actividad insatisfactorio durante las horas de vigilia que tiene un bajo gasto de energía.",
+    "dominio": "1. Promoción de la salud.",
+    "clase": "Clase 1. Conciencia de la salud",
+    "pagina_pdf": 244
+  },
+  {
+    "codigo": "00273",
+    "etiqueta": "Campo energético desequilibrado",
+    "definicion": "Disrupción en el campo electromagnético humano que normalmente es un todo continuo y único, dinámico y no lineal.",
+    "dominio": "1. Promoción de la salud.",
+    "clase": "Clase 1. Conciencia de la salud",
+    "pagina_pdf": 246
+  },
+  {
+    "codigo": "00276",
+    "etiqueta": "Autogestión ineficaz de la salud",
+    "definicion": "Manejo insatisfactorio de los síntomas, el régimen de tratamiento y los cambios en el estilo de vida asociados con vivir con una enfermedad crónica.",
+    "dominio": "1. Promoción de la salud.",
+    "clase": "Clase 2. Gestión de la salud",
+    "pagina_pdf": 248
+  },
+  {
+    "codigo": "00369",
+    "etiqueta": "Riesgo de una autogestión ineficaz de la salud",
+    "definicion": "Susceptible a un manejo insatisfactorio de los síntomas, el régimen de tratamiento y los cambios en el estilo de vida asociados con vivir con una condición crónica.",
+    "dominio": "1. Promoción de la salud.",
+    "clase": "Clase 2. Gestión de la salud",
+    "pagina_pdf": 251
+  },
+  {
+    "codigo": "00293",
+    "etiqueta": "Preparación para una mejor autogestión de la salud",
+    "definicion": "Patrón de manejo de síntomas, régimen de tratamiento, consecuencias y cambios en el estilo de vida asociados con la vida con una condición crónica que puede fortalecerse.",
+    "dominio": "1. Promoción de la salud.",
+    "clase": "Clase 2. Gestión de la salud",
+    "pagina_pdf": 253
+  },
+  {
+    "codigo": "00080",
+    "etiqueta": "Gestión ineficaz de la salud familiar",
+    "definicion": "Manejo insatisfactorio de los síntomas, del régimen de tratamiento y de los cambios en el estilo de vida que no son satisfactorios para alcanzar los objetivos de salud específicos de la unidad familiar.",
+    "dominio": "1. Promoción de la salud.",
+    "clase": "Clase 2. Gestión de la salud",
+    "pagina_pdf": 254
+  },
+  {
+    "codigo": "00410",
+    "etiqueta": "Riesgo de una gestión ineficaz de la salud familiar",
+    "definicion": "Susceptible a un manejo insatisfactorio de los síntomas, del régimen de tratamiento y de los cambios en el estilo de vida que no son satisfactorios para cumplir los objetivos de salud de la unidad familiar.",
+    "dominio": "1. Promoción de la salud.",
+    "clase": "Clase 2. Gestión de la salud",
+    "pagina_pdf": 257
+  },
+  {
+    "codigo": "00356",
+    "etiqueta": "Gestión ineficaz de la salud comunitaria",
+    "definicion": "Manejo insatisfactorio de los problemas de salud o de factores que impiden el bienestar o aumentan el riesgo de problemas de salud que experimenta una población.",
+    "dominio": "1. Promoción de la salud.",
+    "clase": "Clase 2. Gestión de la salud",
+    "pagina_pdf": 259
+  },
+  {
+    "codigo": "00413",
+    "etiqueta": "Riesgo de una gestión ineficaz de la salud comunitaria",
+    "definicion": "Susceptible a un manejo insatisfactorio de los problemas de salud o de factores que impiden el bienestar o aumentan el riesgo de problemas de salud que experimenta una población.",
+    "dominio": "1. Promoción de la salud.",
+    "clase": "Clase 2. Gestión de la salud",
+    "pagina_pdf": 260
+  },
+  {
+    "codigo": "00489",
+    "etiqueta": "Riesgo de autogestión ineficaz del patrón de glucemia",
+    "definicion": "Susceptible a un manejo insatisfactorio de los síntomas, del régimen de tratamiento y de los cambios en el estilo de vida asociados con fluctuaciones recurrentes en el nivel de glucosa en sangre fuera del rango deseable.",
+    "dominio": "1. Promoción de la salud.",
+    "clase": "Clase 2. Gestión de la salud",
+    "pagina_pdf": 262
+  },
+  {
+    "codigo": "00277",
+    "etiqueta": "Autogestión ineficaz del ojo seco",
+    "definicion": "Manejo insatisfactorio del régimen de tratamiento, consecuencias y cambios en el estilo de vida asociados con una película lagrimal inadecuada.",
+    "dominio": "1. Promoción de la salud.",
+    "clase": "Clase 2. Gestión de la salud",
+    "pagina_pdf": 264
+  },
+  {
+    "codigo": "00352",
+    "etiqueta": "Autogestión ineficaz de la boca seca",
+    "definicion": "Manejo insatisfactorio del régimen de tratamiento, consecuencias y cambios en el estilo de vida asociados con la reducción de la secreción salival.",
+    "dominio": "1. Promoción de la salud.",
+    "clase": "Clase 2. Gestión de la salud",
+    "pagina_pdf": 268
+  },
+  {
+    "codigo": "00412",
+    "etiqueta": "Riesgo de autogestión ineficaz de la sequedad bucal",
+    "definicion": "Susceptible a un manejo insatisfactorio del régimen de tratamiento, consecuencias y cambios en el estilo de vida asociados con una secreción salival reducida.",
+    "dominio": "1. Promoción de la salud.",
+    "clase": "Clase 2. Gestión de la salud",
+    "pagina_pdf": 272
+  },
+  {
+    "codigo": "00397",
+    "etiqueta": "Autogestión ineficaz de la fatiga",
+    "definicion": "Manejo insatisfactorio del régimen de tratamiento, las consecuencias y los cambios en el estilo de vida asociados con una sensación de agotamiento y bajos niveles de energía para las actividades diarias.",
+    "dominio": "1. Promoción de la salud.",
+    "clase": "Clase 2. Gestión de la salud",
+    "pagina_pdf": 274
+  },
+  {
+    "codigo": "00278",
+    "etiqueta": "Autogestión ineficaz del linfedema",
+    "definicion": "Manejo insatisfactorio del régimen de tratamiento, consecuencias y cambios en el estilo de vida asociados con el edema relacionado con la obstrucción o trastornos de los vasos o ganglios linfáticos.",
+    "dominio": "1. Promoción de la salud.",
+    "clase": "Clase 2. Gestión de la salud",
+    "pagina_pdf": 277
+  },
+  {
+    "codigo": "00281",
+    "etiqueta": "Riesgo de autogestión ineficaz del linfedema",
+    "definicion": "Susceptible a un manejo insatisfactorio del régimen de tratamiento, las consecuencias y los cambios en el estilo de vida asociados con el edema relacionado con la obstrucción o trastornos de los vasos o ganglios linfáticos.",
+    "dominio": "1. Promoción de la salud.",
+    "clase": "Clase 2. Gestión de la salud",
+    "pagina_pdf": 280
+  },
+  {
+    "codigo": "00384",
+    "etiqueta": "Autogestión ineficaz de las náuseas",
+    "definicion": "Manejo insatisfactorio del régimen de tratamiento, consecuencias y cambios en el estilo de vida asociados con una sensación desagradable en el estómago, que puede o no resultar en vómitos.",
+    "dominio": "1. Promoción de la salud.",
+    "clase": "Clase 2. Gestión de la salud",
+    "pagina_pdf": 282
+  },
+  {
+    "codigo": "00418",
+    "etiqueta": "Autogestión ineficaz del dolor",
+    "definicion": "Manejo insatisfactorio del régimen de tratamiento, las consecuencias y los cambios en el estilo de vida relacionados con una experiencia sensorial y emocional desagradable similar a la asociada con daño tisular real o potencial.",
+    "dominio": "1. Promoción de la salud.",
+    "clase": "Clase 2. Gestión de la salud",
+    "pagina_pdf": 286
+  },
+  {
+    "codigo": "00447",
+    "etiqueta": "Preparación para una mejor autogestión del peso",
+    "definicion": "Patrón de manejo del peso planificado, estructurado y repetitivo, susceptible de ser potenciado para mejorar el control del peso y la salud.",
+    "dominio": "1. Promoción de la salud.",
+    "clase": "Clase 2. Gestión de la salud",
+    "pagina_pdf": 289
+  },
+  {
+    "codigo": "00398",
+    "etiqueta": "Autogestión ineficaz del sobrepeso",
+    "definicion": "Manejo insatisfactorio del régimen de tratamiento, las consecuencias y los cambios en el estilo de vida asociados con la acumulación de grasa excesiva para la edad y el género.",
+    "dominio": "1. Promoción de la salud.",
+    "clase": "Clase 2. Gestión de la salud",
+    "pagina_pdf": 291
+  },
+  {
+    "codigo": "00487",
+    "etiqueta": "Riesgo de una gestión personal ineficaz del sobrepeso",
+    "definicion": "Susceptible a un manejo insatisfactorio del régimen de tratamiento, las consecuencias y los cambios en el estilo de vida asociados con la acumulación de grasa excesiva para la edad y el género.",
+    "dominio": "1. Promoción de la salud.",
+    "clase": "Clase 2. Gestión de la salud",
+    "pagina_pdf": 294
+  },
+  {
+    "codigo": "00485",
+    "etiqueta": "Autogestión ineficaz del bajo peso",
+    "definicion": "Manejo insatisfactorio del régimen de tratamiento, las consecuencias y los cambios en el estilo de vida asociados con tener un peso corporal inferior a las normas estandarizadas para la edad y el género.",
+    "dominio": "1. Promoción de la salud.",
+    "clase": "Clase 2. Gestión de la salud",
+    "pagina_pdf": 297
+  },
+  {
+    "codigo": "00486",
+    "etiqueta": "Riesgo de una autogestión ineficaz del bajo peso",
+    "definicion": "Susceptible a un manejo insatisfactorio del régimen de tratamiento, las consecuencias y los cambios en el estilo de vida asociados con tener un peso corporal inferior a las normas estandarizadas para la edad y el género.",
+    "dominio": "1. Promoción de la salud.",
+    "clase": "Clase 2. Gestión de la salud",
+    "pagina_pdf": 301
+  },
+  {
+    "codigo": "00292",
+    "etiqueta": "Conductas ineficaces para el mantenimiento de la salud",
+    "definicion": "Gestión del conocimiento, las actitudes y las prácticas de salud que subyacen a las acciones de salud que no son satisfactorias para mantener o mejorar el bienestar o prevenir enfermedades y lesiones.",
+    "dominio": "1. Promoción de la salud.",
+    "clase": "Clase 2. Gestión de la salud",
+    "pagina_pdf": 303
+  },
+  {
+    "codigo": "00395",
+    "etiqueta": "Riesgo de mantenimiento ineficaz de los comportamientos de salud",
+    "definicion": "Susceptible de una gestión de los conocimientos, actitudes y prácticas de salud subyacentes a las acciones de salud que no son satisfactorias para mantener o mejorar el bienestar o prevenir enfermedades y lesiones.",
+    "dominio": "1. Promoción de la salud.",
+    "clase": "Clase 2. Gestión de la salud",
+    "pagina_pdf": 306
+  },
+  {
+    "codigo": "00300",
+    "etiqueta": "Conductas ineficaces de mantenimiento del hogar.",
+    "definicion": "Susceptible a un patrón insatisfactorio de conocimientos y actividades para el mantenimiento seguro de la propia residencia.",
+    "dominio": "1. Promoción de la salud.",
+    "clase": "Clase 2. Gestión de la salud",
+    "pagina_pdf": 209
+  },
+  {
+    "codigo": "00308",
+    "etiqueta": "Riesgo de conductas ineficaces de mantenimiento del hogar.",
+    "definicion": "Susceptible a un patrón insatisfactorio de conocimientos y actividades para el mantenimiento seguro de su residencia.",
+    "dominio": "1. Promoción de la salud.",
+    "clase": "Clase 2. Gestión de la salud",
+    "pagina_pdf": 311
+  },
+  {
+    "codigo": "00309",
+    "etiqueta": "Preparación para mejorar los hábitos de mantenimiento del hogar.",
+    "definicion": "Patrón de conocimientos y actividades para el mantenimiento seguro de la propia vivienda, que puede ser fortalecido.",
+    "dominio": "1. Promoción de la salud.",
+    "clase": "Clase 2. Gestión de la salud",
+    "pagina_pdf": 312
+  },
+  {
+    "codigo": "00307",
+    "etiqueta": "Preparación para una mayor participación en el ejercicio",
+    "definicion": "Patrón de atención a la actividad física caracterizado por movimientos corporales planificados, estructurados y repetitivos, susceptibles de ser potenciados",
+    "dominio": "1. Promoción de la salud.",
+    "clase": "Clase 2. Gestión de la salud",
+    "pagina_pdf": 313
+  },
+  {
+    "codigo": "00339",
+    "etiqueta": "Alfabetización sanitaria inadecuada",
+    "definicion": "Patrón insatisfactorio de obtención, evaluación y aplicación de la información y servicios de salud necesarios para tomar decisiones de salud.",
+    "dominio": "1. Promoción de la salud.",
+    "clase": "Clase 2. Gestión de la salud",
+    "pagina_pdf": 315
+  },
+  {
+    "codigo": "00411",
+    "etiqueta": "Riesgo de alfabetización sanitaria inadecuada",
+    "definicion": "Susceptible a patrones insatisfactorios de obtención, evaluación y aplicación de información y servicios de salud necesarios para tomar decisiones de salud.",
+    "dominio": "1. Promoción de la salud.",
+    "clase": "Clase 2. Gestión de la salud",
+    "pagina_pdf": 317
+  },
+  {
+    "codigo": "00262",
+    "etiqueta": "Preparación para una mayor alfabetización en salud",
+    "definicion": "Patrón de obtención, valoración y aplicación de la información y servicios básicos de salud que puede ser fortalecido.",
+    "dominio": "1. Promoción de la salud.",
+    "clase": "Clase 2. Gestión de la salud",
+    "pagina_pdf": 319
+  },
+  {
+    "codigo": "00340",
+    "etiqueta": "Preparación para un envejecimiento saludable mejorado",
+    "definicion": "Patrón de desarrollo o mantenimiento del bienestar y funcionamiento físico, mental, social y espiritual a medida que avanza la edad, que puede fortalecerse.",
+    "dominio": "1. Promoción de la salud.",
+    "clase": "Clase 2. Gestión de la salud",
+    "pagina_pdf": 320
+  },
+  {
+    "codigo": "00353",
+    "etiqueta": "Síndrome de fragilidad del anciano",
+    "definicion": "Estado dinámico de desequilibrio que incluye el deterioro de las funciones y reservas en todos los sistemas fisiológicos.",
+    "dominio": "1. Promoción de la salud.",
+    "clase": "Clase 2. Gestión de la salud",
+    "pagina_pdf": 321
+  },
+  {
+    "codigo": "00357",
+    "etiqueta": "Riesgo de síndrome de fragilidad en el anciano",
+    "definicion": "SSusceptible a un estado dinámico de desequilibrio que incluye deterioro de las funciones y reservas en todo el sistema fisiológico.",
+    "dominio": "1. Promoción de la salud.",
+    "clase": "Clase 2. Gestión de la salud",
+    "pagina_pdf": 324
+  },
+  {
+    "codigo": "00343",
+    "etiqueta": "Ingesta nutricional inadecuada",
+    "definicion": "Consumo insuficiente de nutrientes para satisfacer las necesidades metabólicas.",
+    "dominio": "2. Nutrición",
+    "clase": "Clase 1. Ingestión",
+    "pagina_pdf": 329
+  },
+  {
+    "codigo": "00409",
+    "etiqueta": "Riesgo de ingesta nutricional inadecuada",
+    "definicion": "Susceptible al consumo insuficiente de nutrientes para satisfacer las necesidades metabólicas.",
+    "dominio": "2. Nutrición",
+    "clase": "Clase 1. Ingestión",
+    "pagina_pdf": 333
+  },
+  {
+    "codigo": "00419",
+    "etiqueta": "Disposición para una mayor ingesta nutricional",
+    "definicion": "Patrón de consumo de nutrientes para cubrir las necesidades metabólicas, que puede ser fortalecido.",
+    "dominio": "2. Nutrición",
+    "clase": "Clase 1. Ingestión",
+    "pagina_pdf": 335
+  },
+  {
+    "codigo": "00359",
+    "etiqueta": "Ingesta nutricional de energía proteica inadecuada",
+    "definicion": "Consumo insuficiente de proteínas y calorías en la dieta para satisfacer las necesidades metabólicas.",
+    "dominio": "2. Nutrición",
+    "clase": "Clase 1. Ingestión",
+    "pagina_pdf": 336
+  },
+  {
+    "codigo": "00360",
+    "etiqueta": "Riesgo de ingesta nutricional proteico-energética inadecuada",
+    "definicion": "Susceptible a un consumo insuficiente de proteínas y calorías en la dieta para satisfacer las necesidades metabólicas.",
+    "dominio": "2. Nutrición",
+    "clase": "Clase 1. Ingestión",
+    "pagina_pdf": 339
+  },
+  {
+    "codigo": "00371",
+    "etiqueta": "Lactancia materna ineficaz",
+    "definicion": "Dificultad para proporcionar o recibir leche humana del pecho que puede comprometer el estado nutricional de un bebé o un niño.",
+    "dominio": "2. Nutrición",
+    "clase": "Clase 1. Ingestión",
+    "pagina_pdf": 341
+  },
+  {
+    "codigo": "00406",
+    "etiqueta": "Riesgo de lactancia materna ineficaz",
+    "definicion": "Susceptible a tener dificultades para proporcionar o recibir leche humana del pecho, lo que puede comprometer el estado nutricional de un bebé o un niño.",
+    "dominio": "2. Nutrición",
+    "clase": "Clase 1. Ingestión",
+    "pagina_pdf": 344
+  },
+  {
+    "codigo": "00347",
+    "etiqueta": "Lactancia materna exclusiva interrumpida",
+    "definicion": "Interferencia en el proceso de proporcionar únicamente leche humana a un lactante de hasta seis meses de edad, en aquellos para quienes la producción de leche humana es adecuada.",
+    "dominio": "2. Nutrición",
+    "clase": "Clase 1. Ingestión",
+    "pagina_pdf": 347
+  },
+  {
+    "codigo": "00382",
+    "etiqueta": "Riesgo de interrupción de la lactancia materna exclusiva",
+    "definicion": "Susceptible de interferencia en el proceso de proporcionar únicamente leche humana a un lactante de hasta seis meses de edad, en aquellos para quienes la producción de leche humana es adecuada.",
+    "dominio": "2. Nutrición",
+    "clase": "Clase 1. Ingestión",
+    "pagina_pdf": 349
+  },
+  {
+    "codigo": "00479",
+    "etiqueta": "Disposición para una mejor lactancia materna",
+    "definicion": "Patrón de suministro de leche humana a un lactante o niño, que puede ser reforzado.",
+    "dominio": "2. Nutrición",
+    "clase": "Clase 1. Ingestión",
+    "pagina_pdf": 351
+  },
+  {
+    "codigo": "00333",
+    "etiqueta": "Producción inadecuada de leche humana",
+    "definicion": "Lactancia insuficiente para satisfacer exclusivamente las necesidades nutricionales de un lactante durante los primeros seis meses de vida.",
+    "dominio": "2. Nutrición",
+    "clase": "Clase 1. Ingestión",
+    "pagina_pdf": 352
+  },
+  {
+    "codigo": "00334",
+    "etiqueta": "Riesgo de producción inadecuada de leche materna",
+    "definicion": "Susceptible a una lactancia insuficiente para satisfacer exclusivamente las necesidades nutricionales de un lactante durante los primeros seis meses de vida.",
+    "dominio": "2. Nutrición",
+    "clase": "Clase 1. Ingestión",
+    "pagina_pdf": 356
+  },
+  {
+    "codigo": "00271",
+    "etiqueta": "Dinámica ineficaz de alimentación infantil",
+    "definicion": "Conductas alimentarias alteradas de los padres que resultan en patrones de alimentación excesiva o insuficiente en niños menores de un año de edad.",
+    "dominio": "2. Nutrición",
+    "clase": "Clase 1. Ingestión",
+    "pagina_pdf": 358
+  },
+  {
+    "codigo": "00270",
+    "etiqueta": "Dinámicas alimentarias infantiles ineficaces",
+    "definicion": "Actitudes, comportamientos e influencias alteradas en los patrones de alimentación que resultan en una salud nutricional comprometida, en individuos de 1 a 10 años de edad.",
+    "dominio": "2. Nutrición",
+    "clase": "Clase 1. Ingestión",
+    "pagina_pdf": 361
+  },
+  {
+    "codigo": "00269",
+    "etiqueta": "Dinámicas alimentarias ineficaces en adolescentes",
+    "definicion": "Actitudes y comportamientos alterados que resultan en patrones de alimentación excesiva o insuficiente que comprometen la salud nutricional en individuos de 11 a 19 años de edad.",
+    "dominio": "2. Nutrición",
+    "clase": "Clase 1. Ingestión",
+    "pagina_pdf": 363
+  },
+  {
+    "codigo": "00103",
+    "etiqueta": "Dificultad para tragar",
+    "definicion": "Proceso debilitado o dañado de traslado de sustancias desde la boca hasta el estómago.",
+    "dominio": "2. Nutrición",
+    "clase": "Clase 1. Ingestión",
+    "pagina_pdf": 366
+  },
+  {
+    "codigo": "00194",
+    "etiqueta": "Hiperbilirrubinemia neonatal",
+    "definicion": "Acumulación de bilirrubina no conjugada en la circulación por encima del percentil 95 para la edad durante la primera semana de vida.",
+    "dominio": "2. Nutrición",
+    "clase": "Clase 4. (Metabolismo / Función hepática)",
+    "pagina_pdf": 369
+  },
+  {
+    "codigo": "00230",
+    "etiqueta": "Riesgo de hiperbilirrubinemia neonatal",
+    "definicion": "Susceptible a la acumulación de bilirrubina no conjugada en la circulación por encima del percentil 95 para la edad durante la primera semana de vida.",
+    "dominio": "2. Nutrición",
+    "clase": "Clase 4. (Metabolismo / Función hepática)",
+    "pagina_pdf": 371
+  },
+  {
+    "codigo": "00491",
+    "etiqueta": "Riesgo de alteración del equilibrio hidroelectrolítico",
+    "definicion": "Susceptible a cambios en los niveles de electrolitos séricos.",
+    "dominio": "2. Nutrición",
+    "clase": "Clase 5. Hidratación",
+    "pagina_pdf": 373
+  },
+  {
+    "codigo": "00492",
+    "etiqueta": "Riesgo de alteración del equilibrio del volumen de líquidos",
+    "definicion": "Susceptible de cambio rápido de uno a otro de fluidos intracelulares y/o extracelulares.",
+    "dominio": "2. Nutrición",
+    "clase": "Clase 5. Hidratación",
+    "pagina_pdf": 374
+  },
+  {
+    "codigo": "00026",
+    "etiqueta": "Volumen excesivo de líquido",
+    "definicion": "Retención excesiva de líquidos intracelulares y/o extracelulares, sin incluir sangre.",
+    "dominio": "2. Nutrición",
+    "clase": "Clase 5. Hidratación",
+    "pagina_pdf": 376
+  },
+  {
+    "codigo": "00370",
+    "etiqueta": "Riesgo de volumen excesivo de líquido",
+    "definicion": "Susceptible a retención excesiva de líquido intracelular y/o extracelular, sin incluir sangre.",
+    "dominio": "2. Nutrición",
+    "clase": "Clase 5. Hidratación",
+    "pagina_pdf": 378
+  },
+  {
+    "codigo": "00421",
+    "etiqueta": "Volumen de líquido inadecuado",
+    "definicion": "Disminución del líquido intracelular y/o extracelular, sin incluir sangre.",
+    "dominio": "2. Nutrición",
+    "clase": "Clase 5. Hidratación",
+    "pagina_pdf": 379
+  },
+  {
+    "codigo": "00420",
+    "etiqueta": "Riesgo de volumen inadecuado de líquido",
+    "definicion": "Susceptible a cambio rápido del volumen de líquidos intracelulares y/o extracelulares, sin incluir la sangre.",
+    "dominio": "2. Nutrición",
+    "clase": "Clase 5. Hidratación",
+    "pagina_pdf": 381
+  },
+  {
+    "codigo": "00016",
+    "etiqueta": "Eliminación urinaria alterada",
+    "definicion": "Incapacidad de excretar eficazmente líquidos y desechos almacenados en la vejiga a través de la uretra.",
+    "dominio": "3. Eliminación y cambio",
+    "clase": "Clase 1. Función urinaria",
+    "pagina_pdf": 386
+  },
+  {
+    "codigo": "00322",
+    "etiqueta": "Riesgo de retención urinaria",
+    "definicion": "Susceptible al vaciamiento incompleto de la vejiga.",
+    "dominio": "3. Eliminación y cambio",
+    "clase": "Clase 1. Función urinaria",
+    "pagina_pdf": 388
+  },
+  {
+    "codigo": "00297",
+    "etiqueta": "Incontinencia urinaria asociada a discapacidad",
+    "definicion": "Incapacidad para llegar al baño después de una sensación de necesidad de evitar la pérdida involuntaria de orina debido a una condición física o cognitiva.",
+    "dominio": "3. Eliminación y cambio",
+    "clase": "Clase 1. Función urinaria",
+    "pagina_pdf": 389
+  },
+  {
+    "codigo": "00310",
+    "etiqueta": "Incontinencia urinaria mixta",
+    "definicion": "Pérdida involuntaria de orina en combinación con o después de una fuerte sensación de urgencia de orinar, y también con actividades que aumentan la presión intraabdominal.",
+    "dominio": "3. Eliminación y cambio",
+    "clase": "Clase 1. Función urinaria",
+    "pagina_pdf": 391
+  },
+  {
+    "codigo": "00017",
+    "etiqueta": "Incontinencia urinaria de esfuerzo",
+    "definicion": "Pérdida involuntaria de orina con actividades que aumentan la presión intraabdominal, que no está asociada con la urgencia de orinar.",
+    "dominio": "3. Eliminación y cambio",
+    "clase": "Clase 1. Función urinaria",
+    "pagina_pdf": 393
+  },
+  {
+    "codigo": "00019",
+    "etiqueta": "Incontinencia urinaria de urgencia",
+    "definicion": "Pérdida involuntaria de orina asociada a un deseo abrupto y fuerte de orinar.",
+    "dominio": "3. Eliminación y cambio",
+    "clase": "Clase 1. Función urinaria",
+    "pagina_pdf": 394
+  },
+  {
+    "codigo": "00022",
+    "etiqueta": "Riesgo de incontinencia urinaria de urgencia",
+    "definicion": "Susceptible a pérdida involuntaria de orina asociada con un deseo abrupto y fuerte de orinar.",
+    "dominio": "3. Eliminación y cambio",
+    "clase": "Clase 1. Función urinaria",
+    "pagina_pdf": 396
+  },
+  {
+    "codigo": "00423",
+    "etiqueta": "Motilidad gastrointestinal deteriorada",
+    "definicion": "Aumento, disminución, ineficacia o ausencia de actividad peristáltica dentro del tracto digestivo.",
+    "dominio": "3. Eliminación y cambio",
+    "clase": "Clase 2. Función gastrointestinal",
+    "pagina_pdf": 398
+  },
+  {
+    "codigo": "00422",
+    "etiqueta": "Riesgo de alteración de la motilidad gastrointestinal",
+    "definicion": "Susceptible a aumento, disminución, ineficacia o falta de actividad peristáltica dentro del tracto digestivo.",
+    "dominio": "3. Eliminación y cambio",
+    "clase": "Clase 2. Función gastrointestinal",
+    "pagina_pdf": 400
+  },
+  {
+    "codigo": "00344",
+    "etiqueta": "Eliminación intestinal alterada",
+    "definicion": "Cambio en el proceso normal de defecación del recto o la ostomía.",
+    "dominio": "3. Eliminación y cambio",
+    "clase": "Clase 2. Función gastrointestinal",
+    "pagina_pdf": 402
+  },
+  {
+    "codigo": "00346",
+    "etiqueta": "Riesgo de eliminación intestinal alterada",
+    "definicion": "Susceptible de cambios en el proceso normal de defecación desde el recto o la ostomía.",
+    "dominio": "3. Eliminación y cambio",
+    "clase": "Clase 2. Función gastrointestinal",
+    "pagina_pdf": 404
+  },
+  {
+    "codigo": "00235",
+    "etiqueta": "Estreñimiento funcional crónico",
+    "definicion": "Evacuación infrecuente o difícil de heces, que ha estado presente por un período prolongado de tiempo.",
+    "dominio": "3. Eliminación y cambio",
+    "clase": "Clase 2. Función gastrointestinal",
+    "pagina_pdf": 406
+  },
+  {
+    "codigo": "00236",
+    "etiqueta": "Riesgo de estreñimiento funcional crónico",
+    "definicion": "Susceptible a la evacuación infrecuente o difícil de heces durante un período prolongado de tiempo.",
+    "dominio": "3. Eliminación y cambio",
+    "clase": "Clase 2. Función gastrointestinal",
+    "pagina_pdf": 409
+  },
+  {
+    "codigo": "00424",
+    "etiqueta": "Continencia fecal alterada",
+    "definicion": "Incapacidad para controlar los esfínteres anales, con paso involuntario de heces y flatos.",
+    "dominio": "3. Eliminación y cambio",
+    "clase": "Clase 2. Función gastrointestinal",
+    "pagina_pdf": 412
+  },
+  {
+    "codigo": "00345",
+    "etiqueta": "Riesgo de alteración de la continencia fecal",
+    "definicion": "Susceptible a la incapacidad de controlar los esfínteres anales, con paso involuntario de heces y flatos.",
+    "dominio": "3. Eliminación y cambio",
+    "clase": "Clase 2. Función gastrointestinal",
+    "pagina_pdf": 414
+  },
+  {
+    "codigo": "00030",
+    "etiqueta": "Intercambio de gases deteriorado",
+    "definicion": "Exceso o inadecuada oxigenación y/o eliminación de dióxido de carbono.",
+    "dominio": "3. Eliminación y cambio",
+    "clase": "Clase 4. Función respiratoria",
+    "pagina_pdf": 416
+  },
+  {
+    "codigo": "00337",
+    "etiqueta": "Patrón de sueño ineficaz",
+    "definicion": "Dificultad para experimentar la suspensión periódica y natural de la conciencia relativa, lo que perjudica negativamente la función.",
+    "dominio": "4. Actividad / descanso",
+    "clase": "Clase 1. Dormir / descansar",
+    "pagina_pdf": 422
+  },
+  {
+    "codigo": "00407",
+    "etiqueta": "Riesgo de un patrón de sueño ineficaz",
+    "definicion": "Susceptible a tener dificultad para experimentar la suspensión periódica y natural de la conciencia relativa, lo que perjudica negativamente la función.",
+    "dominio": "4. Actividad / descanso",
+    "clase": "Clase 1. Dormir / descansar",
+    "pagina_pdf": 425
+  },
+  {
+    "codigo": "00417",
+    "etiqueta": "Preparación para un patrón de sueño mejorado",
+    "definicion": "Patrón de suspensión natural y periódica de la conciencia relativa, que puede reforzarse.",
+    "dominio": "4. Actividad / descanso",
+    "clase": "Clase 1. Dormir / descansar",
+    "pagina_pdf": 427
+  },
+  {
+    "codigo": "00323",
+    "etiqueta": "Conductas ineficaces de higiene del sueño",
+    "definicion": "Dificultad para utilizar de manera consistente prácticas, rituales y hábitos que resulten en el inicio o mantenimiento del sueño y un sueño reparador.",
+    "dominio": "4. Actividad / descanso",
+    "clase": "Clase 1. Dormir / descansar",
+    "pagina_pdf": 428
+  },
+  {
+    "codigo": "00408",
+    "etiqueta": "Riesgo de conductas ineficaces de higiene del sueño",
+    "definicion": "Susceptible a tener dificultades con el uso constante de prácticas, rituales y hábitos que resultan en el inicio o mantenimiento del sueño y un sueño reparador.",
+    "dominio": "4. Actividad / descanso",
+    "clase": "Clase 1. Dormir / descansar",
+    "pagina_pdf": 430
+  },
+  {
+    "codigo": "00085",
+    "etiqueta": "Movilidad física deteriorada",
+    "definicion": "Limitación del movimiento independiente e intencionado del cuerpo o de una o más extremidades.",
+    "dominio": "4. Actividad / descanso",
+    "clase": "Clase 2. Actividad / ejercicio",
+    "pagina_pdf": 432
+  },
+  {
+    "codigo": "00324",
+    "etiqueta": "Riesgo de deterioro de la movilidad física",
+    "definicion": "Susceptible a la limitación del movimiento independiente e intencionado del cuerpo o de una o más extremidades.",
+    "dominio": "4. Actividad / descanso",
+    "clase": "Clase 2. Actividad / ejercicio",
+    "pagina_pdf": 434
+  },
+  {
+    "codigo": "00091",
+    "etiqueta": "Movilidad reducida en la cama",
+    "definicion": "Limitación en el movimiento independiente de una posición de cama a otra.",
+    "dominio": "4. Actividad / descanso",
+    "clase": "Clase 2. Actividad / ejercicio",
+    "pagina_pdf": 436
+  },
+  {
+    "codigo": "00089",
+    "etiqueta": "Movilidad reducida en silla de ruedas",
+    "definicion": "Limitación en el funcionamiento independiente de la silla de ruedas dentro del entorno.",
+    "dominio": "4. Actividad / descanso",
+    "clase": "Clase 2. Actividad / ejercicio",
+    "pagina_pdf": 438
+  },
+  {
+    "codigo": "00363",
+    "etiqueta": "Disminución de la capacidad para sentarse",
+    "definicion": "Limitación del logro independiente y deliberado y/o mantenimiento de una posición de reposo apoyada por los glúteos y los muslos, en la que el torso está erguido.",
+    "dominio": "4. Actividad / descanso",
+    "clase": "Clase 2. Actividad / ejercicio",
+    "pagina_pdf": 440
+  },
+  {
+    "codigo": "00364",
+    "etiqueta": "Capacidad de permanecer de pie deteriorada",
+    "definicion": "Limitación del logro independiente y deliberado y/o mantenimiento del cuerpo en una posición erguida desde los pies hasta la cabeza.",
+    "dominio": "4. Actividad / descanso",
+    "clase": "Clase 2. Actividad / ejercicio",
+    "pagina_pdf": 442
+  },
+  {
+    "codigo": "00367",
+    "etiqueta": "Capacidad de transferencia deteriorada",
+    "definicion": "Limitación del movimiento independiente entre dos superficies cercanas.",
+    "dominio": "4. Actividad / descanso",
+    "clase": "Clase 2. Actividad / ejercicio",
+    "pagina_pdf": 444
+  },
+  {
+    "codigo": "00365",
+    "etiqueta": "Capacidad para caminar deteriorada",
+    "definicion": "Limitación del movimiento independiente dentro del entorno a pie.",
+    "dominio": "4. Actividad / descanso",
+    "clase": "Clase 2. Actividad / ejercicio",
+    "pagina_pdf": 445
+  },
+  {
+    "codigo": "00298",
+    "etiqueta": "Disminución de la tolerancia a la actividad",
+    "definicion": "Resistencia insuficiente para completar las actividades diarias requeridas o deseadas.",
+    "dominio": "4. Actividad / descanso",
+    "clase": "Clase 3. Balance energético",
+    "pagina_pdf": 447
+  },
+  {
+    "codigo": "00299",
+    "etiqueta": "Riesgo de disminución de la tolerancia a la actividad",
+    "definicion": "Susceptible a experimentar resistencia insuficiente para completar las actividades diarias requeridas o deseadas.",
+    "dominio": "4. Actividad / descanso",
+    "clase": "Clase 3. Balance energético",
+    "pagina_pdf": 449
+  },
+  {
+    "codigo": "00477",
+    "etiqueta": "Carga excesiva de fatiga",
+    "definicion": "Sensación sostenida y abrumadora de agotamiento y disminución de la capacidad para el trabajo físico y mental al nivel habitual.",
+    "dominio": "4. Actividad / descanso",
+    "clase": "Clase 3. Balance energético",
+    "pagina_pdf": 451
+  },
+  {
+    "codigo": "00465",
+    "etiqueta": "Recuperación quirúrgica deteriorada",
+    "definicion": "Alteraciones fisiológicas o psicológicas perioperatorias que prolongan el período de recuperación para alcanzar y/o mejorar el estado de salud funcional preoperatorio.",
+    "dominio": "4. Actividad / descanso",
+    "clase": "Clase 3. Balance energético",
+    "pagina_pdf": 453
+  },
+  {
+    "codigo": "00464",
+    "etiqueta": "Riesgo de recuperación quirúrgica deteriorada",
+    "definicion": "Susceptible a alteraciones fisiológicas o psicológicas perioperatorias que prolonguen el período de recuperación para alcanzar y/o mejorar el estado de salud funcional preoperatorio.",
+    "dominio": "4. Actividad / descanso",
+    "clase": "Clase 3. Balance energético",
+    "pagina_pdf": 455
+  },
+  {
+    "codigo": "00311",
+    "etiqueta": "Riesgo de deterioro de la función cardiovascular",
+    "definicion": "Susceptible a cambios en el proceso normal de transporte de sustancias, homeostasis corporal, eliminación de residuos metabólicos de los tejidos y función de los órganos.",
+    "dominio": "4. Actividad / descanso",
+    "clase": "Clase 4. Respuestas cardiovasculares/pulmonares",
+    "pagina_pdf": 457
+  },
+  {
+    "codigo": "00362",
+    "etiqueta": "Riesgo de presión arterial desequilibrada",
+    "definicion": "Susceptible a la elevación o disminución recurrente de la fuerza ejercida por el flujo sanguíneo sobre la pared arterial, por encima o por debajo de los niveles individuales deseados.",
+    "dominio": "4. Actividad / descanso",
+    "clase": "Clase 4. Respuestas cardiovasculares/pulmonares",
+    "pagina_pdf": 459
+  },
+  {
+    "codigo": "00240",
+    "etiqueta": "Riesgo de disminución del gasto cardíaco",
+    "definicion": "Susceptible a experimentar un volumen de sangre insuficiente, bombeado por el corazón, para satisfacer las demandas metabólicas en individuos con afecciones cardiovasculares y/o pulmonares o traumatismos.",
+    "dominio": "4. Actividad / descanso",
+    "clase": "Clase 4. Respuestas cardiovasculares/pulmonares",
+    "pagina_pdf": 461
+  },
+  {
+    "codigo": "00201",
+    "etiqueta": "Riesgo de perfusión tisular cerebral ineficaz",
+    "definicion": "Susceptible a una disminución en la circulación sanguínea al cerebro.",
+    "dominio": "4. Actividad / descanso",
+    "clase": "Clase 4. Respuestas cardiovasculares/pulmonares",
+    "pagina_pdf": 463
+  },
+  {
+    "codigo": "00204",
+    "etiqueta": "Perfusión tisular periférica ineficaz",
+    "definicion": "Disminución de la circulación sanguínea a las extremidades.",
+    "dominio": "4. Actividad / descanso",
+    "clase": "Clase 4. Respuestas cardiovasculares/pulmonares",
+    "pagina_pdf": 465
+  },
+  {
+    "codigo": "00228",
+    "etiqueta": "Riesgo de perfusión tisular periférica ineficaz",
+    "definicion": "Susceptible a una disminución en la circulación sanguínea a las extremidades.",
+    "dominio": "4. Actividad / descanso",
+    "clase": "Clase 4. Respuestas cardiovasculares/pulmonares",
+    "pagina_pdf": 467
+  },
+  {
+    "codigo": "00032",
+    "etiqueta": "Patrón de respiración ineficaz",
+    "definicion": "Dificultad para mantener una ventilación adecuada durante la inspiración y/o la espiración.",
+    "dominio": "4. Actividad / descanso",
+    "clase": "Clase 4. Respuestas cardiovasculares/pulmonares",
+    "pagina_pdf": 468
+  },
+  {
+    "codigo": "00033",
+    "etiqueta": "Ventilación espontánea alterada",
+    "definicion": "Incapacidad para iniciar y/o mantener una respiración independiente que sea adecuada para sustentar la vida.",
+    "dominio": "4. Actividad / descanso",
+    "clase": "Clase 4. Respuestas cardiovasculares/pulmonares",
+    "pagina_pdf": 471
+  },
+  {
+    "codigo": "00431",
+    "etiqueta": "Respuesta deteriorada al destete ventilatorio infantil",
+    "definicion": "Incapacidad para realizar con éxito la transición a la respiración espontánea en personas < 18 años de edad que han requerido ventilación mecánica al menos 24 horas.",
+    "dominio": "4. Actividad / descanso",
+    "clase": "Clase 4. Respuestas cardiovasculares/pulmonares",
+    "pagina_pdf": 472
+  },
+  {
+    "codigo": "00430",
+    "etiqueta": "Respuesta deteriorada al destete ventilatorio en adultos",
+    "definicion": "Incapacidad para realizar con éxito la transición a la respiración espontánea en personas mayores de 18 años que han requerido ventilación mecánica durante al menos 24 horas.",
+    "dominio": "4. Actividad / descanso",
+    "clase": "Clase 4. Respuestas cardiovasculares/pulmonares",
+    "pagina_pdf": 475
+  },
+  {
+    "codigo": "00331",
+    "etiqueta": "Síndrome de disminución de la capacidad de autocuidado",
+    "definicion": "Disminución del desempeño independiente de múltiples actividades de la vida diaria.",
+    "dominio": "4. Actividad / descanso",
+    "clase": "Clase 5. Cuidados personales",
+    "pagina_pdf": 478
+  },
+  {
+    "codigo": "00332",
+    "etiqueta": "Riesgo de síndrome de disminución de la capacidad de autocuidado",
+    "definicion": "Susceptible a experimentar disminución en el desempeño independiente de múltiples actividades de la vida diaria.",
+    "dominio": "4. Actividad / descanso",
+    "clase": "Clase 5. Cuidados personales",
+    "pagina_pdf": 480
+  },
+  {
+    "codigo": "00442",
+    "etiqueta": "Preparación para mejorar las capacidades de autocuidado",
+    "definicion": "Patrón de desempeño independiente de las actividades de la vida diaria, que puede ser fortalecido.",
+    "dominio": "4. Actividad / descanso",
+    "clase": "Clase 5. Cuidados personales",
+    "pagina_pdf": 481
+  },
+  {
+    "codigo": "00326",
+    "etiqueta": "Disminución de la capacidad para bañarse",
+    "definicion": "Disminución de la competencia asociada a la limpieza del cuerpo de forma independiente.",
+    "dominio": "4. Actividad / descanso",
+    "clase": "Clase 5. Cuidados personales",
+    "pagina_pdf": 482
+  },
+  {
+    "codigo": "00327",
+    "etiqueta": "Disminución de la capacidad para vestirse",
+    "definicion": "Disminución de la competencia asociada con el acto de vestirse de forma independiente.",
+    "dominio": "4. Actividad / descanso",
+    "clase": "Clase 5. Cuidados personales",
+    "pagina_pdf": 485
+  },
+  {
+    "codigo": "00328",
+    "etiqueta": "Disminución de la capacidad de alimentación",
+    "definicion": "Disminución de la competencia para alimentarse de forma independiente.",
+    "dominio": "4. Actividad / descanso",
+    "clase": "Clase 5. Cuidados personales",
+    "pagina_pdf": 486
+  },
+  {
+    "codigo": "00330",
+    "etiqueta": "Disminución de la capacidad de aseo",
+    "definicion": "Disminución de la competencia asociada con el aseo personal de forma independiente.",
+    "dominio": "4. Actividad / descanso",
+    "clase": "Clase 5. Cuidados personales",
+    "pagina_pdf": 488
+  },
+  {
+    "codigo": "00329",
+    "etiqueta": "Disminución de la capacidad para ir al baño",
+    "definicion": "Disminución de la competencia asociada con la realización de tareas de eliminación de forma independiente.",
+    "dominio": "4. Actividad / descanso",
+    "clase": "Clase 5. Cuidados personales",
+    "pagina_pdf": 490
+  },
+  {
+    "codigo": "00375",
+    "etiqueta": "Conductas de higiene bucal ineficaces",
+    "definicion": "Dificultad para utilizar de manera consistente prácticas y hábitos que resulten en el mantenimiento de la salud bucal.",
+    "dominio": "4. Actividad / descanso",
+    "clase": "Clase 5. Cuidados personales",
+    "pagina_pdf": 492
+  },
+  {
+    "codigo": "00414",
+    "etiqueta": "Riesgo de conductas de higiene bucal ineficaces",
+    "definicion": "Susceptible a presentar dificultad para utilizar de manera consistente prácticas y hábitos que resulten en el mantenimiento de la salud bucal.",
+    "dominio": "4. Actividad / descanso",
+    "clase": "Clase 5. Cuidados personales",
+    "pagina_pdf": 494
+  },
+  {
+    "codigo": "00128",
+    "etiqueta": "Confusión aguda",
+    "definicion": "Alteraciones reversibles de la conciencia, la atención, la cognición y la percepción que se desarrollan durante un corto período de tiempo y que duran menos de 3 meses.",
+    "dominio": "5. Percepción / cognición",
+    "clase": "Clase 4. Cognición",
+    "pagina_pdf": 498
+  },
+  {
+    "codigo": "00173",
+    "etiqueta": "Riesgo de confusión aguda",
+    "definicion": "Susceptible a alteraciones reversibles de la conciencia, la atención, la cognición y la percepción que se desarrollan durante un corto período de tiempo.",
+    "dominio": "5. Percepción / cognición",
+    "clase": "Clase 4. Cognición",
+    "pagina_pdf": 501
+  },
+  {
+    "codigo": "00129",
+    "etiqueta": "Confusión crónica",
+    "definicion": "Alteraciones irreversibles, progresivas e insidiosas de la conciencia, la atención, la cognición y la percepción, que duran más de 3 meses.",
+    "dominio": "5. Percepción / cognición",
+    "clase": "Clase 4. Cognición",
+    "pagina_pdf": 502
+  },
+  {
+    "codigo": "00222",
+    "etiqueta": "Control de impulsos ineficaz",
+    "definicion": "Patrón de reacciones insatisfactorias, rápidas, no planificadas e incontrolables a estímulos internos o externos sin tener en cuenta las consecuencias negativas.",
+    "dominio": "5. Percepción / cognición",
+    "clase": "Clase 4. Cognición",
+    "pagina_pdf": 504
+  },
+  {
+    "codigo": "00493",
+    "etiqueta": "Procesos de pensamiento alterados",
+    "definicion": "Alteración en los procesos mentales implicados en el desarrollo de conceptos y categorías, el razonamiento y la resolución de problemas.",
+    "dominio": "5. Percepción / cognición",
+    "clase": "Clase 4. Cognición",
+    "pagina_pdf": 506
+  },
+  {
+    "codigo": "00435",
+    "etiqueta": "Conocimientos inadecuados sobre salud",
+    "definicion": "Adquisición, procesamiento, comprensión y/o recuerdo insuficiente de información relacionada con un tema específico que afecta el propio bienestar.",
+    "dominio": "5. Percepción / cognición",
+    "clase": "Clase 4. Cognición",
+    "pagina_pdf": 508
+  },
+  {
+    "codigo": "00499",
+    "etiqueta": "Disposición para un mayor conocimiento de la salud",
+    "definicion": "Patrón de adquisición, procesamiento, comprensión y recuerdo de información relacionada con un tema específico que afecta el bienestar de uno, que puede ser fortalecido.",
+    "dominio": "5. Percepción / cognición",
+    "clase": "Clase 4. Cognición",
+    "pagina_pdf": 510
+  },
+  {
+    "codigo": "00131",
+    "etiqueta": "Memoria deteriorada",
+    "definicion": "Incapacidad persistente para adquirir, recordar o recuperar fragmentos de información o habilidades, mientras se mantiene la capacidad de realizar de forma independiente actividades de la vida diaria.",
+    "dominio": "5. Percepción / cognición",
+    "clase": "Clase 4. Cognición",
+    "pagina_pdf": 511
+  },
+  {
+    "codigo": "00429",
+    "etiqueta": "Toma de decisiones deteriorada",
+    "definicion": "Incapacidad para tomar decisiones apropiadas, lo que puede tener un impacto negativo en los objetivos relacionados con la salud, el bienestar y la calidad de vida.",
+    "dominio": "5. Percepción / cognición",
+    "clase": "Clase 4. Cognición",
+    "pagina_pdf": 513
+  },
+  {
+    "codigo": "00184",
+    "etiqueta": "Preparación para una mejor toma de decisiones",
+    "definicion": "Patrón de toma de decisiones que impactan objetivos relacionados con la salud, el bienestar y la calidad de vida, que pueden fortalecerse.",
+    "dominio": "5. Percepción / cognición",
+    "clase": "Clase 4. Cognición",
+    "pagina_pdf": 515
+  },
+  {
+    "codigo": "00242",
+    "etiqueta": "Toma de decisiones emancipada deteriorada",
+    "definicion": "Proceso de elección de una decisión de atención médica que no incluye el conocimiento personal y/o la consideración de las normas sociales, o no ocurre en un entorno flexible, lo que resulta en insatisfacción decisional.",
+    "dominio": "5. Percepción / cognición",
+    "clase": "Clase 4. Cognición",
+    "pagina_pdf": 516
+  },
+  {
+    "codigo": "00244",
+    "etiqueta": "Riesgo de deterioro de la toma de decisiones emancipada",
+    "definicion": "Susceptible a un proceso de elección de una decisión de atención médica que no incluye el conocimiento personal y/o la consideración de las normas sociales, o que no ocurre en un entorno flexible, lo que resulta en insatisfacción decisional.",
+    "dominio": "5. Percepción / cognición",
+    "clase": "Clase 4. Cognición",
+    "pagina_pdf": 517
+  },
+  {
+    "codigo": "00243",
+    "etiqueta": "Preparación para una toma de decisiones más emancipada",
+    "definicion": "Patrón de elección de una decisión de atención médica que incluye el conocimiento personal y/o la consideración de las normas sociales, que pueden fortalecerse.",
+    "dominio": "5. Percepción / cognición",
+    "clase": "Clase 4. Cognición",
+    "pagina_pdf": 519
+  },
+  {
+    "codigo": "00051",
+    "etiqueta": "Comunicación verbal deteriorada",
+    "definicion": "Limitación o ausencia de la capacidad para recibir, procesar, transmitir y/o utilizar un sistema de símbolos.",
+    "dominio": "5. Percepción / cognición",
+    "clase": "Clase 5. Comunicación",
+    "pagina_pdf": 520
+  },
+  {
+    "codigo": "00434",
+    "etiqueta": "Riesgo de alteración de la comunicación verbal",
+    "definicion": "Susceptible a una limitación o ausencia de capacidad para recibir, procesar, transmitir y/o utilizar un sistema de símbolos.",
+    "dominio": "5. Percepción / cognición",
+    "clase": "Clase 5. Comunicación",
+    "pagina_pdf": 523
+  },
+  {
+    "codigo": "00368",
+    "etiqueta": "Preparación para una mejor comunicación verbal",
+    "definicion": "Patrón de recepción, procesamiento, transmisión y/o utilización de un sistema de símbolos, que puede ser fortalecido.",
+    "dominio": "5. Percepción / cognición",
+    "clase": "Clase 5. Comunicación",
+    "pagina_pdf": 524
+  },
+  {
+    "codigo": "00167",
+    "etiqueta": "Disposición para un autoconcepto mejorado",
+    "definicion": "Patrón de percepciones o ideas sobre uno mismo, que pueden fortalecerse.",
+    "dominio": "6. Autopercepción",
+    "clase": "Clase 1. Autoconcepto",
+    "pagina_pdf": 527
+  },
+  {
+    "codigo": "00494",
+    "etiqueta": "Identidad personal alterada",
+    "definicion": "Incapacidad para mantener una percepción integrada y completa de sí mismo.",
+    "dominio": "6. Autopercepción",
+    "clase": "Clase 1. Autoconcepto",
+    "pagina_pdf": 528
+  },
+  {
+    "codigo": "00495",
+    "etiqueta": "Síndrome de identidad familiar alterada",
+    "definicion": "Incapacidad para crear y mantener una percepción integrada y completa de la familia.",
+    "dominio": "6. Autopercepción",
+    "clase": "Clase 1. Autoconcepto",
+    "pagina_pdf": 530
+  },
+  {
+    "codigo": "00496",
+    "etiqueta": "Riesgo de síndrome de identidad familiar alterada",
+    "definicion": "Susceptible de una incapacidad para crear y mantener una percepción integrada y completa de la familia.",
+    "dominio": "6. Autopercepción",
+    "clase": "Clase 1. Autoconcepto",
+    "pagina_pdf": 532
+  },
+  {
+    "codigo": "00488",
+    "etiqueta": "Riesgo de vulneración de la dignidad humana",
+    "definicion": "Susceptible a la percepción de pérdida de respeto y honor.",
+    "dominio": "6. Autopercepción",
+    "clase": "Clase 1. Autoconcepto",
+    "pagina_pdf": 534
+  },
+  {
+    "codigo": "00341",
+    "etiqueta": "Preparación para una identidad social transgénero mejorada",
+    "definicion": "Patrón de desarrollo de la autoimagen de género, incluyendo la modificación de las características corporales, que promueve sentimientos de pertenencia a un grupo social o cultural, que pueden fortalecerse.",
+    "dominio": "6. Autopercepción",
+    "clase": "Clase 1. Autoconcepto",
+    "pagina_pdf": 535
+  },
+  {
+    "codigo": "00483",
+    "etiqueta": "Autoestima crónica inadecuada",
+    "definicion": "Percepción negativa de larga data de la autoestima, la autoaceptación, el autorrespeto, la competencia y la actitud hacia uno mismo.",
+    "dominio": "6. Autopercepción",
+    "clase": "Clase 2. Autoestima",
+    "pagina_pdf": 536
+  },
+  {
+    "codigo": "00480",
+    "etiqueta": "Riesgo de autoestima crónicamente inadecuada",
+    "definicion": "Susceptible a una percepción negativa duradera de la autoestima, la autoaceptación, el autorrespeto, la competencia y la actitud hacia sí mismo.",
+    "dominio": "6. Autopercepción",
+    "clase": "Clase 2. Autoestima",
+    "pagina_pdf": 539
+  },
+  {
+    "codigo": "00481",
+    "etiqueta": "Autoestima inadecuada situacional",
+    "definicion": "Cambio de la percepción positiva a la negativa de la autoestima, la autoaceptación, el autorrespeto, la competencia y la actitud hacia uno mismo en respuesta a una situación actual.",
+    "dominio": "6. Autopercepción",
+    "clase": "Clase 2. Autoestima",
+    "pagina_pdf": 541
+  },
+  {
+    "codigo": "00482",
+    "etiqueta": "Riesgo de autoestima inadecuada situacional",
+    "definicion": "Susceptible a un cambio de percepción positiva a negativa de la autoestima, la autoaceptación, el autorrespeto, la competencia y la actitud hacia uno mismo en respuesta a una situación actual.",
+    "dominio": "6. Autopercepción",
+    "clase": "Clase 2. Autoestima",
+    "pagina_pdf": 543
+  },
+  {
+    "codigo": "00338",
+    "etiqueta": "Autoeficacia sanitaria inadecuada",
+    "definicion": "Creencia insuficiente en la propia capacidad para promover, mantener o restaurar un estado de salud adecuado.",
+    "dominio": "6. Autopercepción",
+    "clase": "Clase 2. Autoestima",
+    "pagina_pdf": 545
+  },
+  {
+    "codigo": "00497",
+    "etiqueta": "Imagen corporal alterada",
+    "definicion": "Imagen mental negativa del propio ser físico.",
+    "dominio": "6. Autopercepción",
+    "clase": "Clase 3. Imagen corporal",
+    "pagina_pdf": 547
+  },
+  {
+    "codigo": "00436",
+    "etiqueta": "Conductas parentales deterioradas",
+    "definicion": "Limitación del cuidador principal para nutrir, proteger y promover el crecimiento y desarrollo óptimos del niño, a través de un ejercicio consistente y empático de la autoridad y respuesta apropiada a las necesidades del niño.",
+    "dominio": "7. Relación de roles",
+    "clase": "Clase 1. Roles de cuidado",
+    "pagina_pdf": 552
+  },
+  {
+    "codigo": "00437",
+    "etiqueta": "Riesgo de conductas parentales deterioradas",
+    "definicion": "Cuidador principal susceptible a una limitación para nutrir, proteger y promover el crecimiento y desarrollo óptimos del niño, a través de un ejercicio consistente y empático de la autoridad y respuesta apropiada a las necesidades del niño.",
+    "dominio": "7. Relación de roles",
+    "clase": "Clase 1. Roles de cuidado",
+    "pagina_pdf": 555
+  },
+  {
+    "codigo": "00438",
+    "etiqueta": "Preparación para mejorar las conductas parentales",
+    "definicion": "PPatrón del cuidador principal de nutrir, proteger y promover el crecimiento y desarrollo óptimos del niño, a través de un ejercicio consistente y empático de la autoridad y una respuesta apropiada a las necesidades del niño, que puede fortalecerse.",
+    "dominio": "7. Relación de roles",
+    "clase": "Clase 1. Roles de cuidado",
+    "pagina_pdf": 558
+  },
+  {
+    "codigo": "00387",
+    "etiqueta": "Conflicto excesivo en el rol parental",
+    "definicion": "Experiencia del cuidador principal de expectativas y responsabilidades inconsistentes, competitivas y/o incongruentes para cumplir con las necesidades del niño.",
+    "dominio": "7. Relación de roles",
+    "clase": "Clase 1. Roles de cuidado",
+    "pagina_pdf": 559
+  },
+  {
+    "codigo": "00389",
+    "etiqueta": "Patrones de interacción familiar alterados",
+    "definicion": "Alteración en la organización y estructura familiar que no logra apoyar el bienestar de sus miembros.",
+    "dominio": "7. Relación de roles",
+    "clase": "Clase 2. Relaciones familiares.",
+    "pagina_pdf": 561
+  },
+  {
+    "codigo": "00440",
+    "etiqueta": "Riesgo de alteración de los patrones de interacción familiar",
+    "definicion": "Susceptible a perturbaciones en la organización y estructura familiar, que no logra sustentar el bienestar de sus miembros.",
+    "dominio": "7. Relación de roles",
+    "clase": "Clase 2. Relaciones familiares.",
+    "pagina_pdf": 563
+  },
+  {
+    "codigo": "00388",
+    "etiqueta": "Procesos familiares deteriorados",
+    "definicion": "Relaciones familiares que no apoyan el bienestar de sus miembros.",
+    "dominio": "7. Relación de roles",
+    "clase": "Clase 2. Relaciones familiares.",
+    "pagina_pdf": 565
+  },
+  {
+    "codigo": "00159",
+    "etiqueta": "Preparación para procesos familiares mejorados",
+    "definicion": "Patrón de relaciones familiares para apoyar el bienestar de sus miembros, el cual puede fortalecerse.",
+    "dominio": "7. Relación de roles",
+    "clase": "Clase 2. Relaciones familiares.",
+    "pagina_pdf": 569
+  },
+  {
+    "codigo": "00439",
+    "etiqueta": "Riesgo de conductas de apego interrumpidas",
+    "definicion": "Susceptible a la perturbación del proceso interactivo entre el cuidador principal y el bebé que fomenta actividades que demuestran una relación recíproca protectora y enriquecedora.",
+    "dominio": "7. Relación de roles",
+    "clase": "Clase 2. Relaciones familiares.",
+    "pagina_pdf": 570
+  },
+  {
+    "codigo": "00055",
+    "etiqueta": "Desempeño ineficaz del rol",
+    "definicion": "Patrón de comportamiento y autoexpresión que no coincide con el contexto ambiental, las normas y las expectativas.",
+    "dominio": "7. Relación de roles",
+    "clase": "Clase 3. Desempeño del rol.",
+    "pagina_pdf": 572
+  },
+  {
+    "codigo": "00449",
+    "etiqueta": "Relación de pareja ineficaz",
+    "definicion": "Patrón de mutualidad que es insuficiente o que puede afectar el curso, pronóstico o tratamiento de una condición de salud de uno o ambos socios.",
+    "dominio": "7. Relación de roles",
+    "clase": "Clase 3. Desempeño del rol.",
+    "pagina_pdf": 574
+  },
+  {
+    "codigo": "00445",
+    "etiqueta": "Riesgo de una relación de pareja ineficaz",
+    "definicion": "Susceptible a un patrón de mutualidad que es insuficiente o que puede afectar el curso, pronóstico o tratamiento de una condición de salud de uno o ambos socios.",
+    "dominio": "7. Relación de roles",
+    "clase": "Clase 3. Desempeño del rol.",
+    "pagina_pdf": 577
+  },
+  {
+    "codigo": "00446",
+    "etiqueta": "Disposición para una intimidad mejorada",
+    "definicion": "Patrón de mutualidad que puede apoyar la evolución, pronóstico o tratamiento de una condición de salud de uno o ambos socios, el cual puede ser fortalecido.",
+    "dominio": "7. Relación de roles",
+    "clase": "Clase 3. Desempeño del rol.",
+    "pagina_pdf": 578
+  },
+  {
+    "codigo": "00052",
+    "etiqueta": "Interacción social deteriorada",
+    "definicion": "Cantidad inadecuada o excesiva, o calidad inadecuada del intercambio social.",
+    "dominio": "7. Relación de roles",
+    "clase": "Clase 3. Desempeño del rol.",
+    "pagina_pdf": 580
+  },
+  {
+    "codigo": "00221",
+    "etiqueta": "Proceso de procreación ineficaz",
+    "definicion": "Incapacidad para preparar y/o mantener un embarazo saludable, un proceso de parto y un cuidado del recién nacido para asegurar su bienestar.",
+    "dominio": "7. Relación de roles",
+    "clase": "Clase 3. Desempeño del rol.",
+    "pagina_pdf": 582
+  },
+  {
+    "codigo": "00227",
+    "etiqueta": "Riesgo de un proceso de gestación ineficaz",
+    "definicion": "Susceptible a la incapacidad de prepararse y/o mantener un embarazo saludable, un proceso de parto y un cuidado del recién nacido para garantizar su bienestar.",
+    "dominio": "7. Relación de roles",
+    "clase": "Clase 3. Desempeño del rol.",
+    "pagina_pdf": 584
+  },
+  {
+    "codigo": "00208",
+    "etiqueta": "Preparación para un proceso de gestación mejorado",
+    "definicion": "Patrón de preparación y mantenimiento de un embarazo saludable, proceso del parto y cuidado del recién nacido para garantizar el bienestar,el cual puede fortalecerse.",
+    "dominio": "7. Relación de roles",
+    "clase": "Clase 3. Desempeño del rol.",
+    "pagina_pdf": 585
+  },
+  {
+    "codigo": "00386",
+    "etiqueta": "Función sexual deteriorada",
+    "definicion": "Dificultad para pasar por las etapas del ciclo de respuesta sexual, que se percibe como insatisfactoria, poco gratificante o inadecuada.",
+    "dominio": "8. Sexualidad.",
+    "clase": "Clase 2. Función sexual",
+    "pagina_pdf": 589
+  },
+  {
+    "codigo": "00349",
+    "etiqueta": "Riesgo de deterioro de la díada materno-fetal",
+    "definicion": "Susceptible a una interrupción de la relación simbiótica madre-feto que afecta el intercambio fisiológico y las interacciones afectivo-emocionales durante el embarazo como resultado de condiciones comórbidas o relacionadas con el embarazo.",
+    "dominio": "8. Sexualidad.",
+    "clase": "Clase 3. Reproducción",
+    "pagina_pdf": 592
+  },
+  {
+    "codigo": "00141",
+    "etiqueta": "Síndrome postraumático",
+    "definicion": "Respuesta desadaptativa sostenida a un evento traumático y abrumador.",
+    "dominio": "9. Afrontamiento / tolerancia al estrés",
+    "clase": "Clase 1. Respuestas postraumáticas",
+    "pagina_pdf": 597
+  },
+  {
+    "codigo": "00145",
+    "etiqueta": "Riesgo de síndrome postraumático",
+    "definicion": "Susceptible a una respuesta desadaptativa sostenida ante un evento traumático y abrumador.",
+    "dominio": "9. Afrontamiento / tolerancia al estrés",
+    "clase": "Clase 1. Respuestas postraumáticas",
+    "pagina_pdf": 599
+  },
+  {
+    "codigo": "00484",
+    "etiqueta": "Riesgo de interrupción de la transición migratoria",
+    "definicion": "Susceptible a sentimientos y consecuencias negativas durante el proceso de reubicación y ajuste desde el país de origen.",
+    "dominio": "9. Afrontamiento / tolerancia al estrés",
+    "clase": "Clase 1. Respuestas postraumáticas",
+    "pagina_pdf": 601
+  },
+  {
+    "codigo": "00405",
+    "etiqueta": "Afrontamiento desadaptativo",
+    "definicion": "Esfuerzos cognitivos y/o conductuales contraproducentes para gestionar una situación estresante o desagradable.",
+    "dominio": "9. Afrontamiento / tolerancia al estrés",
+    "clase": "Clase 2. Respuestas de afrontamiento",
+    "pagina_pdf": 602
+  },
+  {
+    "codigo": "00158",
+    "etiqueta": "Preparación para un mejor afrontamiento",
+    "definicion": "Patrón de esfuerzos cognitivos y/o conductuales para gestionar una situación estresante o desagradable, que puede ser potenciado.",
+    "dominio": "9. Afrontamiento / tolerancia al estrés",
+    "clase": "Clase 2. Respuestas de afrontamiento",
+    "pagina_pdf": 605
+  },
+  {
+    "codigo": "00373",
+    "etiqueta": "Afrontamiento familiar desadaptativo",
+    "definicion": "Esfuerzos cognitivos y/o conductuales contraproducentes de la familia para gestionar una situación estresante o desagradable.",
+    "dominio": "9. Afrontamiento / tolerancia al estrés",
+    "clase": "Clase 2. Respuestas de afrontamiento (Familia)",
+    "pagina_pdf": 606
+  },
+  {
+    "codigo": "00075",
+    "etiqueta": "Preparación para una mejor adaptación familiar",
+    "definicion": "Patrón de esfuerzos cognitivos y/o conductuales de la familia para manejar una situación estresante o desagradable, que puede ser fortalecido.",
+    "dominio": "9. Afrontamiento / tolerancia al estrés",
+    "clase": "Clase 2. Respuestas de afrontamiento (Familia)",
+    "pagina_pdf": 607
+  },
+  {
+    "codigo": "00456",
+    "etiqueta": "Comunidad de afrontamiento desadaptativa",
+    "definicion": "Patrón de actividades comunitarias de adaptación y solución de problemas que resulta insatisfactorio para satisfacer las demandas o necesidades de la comunidad.",
+    "dominio": "9. Afrontamiento / tolerancia al estrés",
+    "clase": "Clase 2. Respuestas de afrontamiento (Comunidad)",
+    "pagina_pdf": 608
+  },
+  {
+    "codigo": "00076",
+    "etiqueta": "Preparación para una mejor respuesta comunitaria",
+    "definicion": "Patrón de actividades comunitarias de adaptación y solución de problemas para satisfacer las demandas o necesidades de la comunidad,",
+    "dominio": "9. Afrontamiento / tolerancia al estrés",
+    "clase": "Clase 2. Respuestas de afrontamiento (Comunidad)",
+    "pagina_pdf": 610
+  },
+  {
+    "codigo": "00366",
+    "etiqueta": "Carga excesiva de cuidados",
+    "definicion": "Esfuerzo multidimensional abrumador al cuidar a una pareja.",
+    "dominio": "9. Afrontamiento / tolerancia al estrés",
+    "clase": "Clase 2. Respuestas de afrontamiento (Cuidador)",
+    "pagina_pdf": 611
+  },
+  {
+    "codigo": "00401",
+    "etiqueta": "Riesgo de carga excesiva de cuidados",
+    "definicion": "Susceptible a una tensión multidimensional abrumadora al cuidar a una persona importante. ",
+    "dominio": "9. Afrontamiento / tolerancia al estrés",
+    "clase": "Clase 2. Respuestas de afrontamiento (Cuidador)",
+    "pagina_pdf": 614
+  },
+  {
+    "codigo": "00301",
+    "etiqueta": "Duelo desadaptativo",
+    "definicion": "Respuestas a la muerte de una persona significativa, en las que la experiencia de angustia que acompaña al duelo no cumple con las expectativas socioculturales. ",
+    "dominio": "9. Afrontamiento / tolerancia al estrés",
+    "clase": "Clase 2. Respuestas de afrontamiento",
+    "pagina_pdf": 616
+  },
+  {
+    "codigo": "00302",
+    "etiqueta": "Riesgo de duelo desadaptativo",
+    "definicion": "Susceptible a respuestas ante la muerte de un ser querido, en las que la experiencia de angustia que acompaña al duelo no sigue las expectativas socioculturales.",
+    "dominio": "9. Afrontamiento / tolerancia al estrés",
+    "clase": "Clase 2. Respuestas de afrontamiento",
+    "pagina_pdf": 618
+  },
+  {
+    "codigo": "00285",
+    "etiqueta": "Preparación para un duelo intensificado",
+    "definicion": "Patrón de respuestas ante la muerte de una persona significativa, que puede fortalecerse.",
+    "dominio": "9. Afrontamiento / tolerancia al estrés",
+    "clase": "Clase 2. Respuestas de afrontamiento",
+    "pagina_pdf": 620
+  },
+  {
+    "codigo": "00210",
+    "etiqueta": "Resiliencia deteriorada",
+    "definicion": "Capacidad disminuida para recuperarse de situaciones percibidas como adversas o cambiantes.",
+    "dominio": "9. Afrontamiento / tolerancia al estrés",
+    "clase": "Clase 2. Respuestas de afrontamiento",
+    "pagina_pdf": 621
+  },
+  {
+    "codigo": "00211",
+    "etiqueta": "Riesgo de deterioro de la resiliencia",
+    "definicion": "Susceptible a una capacidad disminuida para recuperarse de situaciones percibidas adversas o cambiantes.",
+    "dominio": "9. Afrontamiento / tolerancia al estrés",
+    "clase": "Clase 2. Respuestas de afrontamiento",
+    "pagina_pdf": 623
+  },
+  {
+    "codigo": "00212",
+    "etiqueta": "Preparación para una mayor resiliencia.",
+    "definicion": "Patrón de capacidad para recuperarse de situaciones percibidas adversas o cambiantes, que puede fortalecerse.",
+    "dominio": "9. Afrontamiento / tolerancia al estrés",
+    "clase": "Clase 2. Respuestas de afrontamiento",
+    "pagina_pdf": 625
+  },
+  {
+    "codigo": "00185",
+    "etiqueta": "Disposición para una mayor esperanza.",
+    "definicion": "Patrón de expectativas y deseos de movilización de energía para lograr resultados positivos, que puede fortalecerse.",
+    "dominio": "9. Afrontamiento / tolerancia al estrés",
+    "clase": "Clase 2. Respuestas de afrontamiento",
+    "pagina_pdf": 627
+  },
+  {
+    "codigo": "00325",
+    "etiqueta": "Autocompasión inadecuada",
+    "definicion": "Capacidad insuficiente para brindar bondad y comprensión hacia uno mismo, reconocer la propia conexión con la experiencia humana más amplia, ser consciente y atento de los propios pensamientos y sentimientos durante momentos de fracasos, limitaciones o sufrimiento.",
+    "clase": "Clase 2. Respuestas de afrontamiento",
+    "pagina_pdf": 628
+  },
+  {
+    "codigo": "00400",
+    "etiqueta": "Ansiedad excesiva",
+    "definicion": "Preocupación desproporcionada y persistente por situaciones y acontesimientos percibidos como amenazantes.",
+    "dominio": "9. Afrontamiento / tolerancia al estrés",
+    "clase": "Clase 2. Respuestas de afrontamiento",
+    "pagina_pdf": 630
+  },
+  {
+    "codigo": "00390",
+    "etiqueta": "Miedo excesivo",
+    "definicion": "Respuesta emocional desproporcionada e intensa provocada por la detección de una amenaza inminente.",
+    "dominio": "9. Afrontamiento / tolerancia al estrés",
+    "clase": "Clase 2. Respuestas de afrontamiento",
+    "pagina_pdf": 635
+  },
+  {
+    "codigo": "00399",
+    "etiqueta": "Ansiedad excesiva por la muerte",
+    "definicion": "Angustia emocional abrumadora o inseguridad causada por anticipar la muerte de uno musmoo de otros.",
+    "dominio": "9. Afrontamiento / tolerancia al estrés",
+    "clase": "Clase 2. Respuestas de afrontamiento",
+    "pagina_pdf": 633
+  },
+  {
+    "codigo": "00010",
+    "etiqueta": "Riesgo de disreflexia autonómica",
+    "definicion": "Susceptible a una respuesta autonómica exagerada y potencialmente mortal del sistema nervioso simpático después de un shock espinal, en un individuo con lesión de la médula espinal o lesión en la sexta vértebra torácia (T6) o superior (se ha demostrado en pacientes con lesiones en la séptima vértebra torácica [T7] y la octava vértebra torácica [T8]).",
+    "dominio": "9. Afrontamiento / tolerancia al estrés",
+    "clase": "Clase 3. Respuestas neuroconductuales",
+    "pagina_pdf": 637
+  },
+  {
+    "codigo": "00372",
+    "etiqueta": "Regulación ineficaz de las emociones",
+    "definicion": "Incapacidad para controlar o modular los sentimientos, que afecta los pensamientos, las acciones y las interacciones, dando lugar a las respuestas y expresiones desiguales en situaciones sociales.",
+    "dominio": "9. Afrontamiento / tolerancia al estrés",
+    "clase": "Clase 3. Respuestas neuroconductuales",
+    "pagina_pdf": 640
+  },
+  {
+    "codigo": "00241",
+    "etiqueta": "Deterioro de la regulación del estado de ánimo",
+    "definicion": "Estado mental caracterizado por cambios de humor o de afecto y que comprende una constelación de manifestaciones afectivas, cognitivas, somáticas, fisiológicas y/o conductuales.",
+    "dominio": "9. Afrontamiento / tolerancia al estrés",
+    "clase": "Clase 3. Respuestas neuroconductuales",
+    "pagina_pdf": 642
+  },
+  {
+    "codigo": "00258",
+    "etiqueta": "Síndrome de abstinencia aguda de sustancias",
+    "definicion": "Secuelas graves y multifactoriales tras la interrupción abrupta de un compuesto adictivo.",
+    "dominio": "9. Afrontamiento / tolerancia al estrés",
+    "clase": "Clase 3. Respuestas neuroconductuales",
+    "pagina_pdf": 645
+  },
+  {
+    "codigo": "00259",
+    "etiqueta": "Riesgo de síndrome de abstinencia aguda de sustancias",
+    "definicion": "Susceptible a sufrir secuelas graves tras la interrupción abrupta de un compuesto adictivo.",
+    "dominio": "9. Afrontamiento / tolerancia al estrés",
+    "clase": "Clase 3. Respuestas neuroconductuales",
+    "pagina_pdf": 646
+  },
+  {
+    "codigo": "00175",
+    "etiqueta": "Angustia moral",
+    "definicion": "Respuesta a la incapacidad de llevar a cabo la decisión o acción ética/moral elegida.",
+    "dominio": "10. Principios de vida",
+    "clase": "Clase 3. Congruencia valor/creencia/acción",
+    "pagina_pdf": 649
+  },
+  {
+    "codigo": "00454",
+    "etiqueta": "Bienestar espiritual deteriorado",
+    "definicion": "Disminución de la integración del significado y el propósito en la vida a través de conexiones con uno mismo, los demás, el mundo y/o un poder superior a uno mismo.",
+    "dominio": "10. Principios de vida",
+    "clase": "Clase 3. Congruencia valor/creencia/acción",
+    "pagina_pdf": 651
+  },
+  {
+    "codigo": "00460",
+    "etiqueta": "Riesgo de deterioro del bienestar espiritual",
+    "definicion": "Susceptible a una integración disminuida del significado y propósito en la vida a través de las conexiones con uno mismo, los demás, el mundo y/o un poder superior a uno mismo.",
+    "dominio": "10. Principios de vida",
+    "clase": "Clase 3. Congruencia valor/creencia/acción",
+    "pagina_pdf": 654
+  },
+  {
+    "codigo": "00068",
+    "etiqueta": "Disposición para un mayor bienestar espiritual",
+    "definicion": "Patrón de integración del significado y el propósito en la vida a través de conexiones con uno mismo, los demás, el mundo y/o un poder mayor que uno mismo. lo cual puede fortalecerse.",
+    "dominio": "10. Principios de vida",
+    "clase": "Clase 3. Congruencia valor/creencia/acción",
+    "pagina_pdf": 656
+  },
+  {
+    "codigo": "00169",
+    "etiqueta": "Religiosidad deteriorada",
+    "definicion": "Disminución del compromiso con las creencias, principios y actividades basadas en la fe.",
+    "dominio": "10. Principios de vida",
+    "clase": "Clase 3. Congruencia valor/creencia/acción",
+    "pagina_pdf": 658
+  },
+  {
+    "codigo": "00170",
+    "etiqueta": "Riesgo de deterioro de la religiosidad",
+    "definicion": "Susceptible a un menor compromiso con creencias, principios y actividades basadas en la fe.",
+    "dominio": "10. Principios de vida",
+    "clase": "Clase 3. Congruencia valor/creencia/acción",
+    "pagina_pdf": 660
+  },
+  {
+    "codigo": "00171",
+    "etiqueta": "Disposición para una religiosidad mejorada",
+    "definicion": "Patrón de compromiso de uno mismo con creencias, principios y actividades de la fe que puede fortalecerse.",
+    "dominio": "10. Principios de vida",
+    "clase": "Clase 3. Congruencia valor/creencia/acción",
+    "pagina_pdf": 661
+  },
+  {
+    "codigo": "00361",
+    "etiqueta": "Respuesta inmune deteriorada",
+    "definicion": "Capacidad debilitada para defenderse de microorganismos extraños o del efecto tóxico de sustancias antigénicas.",
+    "dominio": "11. Seguridad / Protección",
+    "clase": "Clase 1. Infección",
+    "pagina_pdf": 668
+  },
+  {
+    "codigo": "00004",
+    "etiqueta": "Riesgo de infección",
+    "definicion": "Susceptible a la invasión y multiplicación de organismos patógenos.",
+    "dominio": "11. Seguridad / Protección",
+    "clase": "Clase 1. Infección",
+    "pagina_pdf": 670
+  },
+  {
+    "codigo": "00500",
+    "etiqueta": "Riesgo de infección de la herida quirúrgica",
+    "definicion": "Susceptible a la invasión de organismos patógenos en el lugar de la incisión.",
+    "dominio": "11. Seguridad / Protección",
+    "clase": "Clase 1. Infección",
+    "pagina_pdf": 572
+  },
+  {
+    "codigo": "00336",
+    "etiqueta": "Riesgo de lesiones físicas",
+    "definicion": "Susceptible a daños corporales debido a traumas, descargas eléctricas, cambios de presión y/o radiación.",
+    "dominio": "11. Seguridad / Protección",
+    "clase": "Clase 2. Lesión física",
+    "pagina_pdf": 674
+  },
+  {
+    "codigo": "00350",
+    "etiqueta": "Riesgo de sufrir quemaduras",
+    "definicion": "Susceptible a daños en la piel o los tejidos por calor, vapor, productos químicos, electricidad o similares.",
+    "dominio": "11. Seguridad / Protección",
+    "clase": "Clase 2. Lesión física",
+    "pagina_pdf": 676
+  },
+  {
+    "codigo": "00351",
+    "etiqueta": "Riesgo de lesiones por frío",
+    "definicion": "Susceptible a sufrir daños en la piel o los tejidos por las bajas temperaturas ambientales.",
+    "dominio": "11. Seguridad / Protección",
+    "clase": "Clase 2. Lesión física",
+    "pagina_pdf": 677
+  },
+  {
+    "codigo": "00245",
+    "etiqueta": "Riesgo de lesión corneal",
+    "definicion": "Susceptible a daños o traumatismos infligidos a la superficie frontal transparente del ojo por medios externos.",
+    "dominio": "11. Seguridad / Protección",
+    "clase": "Clase 2. Lesión física",
+    "pagina_pdf": 679
+  },
+  {
+    "codigo": "00219",
+    "etiqueta": "Riesgo de ojo seco",
+    "definicion": "Susceptible a una película lagrimal persistentemente inestable y/o deficiente que causa incomodidad y/o deterioro visual.",
+    "dominio": "11. Seguridad / Protección",
+    "clase": "Clase 2. Lesión física",
+    "pagina_pdf": 681
+  },
+  {
+    "codigo": "00087",
+    "etiqueta": "Riesgo de lesión por posicionamiento perioperatorio",
+    "definicion": "Susceptible a sufrir daños corporales involuntarios como resultado de la postura requerida o el equipo de posicionamiento durante un procedimiento invasivo y o quirúrgico.",
+    "dominio": "11. Seguridad / Protección",
+    "clase": "Clase 2. Lesión física",
+    "pagina_pdf": 683
+  },
+  {
+    "codigo": "00287",
+    "etiqueta": "Lesión por presión neonatal",
+    "definicion": "Daño localizado en la piel y/o tejido subyacente de un individuo ≤28 días de vida como resultado de presión o presión en combinación con cizallamiento.*",
+    "dominio": "11. Seguridad / Protección",
+    "clase": "Clase 2. Lesión física",
+    "pagina_pdf": 685
+  },
+  {
+    "codigo": "00288",
+    "etiqueta": "Riesgo de lesión por presión neonatal",
+    "definicion": "Susceptibilidad a daños localizados en la piel y/o tejido subyacente en individuos neonatales como resultado de presión o presión en combinación con cizallamiento.*",
+    "dominio": "11. Seguridad / Protección",
+    "clase": "Clase 2. Lesión física",
+    "pagina_pdf": 687
+  },
+  {
+    "codigo": "00313",
+    "etiqueta": "Lesión por presión en niños",
+    "definicion": "Daño localizado en la piel y/o tejido subyacente en un individuo de 29 días a ≤18 años de edad como resultado de presión o presión en combinación con cizallamiento.*",
+    "dominio": "11. Seguridad / Protección",
+    "clase": "Clase 2. Lesión física",
+    "pagina_pdf": 690
+  },
+  {
+    "codigo": "00286",
+    "etiqueta": "Riesgo de lesión por presión en niños",
+    "definicion": "Susceptibilidad de un individuo de 29 días a ≤18 años de edad a sufrir daño localizado en la piel y/o tejido subyacente como resultado de presión o presión en combinación con cizallamiento.*",
+    "dominio": "11. Seguridad / Protección",
+    "clase": "Clase 2. Lesión física",
+    "pagina_pdf": 693
+  },
+  {
+    "codigo": "00312",
+    "etiqueta": "Úlcera por presión en adultos",
+    "definicion": "Daño localizado en la piel y/o tejido subyacente de un individuo >18 años de edad, como resultado de presión o presión en combinación con cizallamiento.*",
+    "dominio": "11. Seguridad / Protección",
+    "clase": "Clase 2. Lesión física",
+    "pagina_pdf": 697
+  },
+  {
+    "codigo": "00304",
+    "etiqueta": "Riesgo de lesión por presión en adultos",
+    "definicion": "Susceptibilidad de un individuo >18 años de edad a sufrir daños localizados en la piel y/o tejido subyacente, como resultado de presión, o presión en combinación con cizallamiento, que pueden comprometer la salud.*",
+    "dominio": "11. Seguridad / Protección",
+    "clase": "Clase 2. Lesión física",
+    "pagina_pdf": 700
+  },
+  {
+    "codigo": "00250",
+    "etiqueta": "Riesgo de lesión del tracto urinario",
+    "definicion": "Susceptible a daños inadvertidos en las estructuras genitourinarias inferiores.",
+    "dominio": "11. Seguridad / Protección",
+    "clase": "Clase 2. Lesión física",
+    "pagina_pdf": 703
+  },
+  {
+    "codigo": "00044",
+    "etiqueta": "Integridad tisular deteriorada",
+    "definicion": "Daño a la membrana mucosa, córnea, sistema tegumentario, fascia muscular, músculo, tendón, vasos sanguíneos, tejido linfático, hueso, cartílago, cápsula articular y/o ligamento.",
+    "dominio": "11. Seguridad / Protección",
+    "clase": "Clase 2. Lesión física",
+    "pagina_pdf": 704
+  },
+  {
+    "codigo": "00248",
+    "etiqueta": "Riesgo de deterioro de la integridad tisular",
+    "definicion": "Susceptible a daños en la membrana mucosa, córnea, sistema tegumentario, fascia muscular, músculo, tendón, sangre, vasos, tejido linfático, hueso, cartílago, cápsula articular y/o ligamento.",
+    "dominio": "11. Seguridad / Protección",
+    "clase": "Clase 2. Lesión física",
+    "pagina_pdf": 708
+  },
+  {
+    "codigo": "00046",
+    "etiqueta": "Integridad de la piel deteriorada",
+    "definicion": "Daño a la epidermis y/o dermis.",
+    "dominio": "11. Seguridad / Protección",
+    "clase": "Clase 2. Lesión física",
+    "pagina_pdf": 711
+  },
+  {
+    "codigo": "00047",
+    "etiqueta": "Riesgo de deterioro de la integridad de la piel",
+    "definicion": "Susceptible a sufrir daños en la epidermis y/o dermis.",
+    "dominio": "11. Seguridad / Protección",
+    "clase": "Clase 2. Lesión física",
+    "pagina_pdf": 714
+  },
+  {
+    "codigo": "00461",
+    "etiqueta": "Complejo areola-pezón deteriorado",
+    "definicion": "Daño localizado en el área pigmentada de la mama como resultado de humedad excesiva y/o microtraumatismos repetitivos durante la lactancia.",
+    "dominio": "11. Seguridad / Protección",
+    "clase": "Clase 2. Lesión física",
+    "pagina_pdf": 716
+  },
+  {
+    "codigo": "00462",
+    "etiqueta": "Riesgo de deterioro del pezón y la areola",
+    "definicion": "Susceptible a sufrir daños localizados en la zona pigmentada del seno como resultado de una humedad excesiva y/o microtraumatismos repetitivos durante la lactancia.",
+    "dominio": "11. Seguridad / Protección",
+    "clase": "Clase 2. Lesión física",
+    "pagina_pdf": 719
+  },
+  {
+    "codigo": "00045",
+    "etiqueta": "Alteración de la mucosa oral",
+    "definicion": "Daño localizado en los labios, tejido blando, cavidad bucal y/o orofaringe.",
+    "dominio": "11. Seguridad / Protección",
+    "clase": "Clase 2. Lesión física",
+    "pagina_pdf": 721
+  },
+  {
+    "codigo": "00247",
+    "etiqueta": "Riesgo de deterioro de la mucosa oral",
+    "definicion": "Susceptible a daños localizados en los labios, tejidos blandos, cavidad bucal y/o orofaringe.",
+    "dominio": "11. Seguridad / Protección",
+    "clase": "Clase 2. Lesión física",
+    "pagina_pdf": 724
+  },
+  {
+    "codigo": "00306",
+    "etiqueta": "Riesgo de caídas en los niños",
+    "definicion": "Susceptibilidad de un individuo ≤18 años de edad a experimentar un evento que resulte en un aterrizaje inadvertido en el suelo, piso u otra superficie inferior.",
+    "dominio": "11. Seguridad / Protección",
+    "clase": "Clase 2. Lesión física",
+    "pagina_pdf": 726
+  },
+  {
+    "codigo": "00303",
+    "etiqueta": "Riesgo de caídas en adultos",
+    "definicion": "Susceptibilidad de un individuo >18 años de edad a experimentar un evento que resulte en un aterrizaje inadvertido en el suelo, piso u otra superficie inferior.",
+    "dominio": "11. Seguridad / Protección",
+    "clase": "Clase 2. Lesión física",
+    "pagina_pdf": 729
+  },
+  {
+    "codigo": "00039",
+    "etiqueta": "Riesgo de aspiración",
+    "definicion": "Susceptible a la entrada de secreciones gastrointestinales, secreciones orofaríngeas, sólidos o líquidos a los conductos traqueobronquiales.",
+    "dominio": "11. Seguridad / Protección",
+    "clase": "Clase 2. Lesión física",
+    "pagina_pdf": 732
+  },
+  {
+    "codigo": "00031",
+    "etiqueta": "Limpieza ineficaz de las vías respiratorias",
+    "definicion": "Capacidad reducida para eliminar secreciones u obstrucciones del tracto respiratorio para mantener el flujo de aire.",
+    "dominio": "11. Seguridad / Protección",
+    "clase": "Clase 2. Lesión física",
+    "pagina_pdf": 734
+  },
+  {
+    "codigo": "00463",
+    "etiqueta": "Riesgo de asfixia accidental",
+    "definicion": "Susceptible a la disponibilidad inadecuada de oxígeno.",
+    "dominio": "11. Seguridad / Protección",
+    "clase": "Clase 2. Lesión física",
+    "pagina_pdf": 736
+  },
+  {
+    "codigo": "00374",
+    "etiqueta": "Riesgo de sangrado excesivo",
+    "definicion": "Susceptible a pérdida significativa de sangre.",
+    "dominio": "11. Seguridad / Protección",
+    "clase": "Clase 2. Lesión física",
+    "pagina_pdf": 739
+  },
+  {
+    "codigo": "00205",
+    "etiqueta": "Riesgo de shock",
+    "definicion": "Susceptible a una condición que se manifiesta por la falta de perfusión u oxigenación de órganos vitales.",
+    "dominio": "11. Seguridad / Protección",
+    "clase": "Clase 2. Lesión física",
+    "pagina_pdf": 740
+  },
+  {
+    "codigo": "00291",
+    "etiqueta": "Riesgo de trombosis",
+    "definicion": "Susceptible a la obstrucción de un vaso sanguíneo por un coágulo de sangre que puede desprenderse y alojarse en otro vaso.",
+    "dominio": "11. Seguridad / Protección",
+    "clase": "Clase 2. Lesión física",
+    "pagina_pdf": 742
+  },
+  {
+    "codigo": "00425",
+    "etiqueta": "Riesgo de deterioro de la función neurovascular periférica",
+    "definicion": "Susceptible a alteraciones en la circulación, la sensación y el movimiento de una extremidad.",
+    "dominio": "11. Seguridad / Protección",
+    "clase": "Clase 2. Lesión física",
+    "pagina_pdf": 744
+  },
+  {
+    "codigo": "00156",
+    "etiqueta": "Riesgo de muerte súbita infantil",
+    "definicion": "Susceptible de muerte abrupta e inexplicable en niños aparentemente sanos menores de un año de edad.",
+    "dominio": "11. Seguridad / Protección",
+    "clase": "Clase 2. Lesión física",
+    "pagina_pdf": 746
+  },
+  {
+    "codigo": "00290",
+    "etiqueta": "Riesgo de intento de fuga",
+    "definicion": "Susceptible de abandonar el área designada sin supervisión, sin ser detectado y/o en contra de las recomendaciones, en individuos que son incapaces de protegerse adecuadamente o que pueden representar una amenaza para otros.",
+    "dominio": "11. Seguridad / Protección",
+    "clase": "Clase 2. Lesión física",
+    "pagina_pdf": 747
+  },
+  {
+    "codigo": "00138",
+    "etiqueta": "Riesgo de violencia dirigida hacia otros",
+    "definicion": "Susceptible de comportarse de manera física, emocional y/o sexualmente dañina hacia otra persona.",
+    "dominio": "11. Seguridad / Protección",
+    "clase": "Clase 3. Violencia",
+    "pagina_pdf": 749
+  },
+  {
+    "codigo": "00272",
+    "etiqueta": "Susceptible de extirpación parcial o total u otra lesión de los órganos reproductores externos femeninos, por razones no médicas.",
+    "dominio": "11. Seguridad / Protección",
+    "clase": "Clase 3. Violencia",
+    "pagina_pdf": 750
+  },
+  {
+    "codigo": "00466",
+    "etiqueta": "Riesgo de conducta autolesiva suicida",
+    "definicion": "Susceptible de actuar de manera dañina contra sí mismo, asociado a una intención de morir.",
+    "dominio": "11. Seguridad / Protección",
+    "clase": "Clase 3. Violencia",
+    "pagina_pdf": 752
+  },
+  {
+    "codigo": "00467",
+    "etiqueta": "Conducta autolesiva no suicida",
+    "definicion": "Daño deliberado y autoinfligido a uno mismo sin motivo de suicidio o desviación sexual y con fines que no están socialmente sancionados.",
+    "dominio": "11. Seguridad / Protección",
+    "clase": "Clase 3. Violencia",
+    "pagina_pdf": 756
+  },
+  {
+    "codigo": "00468",
+    "etiqueta": "Riesgo de autolesión no suicida",
+    "definicion": "Susceptible de daño deliberado y autoinfligido a sí mismo sin motivo de suicidio o desviación sexual y con fines que no están socialmente sancionados.",
+    "dominio": "11. Seguridad / Protección",
+    "clase": "Clase 3. Violencia",
+    "pagina_pdf": 760
+  },
+  {
+    "codigo": "00181",
+    "etiqueta": "Riesgo de deterioro periférico de la función neurovascular",
+    "definicion": "Exposición a sustancias nocivas en el medio ambiente en niveles capaces de causar efectos adversos para la salud.",
+    "dominio": "11. Seguridad / Protección",
+    "clase": "Clase 4. Peligros ambientales",
+    "pagina_pdf": 763
+  },
+  {
+    "codigo": "00180",
+    "etiqueta": "Riesgo de violencia autoinfligida dirigida hacia sí mismo",
+    "definicion": "Susceptible a la exposición a sustancias nocivas en el medio ambiente en niveles capaces de causar efectos adversos para la salud.",
+    "dominio": "11. Seguridad / Protección",
+    "clase": "Clase 4. Peligros ambientales",
+    "pagina_pdf": 767
+  },
+  {
+    "codigo": "00469",
+    "etiqueta": "Riesgo de envenenamiento accidental",
+    "definicion": "Susceptible a la ingestión, inyección, inhalación o exposición inesperada a sustancias nocivas.",
+    "dominio": "11. Seguridad / Protección",
+    "clase": "Clase 5. Procesos defensivos",
+    "pagina_pdf": 769
+  },
+  {
+    "codigo": "00404",
+    "etiqueta": "Riesgo de enfermedad profesional",
+    "definicion": "Susceptible a una condición o trastorno relacionado con el trabajo que resulta de un evento o exposición no instantáneo.",
+    "dominio": "11. Seguridad / Protección",
+    "clase": "Clase 5. Procesos defensivos",
+    "pagina_pdf": 771
+  },
+  {
+    "codigo": "00402",
+    "etiqueta": "Riesgo de lesiones físicas laborales",
+    "definicion": "Susceptible a sufrir daños corporales relacionados con el trabajo.",
+    "dominio": "11. Seguridad / Protección",
+    "clase": "Clase 5. Procesos defensivos",
+    "pagina_pdf": 773
+  },
+  {
+    "codigo": "00217",
+    "etiqueta": "Riesgo de reacción alérgica",
+    "definicion": "Susceptible a una respuesta inmune excesiva a los alérgenos.",
+    "dominio": "11. Seguridad / Protección",
+    "clase": "Clase 6. Termorregulación",
+    "pagina_pdf": 775
+  },
+  {
+    "codigo": "00042",
+    "etiqueta": "Riesgo de reacción alérgica al látex",
+    "definicion": "Susceptible a una respuesta inmune excesiva a los productos de caucho de látex natural o a los alimentos reactivos al látex.",
+    "dominio": "11. Seguridad / Protección",
+    "clase": "Clase 6. Termorregulación",
+    "pagina_pdf": 776
+  },
+  {
+    "codigo": "00008",
+    "etiqueta": "Termorregulación ineficaz",
+    "definicion": "Incapacidad para mantener o regular la temperatura corporal dentro de un rango normal.",
+    "dominio": "11. Seguridad / Protección",
+    "clase": "Clase 6. Termorregulación",
+    "pagina_pdf": 778
+  },
+  {
+    "codigo": "00274",
+    "etiqueta": "Riesgo de termorregulación ineficaz",
+    "definicion": "Susceptible a la incapacidad de mantener o regular la temperatura corporal dentro de un rango normal.",
+    "dominio": "11. Seguridad / Protección",
+    "clase": "Clase 6. Termorregulación",
+    "pagina_pdf": 780
+  },
+  {
+    "codigo": "00474",
+    "etiqueta": "Disminución de la temperatura corporal neonatal",
+    "definicion": "Caída involuntaria del estado térmico por debajo del rango diurno normal en individuos de hasta 28 días de vida.",
+    "dominio": "11. Seguridad / Protección",
+    "clase": "Clase 6. Termorregulación",
+    "pagina_pdf": 781
+  },
+  {
+    "codigo": "00476",
+    "etiqueta": "Riesgo de disminución de la temperatura corporal",
+    "definicion": "Susceptible a una caída involuntaria del estado térmico por debajo del rango diurno normal en individuos de hasta 28 días de vida.",
+    "dominio": "11. Seguridad / Protección",
+    "clase": "Clase 6. Termorregulación",
+    "pagina_pdf": 784
+  },
+  {
+    "codigo": "00472",
+    "etiqueta": "Disminución de la temperatura corporal",
+    "definicion": "Caída involuntaria del estado térmico por debajo del rango diurno normal en individuos de hasta 28 días de vida.",
+    "dominio": "11. Seguridad / Protección",
+    "clase": "Clase 6. Termorregulación",
+    "pagina_pdf": 786
+  },
+  {
+    "codigo": "00473",
+    "etiqueta": "Riesgo de disminución de la temperatura corporal",
+    "definicion": "SSusceptible a una disminución involuntaria del estado térmico interno por debajo del rango diurno normal en individuos >28 días de vida.",
+    "dominio": "11. Seguridad / Protección",
+    "clase": "Clase 6. Termorregulación",
+    "pagina_pdf": 789
+  },
+  {
+    "codigo": "00490",
+    "etiqueta": "Riesgo de disminución del volumen corporal perioperatorio",
+    "definicion": "Susceptible a una caída inadvertida de la temperatura corporal central por debajo de 36 ºC / 96,8 ºF que ocurre una hora antes o 24 horas después de la cirugía.",
+    "dominio": "11. Seguridad / Protección",
+    "clase": "Clase 6. Termorregulación",
+    "pagina_pdf": 791
+  },
+  {
+    "codigo": "00007",
+    "etiqueta": "Hipertermia",
+    "definicion": "Elevación anormal de la temperatura corporal, generalmente como resultado de la incapacidad de regular la temperatura corporal central debido a factores no patológicos.",
+    "dominio": "11. Seguridad / Protección",
+    "clase": "Clase 6. Termorregulación",
+    "pagina_pdf": 793
+  },
+  {
+    "codigo": "00471",
+    "etiqueta": "Riesgo de hipertermia",
+    "definicion": "Susceptible a una elevación anormal de la temperatura corporal, generalmente como resultado de la incapacidad de regular la temperatura corporal central debido a factores no patológicos.",
+    "clase": "Clase 6. Termorregulación",
+    "pagina_pdf": 796
+  },
+  {
+    "codigo": "00380",
+    "etiqueta": "Confort físico deteriorado",
+    "definicion": "Falta percibida de comodidad, satisfacción y bienestar corporal.",
+    "dominio": "Dominio 12. Comodidad",
+    "clase": "Clase 1. Comodidad física",
+    "pagina_pdf": 801
+  },
+  {
+    "codigo": "00378",
+    "etiqueta": "Disposición para una mayor comodidad física",
+    "definicion": "Patrón de tranquilidad, satisfacción y bienestar corporal, que puede fortalecerse.",
+    "dominio": "Dominio 12. Comodidad",
+    "clase": "Clase 1. Comodidad física",
+    "pagina_pdf": 803
+  },
+  {
+    "codigo": "00342",
+    "etiqueta": "Síndrome de confort al final de la vida deteriorado",
+    "definicion": "Deterioro de un conjunto de manifestaciones físicas, psicológicas, sociales y espirituales debido a la inminencia de la muerte.",
+    "dominio": "Dominio 12. Comodidad",
+    "clase": "Clase 1. Comodidad física",
+    "pagina_pdf": 804
+  },
+  {
+    "codigo": "00132",
+    "etiqueta": "Dolor agudo",
+    "definicion": "Experiencia sensorial y emocional desagradable asociada con, o similar a la asociada con, un daño tisular real o potencial, con una duración de menos de 3 meses.",
+    "dominio": "Dominio 12. Comodidad",
+    "clase": "Clase 1. Comodidad física",
+    "pagina_pdf": 806
+  },
+  {
+    "codigo": "00255",
+    "etiqueta": "Síndrome de dolor crónico",
+    "definicion": "Dolor recurrente o persistente que ha durado al menos 3 meses y que afecta significativamente el funcionamiento diario o el bienestar.",
+    "dominio": "Dominio 12. Comodidad",
+    "clase": "Clase 1. Comodidad física",
+    "pagina_pdf": 807
+  },
+  {
+    "codigo": "00133",
+    "etiqueta": "Dolor crónico",
+    "definicion": "Experiencia sensorial y emocional desagradable asociada con, o similar a la asociada con, un daño tisular real o potencial, con una duración de más de 3 meses.",
+    "dominio": "Dominio 12. Comodidad",
+    "clase": "Clase 1. Comodidad física",
+    "pagina_pdf": 809
+  },
+  {
+    "codigo": "00256",
+    "etiqueta": "Dolor de parto",
+    "definicion": "Experiencia sensorial y emocional que varía de placentera a desagradable, asociada con el parto y el nacimiento.",
+    "dominio": "Dominio 12. Comodidad",
+    "clase": "Clase 1. Comodidad física",
+    "pagina_pdf": 811
+  },
+  {
+    "codigo": "00376",
+    "etiqueta": "Disposición para una mayor comodidad social",
+    "definicion": "Patrón de tranquilidad, satisfacción y bienestar relacional, que puede fortalecerse.",
+    "dominio": "Dominio 12. Comodidad",
+    "clase": "Clase 3. Confort social",
+    "pagina_pdf": 814
+  },
+  {
+    "codigo": "00383",
+    "etiqueta": "Conectividad social inadecuada",
+    "definicion": "Sentimiento de no pertenecer, de no sentirse cuidado o empoderado dentro de un contexto determinado.",
+    "dominio": "Dominio 12. Comodidad",
+    "clase": "Clase 3. Confort social",
+    "pagina_pdf": 815
+  },
+  {
+    "codigo": "00358",
+    "etiqueta": "Red de apoyo social inadecuada",
+    "definicion": "Interacciones interpersonales y organizacionales que se perciben como insatisfactorias para satisfacer las necesidades de salud.",
+    "dominio": "Dominio 12. Comodidad",
+    "clase": "Clase 3. Confort social",
+    "pagina_pdf": 817
+  },
+  {
+    "codigo": "00475",
+    "etiqueta": "Soledad excesiva",
+    "definicion": "Sensación abrumadora de tristeza, abatimiento o malestar asociado con la falta de compañía o estar separado de otros.",
+    "dominio": "Dominio 12. Comodidad",
+    "clase": "Clase 3. Confort social",
+    "pagina_pdf": 819
+  },
+  {
+    "codigo": "00335",
+    "etiqueta": "Riesgo de soledad excesiva",
+    "definicion": "Susceptible a un sentimiento abrumador de tristeza, abatimiento o incomodidad asociado con la falta de compañía o estar separado de otros.",
+    "dominio": "Dominio 12. Comodidad",
+    "clase": "Clase 3. Confort social",
+    "pagina_pdf": 821
+  },
+  {
+    "codigo": "00379",
+    "etiqueta": "Confort psicológico deteriorado",
+    "definicion": "Falta percibida de tranquilidad, satisfacción y bienestar mental.",
+    "dominio": "Dominio 12. Comodidad",
+    "clase": "Clase 4. Confort psicológico",
+    "pagina_pdf": 823
+  },
+  {
+    "codigo": "00377",
+    "etiqueta": "Disposición para un mayor confort psicológico",
+    "definicion": "Patrón de tranquilidad, satisfacción y bienestar mental, que puede fortalecerse.",
+    "dominio": "Dominio 12. Comodidad",
+    "clase": "Clase 4. Confort psicológico",
+    "pagina_pdf": 825
+  },
+  {
+    "codigo": "00348",
+    "etiqueta": "Retraso en el crecimiento infantil",
+    "definicion": "Altura, longitud, índice de masa corporal, circunferencia de la cabeza y/o velocidad de crecimiento (cm/año) inadecuados para el sexo, la edad y la etnia de un individuo ≤ 18 años de edad.",
+    "dominio": "Dominio 13. Crecimiento / desarrollo",
+    "clase": "Clase 1. Crecimiento.",
+    "pagina_pdf": 827
+  },
+  {
+    "codigo": "00478",
+    "etiqueta": "Riesgo de retraso en el crecimiento infantil",
+    "definicion": "Susceptible a altura, longitud, índice de masa corporal, circunferencia de la cabeza y/o velocidad de crecimiento inadecuados para el sexo, la edad y la etnia de un individuo ≤ 18 años de edad.",
+    "dominio": "Dominio 13. Crecimiento / desarrollo",
+    "clase": "Clase 1. Crecimiento.",
+    "pagina_pdf": 830
+  },
+  {
+    "codigo": "00314",
+    "etiqueta": "Retraso en el desarrollo infantil",
+    "definicion": "Fracaso constante en alcanzar los hitos del desarrollo dentro del marco temporal esperado, en individuos de 1 a 9 años de edad.",
+    "dominio": "Dominio 13. Crecimiento / desarrollo",
+    "clase": "Clase 2. Desarrollo",
+    "pagina_pdf": 831
+  },
+  {
+    "codigo": "00305",
+    "etiqueta": "Riesgo de retraso en el desarrollo infantil",
+    "definicion": "Susceptible a un fracaso constante en alcanzar los hitos del desarrollo dentro del marco temporal esperado, en individuos de 1 a 9 años de edad.",
+    "dominio": "Dominio 13. Crecimiento / desarrollo",
+    "clase": "Clase 2. Desarrollo",
+    "pagina_pdf": 834
+  },
+  {
+    "codigo": "00315",
+    "etiqueta": "Retraso en el desarrollo motor infantil",
+    "definicion": "Incumplimiento constante en el logro de los hitos del desarrollo relacionados con el fortalecimiento normal de los huesos, los músculos y la capacidad de moverse y tocar el entorno en un individuo de 29 días a 1 año de edad.",
+    "dominio": "Dominio 13. Crecimiento / desarrollo",
+    "clase": "Clase 2. Desarrollo",    
+    "pagina_pdf": 836
+  },
+  {
+    "codigo": "00316",
+    "etiqueta": "Riesgo de retraso en el desarrollo motor infantil",
+    "definicion": "Susceptible a un fracaso constante en el logro de los hitos del desarrollo relacionados con el fortalecimiento normal de los huesos, los músculos y la capacidad de moverse y tocar el entorno en un individuo de 29 días a 1 año de edad.",
+    "dominio": "Dominio 13. Crecimiento / desarrollo",
+    "clase": "Clase 2. Desarrollo",    
+    "pagina_pdf": 838
+  },
+  {
+    "codigo": "00451",
+    "etiqueta": "Organización del desarrollo neurológico infantil deteriorada",
+    "definicion": "Disminución de la coordinación de las habilidades cognitivas, motoras y sensoriales, que puede provocar retrasos en el logro de los hitos del desarrollo en individuos menores de 1 año de edad.",
+    "dominio": "Dominio 13. Crecimiento / desarrollo",
+    "clase": "Clase 2. Desarrollo",
+    "pagina_pdf": 841
+  },
+  {
+    "codigo": "00452",
+    "etiqueta": "Riesgo de deterioro de la organización del neurodesarrollo infantil",
+    "definicion": "Susceptible a una disminución de la coordinación de las habilidades cognitivas, motoras y sensoriales, lo que puede conducir a retrasos en el logro de los hitos del desarrollo en individuos ≤ 1 año de edad.",
+    "dominio": "Dominio 13. Crecimiento / desarrollo",
+    "clase": "Clase 2. Desarrollo",
+    "pagina_pdf": 844
+  },
+  {
+    "codigo": "00453",
+    "etiqueta": "Preparación para una mejor organización del desarrollo neurológico infantil",
+    "definicion": "Patrón de coordinación de las habilidades cognitivas, motoras y sensoriales necesarias para alcanzar los hitos del desarrollo en un individuo < 1 año de edad, que pueden fortalecerse.",
+    "dominio": "Dominio 13. Crecimiento / desarrollo",
+    "clase": "Clase 2. Desarrollo",
+    "pagina_pdf": 846
+  },
+  {
+    "codigo": "00295",
+    "etiqueta": "Respuesta ineficaz de succión-deglución del lactante",
+    "definicion": "Deterioro de la capacidad para coordinar la respiración durante el consumo seguro de alimentos por vía oral en un individuo ≤ 1 año de edad.",
+    "dominio": "Dominio 13. Crecimiento / desarrollo",
+    "clase": "Clase 2. Desarrollo",    
+    "pagina_pdf": 847
+  }
+]
